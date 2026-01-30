@@ -1,0 +1,83 @@
+Avisos meteorológicos AEMET: conocerlos para prevenir y evitar daños
+
+Actuar a tiempo en una situación de riesgo puede minimizar las consecuencias de un fenómeno meteorológico potencialmente adverso e incluso llegar a salvar vidas. Pero, ¿sabes interpretar correctamente un aviso de la AEMET? ¿Y la diferencia entre un aviso y una alerta meteorológica? En este artículo te explicamos cómo hacerlo.
+
+¿Qué son los avisos meteorológicos?
+
+En primer lugar, conviene definir qué se entiende por fenómeno meteorológico adverso (FMA). Según la definición de la Agencia Estatal de Meteorología (AEMET), el concepto hace referencia a todo evento meteorológico capaz de producir, directa o indirectamente, daños a las personas y los bienes y que, por tanto, puede producir impactos.
+
+Se denomina aviso a la predicción asociada a la probabilidad de que ocurra un fenómeno meteorológico adverso (lluvias, nevadas, vientos, tormentas, temperaturas máximas y mínimas, fenómenos costeros, etc.) en una zona determinada.
+
+La AEMET es la agencia responsable de la observación y la elaboración de predicciones meteorológicas en España. Y, por tanto, de la elaboración de estos avisos, que se dividen en tres niveles en función de su peligrosidad, siguiendo los estándares europeos. Cada uno de ellos lleva asociada una recomendación.
+
+¿Qué tipos de avisos meteorológicos existen?
+
+Aviso amarillo: indica que el peligro es bajo. Se recomienda atender a la predicción meteorológica y seguir las actualizaciones, especialmente si se realizan actividades al aire libre.
+
+Aviso naranja: indica que el peligro es importante. Los bienes y la población vulnerables o en zonas expuestas podrían sufrir impactos graves. En estas situaciones, la AEMET recomienda limitar actividades no esenciales y prestar especial atención a las recomendaciones de las autoridades locales.
+
+Aviso rojo: indica que el peligro es extraordinario. Los daños podrían ser muy graves o catastróficos. En estos casos es imprescindible informarse en tiempo real, seguir las indicaciones de las autoridades, evitar desplazamientos no urgentes y extremar las precauciones.
+
+Estos niveles básicos de aviso pueden verse complementados por avisos especiales. Esto sucede, por ejemplo, cuando coinciden varios fenómenos meteorológicos adversos o si estos destacan por su intensidad o duración, como en olas de calor y frío o en tormentas tropicales. En estos casos, se pide a la población que preste una atención muy especial a la evolución meteorológica.
+
+Alertas de protección civil
+
+La AEMET alerta de la posible llegada de estos fenómenos meteorológicos adversos con hasta 72 horas de antelación y su información está, de forma automática y actualizada, siempre a disposición de la ciudadanía en general, pero, muy especialmente, de las autoridades competentes en materia de emergencia y protección civil, dependientes de las administraciones autonómicas. Estasson las encargadas de evaluar el peligro y las posibles afecciones de los avisos sobre la población y el entorno, así como de enviar las alertas y adoptar las medidas de protección más adecuadas en cada caso.
+
+La evaluación del análisis del riesgo de un aviso se debe adaptar a múltiples factores: territoriales, urbanísticos, orográficos, etc. Por eso, son las administraciones autonómicas las competentes, por su cercanía y conocimiento del territorio. Por ejemplo, una nevada o una tormenta no representa el mismo riesgo en una zona de alta montaña o en el centro de un área metropolitana, aunque el aviso meteorológico sea el mismo. En consecuencia, las medidas adoptadas por protección civil serán diferentes.
+
+¿Qué competencias tiene cada administración?
+
+En líneas generales, corresponde al Estado, a través de la AEMET (adscrita al Ministerio para la Transición Ecológica y el Reto Demográfico a través de la Secretaría de Estado de Medio Ambiente), avisar sobre la llegada de posibles fenómenos meteorológicos adversos.
+
+Por su parte, es competencia de las comunidades autónomas, mediante sus autoridades de protección civil, alertar a la población en casos de inundaciones, incendios o catástrofes. Asimismo, son las responsables de elaborar planes territoriales de emergencia y de activar los protocolos cuando ocurre una crisis.
+
+En incendios forestales, también corresponde a las autonomías la prevención, planificación y extinción del fuego, aunque el Estado puede apoyar en situaciones críticas.
+
+En el caso de inundaciones o danas, las comunidades autónomas elaboran planes de acción territorial y de protección civil, mientras que el Estado se encarga de la gestión de los grandes ríos intercomunitarios a través de las confederaciones hidrográficas, adscritas al Ministerio para la Transición Ecológica y el Reto Demográfico, que informan en tiempo real a las autoridades autonómicas para anticipar inundaciones. En el caso de cuencas intracomunitarias, la competencia es de las comunidades autónomas y, en tramos urbanos, de los ayuntamientos.
+
+¿Cómo llega un aviso a la ciudadanía? El sistema ES-Alert
+
+En 2022, la Unión Europea estableció una normativa que exige a todos los países miembros implementar un sistema de alertas basado en redes móviles. En España se estableció en 2023 el sistema ES-Alert, que envía notificaciones a todos los dispositivos móviles en áreas de riesgo para alertar a la ciudadanía en caso de emergencia.
+
+Las alertas se transmiten a través de las antenas de red y aparecen como notificaciones destacadas en la pantalla del móvil. En el caso español, ES-Alert llega a más del 90% de la población gracias al uso de las redes 4G y 5G.
+
+Existen tres niveles de alertas de protección civil:
+
+Nivel 1: estas alertas son automáticas y están activadas por defecto en todos los dispositivos compatibles, por lo que no requieren configuración del usuario ni pueden ser desactivadas.
+
+Nivel 2: estas alertas sí requieren activación manual. Según el Ministerio del Interior, este nivel no se utiliza actualmente en España.
+
+Nivel 3: se utilizan en casos excepcionales como el secuestro de menores, alertas de salud pública o incidentes de seguridad pública. En España tampoco se utilizan.
+
+Las alertas que afectan a España son únicamente las de nivel 1. Están activadas por defecto en los dispositivos móviles, pero se recomienda mantenerlos actualizados según la última versión.
+
+Informarse a través de fuentes oficiales
+
+Tan importante es saber interpretar avisos y alertas meteorológicas, como dónde informarse. Siempre ha de hacerse a través de fuentes y canales oficiales.
+
+En los siguientes enlaces se recogen algunos de los principales:
+
+Web y redes sociales de AEMET
+
+- Agencia Estatal de Meteorología - AEMET. Gobierno de España
+
+- AEMET en X - Agencia Estatal de Meteorología - AEMET. Gobierno de España
+
+- AEMET en Instagram - Agencia Estatal de Meteorología - AEMET. Gobierno de España
+
+- AEMET en Facebook - Agencia Estatal de Meteorología - AEMET. Gobierno de España
+
+Web y redes sociales de Ministerio para la Transición Ecológica y el Reto Demográfico
+
+- Ministerio para la Transición Ecológica y el Reto Demográfico
+
+- Ministerio en X
+
+- Ministerio en Instagram
+
+- Ministerio en Facebook
+
+Web y redes sociales de los servicios de protección civil de las Comunidades Autónomas
+
+- Protección Civil en las CC.AA. - DGPCyE

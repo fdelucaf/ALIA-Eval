@@ -1,0 +1,87 @@
+V16 baliza konektatua: zer da, zertarako balio du eta noiz izango da derrigorrezkoa?
+
+V16 baliza konektatua errepideko matxurak eta istripuak seinaleztatzeko gailu homologatua da, nahitaez erabili beharrekoa, eta triangeluak ordezkatuko ditu 2026ko urtarrilaren 1etik aurrera.
+
+Lehen Ministro Kontseiluak, 2021eko martxoaren 16ko bileran, errege-dekretu bat onartu zuen bide publikoetako laguntza-zerbitzuak arautzeko, eta, berritasun nagusi gisa, hau jasotzen zuen: matxura edo istripu baten ondoren ibilgetuta dagoen ibilgailuaren aurrean eta atzean jartzen diren bi triangeluen ordez, ibilgailuaren goialdean gailu argitsu bat jartzea. Arauak 2026ko urtarrilaren 1etik aurrera ezarri zuen derrigortasuna.
+
+Estatuko Aldizkari Ofizialak beste errege-dekretu bat argitaratu zuen 2022ko abenduaren 20an, araudi hori aldatzen eta osatzen duena, batez ere alderdi teknikoei, ziurtagiriei eta gailuen (balizen) konektagarritasunari dagokienez.
+
+Gidariek triangeluak zein balizak erabili ahal izan dituzte orain arte, konexioarekin edo konexiorik gabe. Hala ere, 2026ko urtarrilaren 1etik aurrera, DGT 3.0 plataformara konektatutako V16 gailuak bakarrik izango dira legezkoak.
+
+Zer da V16 baliza konektatua?
+
+Baliza txiki hori bat da, konektibitatez hornitua, eta intentsitate handiko 360º-ko argia aldizka eta modu jarraituan igortzeko gai da, gutxienez 30 minutuz. Pila edo bateria bat dauka, gutxienez 18 hilabeteko balio-bizitza daukana, berriz kargatu daitekeen ala ez alde batera utzita.
+
+Zein da V16 balizaren helburua?
+
+Triangeluak jartzeko matxuraren bat duten gidariek beren ibilgailuetatik jaitsi eta galtzadatik edo bazterbidetik ibili behar izan dezaten saihestea. Urtero 25 pertsona inguru hiltzen dira Espainian auto batek harrapatuta, triangeluak jartzen saiatzen diren bitartean.
+
+Gidarien eta bidaiarien babesa areagotzea, konektibitateak matxuratutako ibilgailuen argi-ikuspena eta ikuspen birtuala ahalbidetzen baititu. Izan ere, inguru horretan dabiltzan gainerako gidariek abisu bat jasotzen dute nabigatzaileen, mugikortasun-aplikazioen eta mezu aldakorreko panelen bidez, galtzadan ibilgailu bat geldituta dagoela esanez.
+
+Zein ibilgailuk eraman behar dute nahitaez?
+
+Turismoek, furgonetek, autobusek, ibilgailu misto moldagarriek, kamioiek eta bereziak ez diren ibilgailu-taldeek derrigorrean eraman behar dute. Motozikleten kasuan, ez da derrigorrezkoa, baina segurtasun-arrazoiengatik gomendagarria da.
+
+Baliza gordetegian gorde behar da, kargatuta, edo, bestela, ibilgailuaren barruan, erraz iristeko beste lekuren batean.
+
+Nola jartzen da V16 baliza konektatua?
+
+Ibilgailua errepidean edo bazterbidean ibilgetu ondoren, gidariak baliza piztu eta barrutik autoaren sabaian jarri behar du eta, posible ez balitz, autobus eta kamioien kasuan bezala, bere atean koka dezake. Ibilgailuko larrialdiko argiak ere aktibatu behar dira.
+
+V16 balizak iman indartsu bat izaten du, gainazal metalikoei itsasteko aukera ematen diona. Ibilgailuak aluminiozko karrozeria edo kristalezko sabaia badu, baliteke altzairuzko gainazaletan bezain indartsu ez itsastea.
+
+Zer egin behar du gidariak baliza aktibatu ondoren?
+
+Ibilgailua ibilgetu eta balizak aktibatu ondoren, gidariak eta bidaiariek ibilgailua segurtasun-baldintzetan uztea posible den ala ez baloratu beharko dute.
+
+Zirkulazioko Erregelamendu Orokorrak arau orokor gisa xedatzen du ibilgailua utzi beharko dutela, baldin eta zirkulazio-plataformatik kanpo leku segururik badago. Zirkulazio-fluxuaren kontrako aldetik irten beharko dute autotik, ibili gabe edo plataforma osatzen duten errei edo bazterbideetan egon gabe. Zirkulazio-baldintzen ondorioz bidaiariek ezin badute ibilgailua segurtasunez utzi, barruan egongo dira, gerrikoa lotuta daukatela.
+
+Nola funtzionatzen du V16 baliza konektatuak? Aplikazio bat edo mugikor bat behar dut?
+
+Aktibatu ondoren, balizak argi-seinale bat igortzen du, eta automatikoki transmititzen du matxuratutako ibilgailuaren kokapen zehatza DGT 3.0 plataformara.
+
+Gailuak GPS txip bat eta atera ezin den SIM txartel bat ditu barnean, eta haiek arduratzen dira konexioa egiteaz. Piztu besterik ez dago. Ez da beharrezkoa telefono mugikorra erabiltzea, ezta aplikaziorik ere.
+
+Telefono-konpainiek ez diete partikularrei inolako zenbatekorik kobratuko konektibitate-zerbitzuagatik; izan ere, legeriak agintzen duenez, konektibitatea gutxienez 12 urtez egongo da eskuragarri, eta haren kostua V16 gailuaren salmenta-prezioan dago aurreikusita.
+
+Zer elikadura-iturri erabiltzen du eta zenbat irauten du bateriak?
+
+V16 balizak modeloaren arabera aldatzen den barne-elikadurako iturri bati esker funtzionatzen du. Gailu batzuek berriz kargatu ezin diren pila alkalinoak dituzte, eta beste batzuek, berriz, USB bidez karga daitezkeen litiozko bateriak. Kasu guztietan, gutxienez 30 minutuko funtzionamendu jarraitua bermatu behar dute aktibazioaren ondoren. Era berean, gutxienez 18 hilabeteko autonomia izan behar dute, atsedenean.
+
+Zein distantziatara ikusten da baliza konektatua?
+
+Baldintza ezin hobeetan, baliza 1.000 metroko distantziatik ikusten da. Baliza trafikoa kudeatzeko zentroei konektatuta dagoenez, gune horretan dabiltzan gainerako ibilgailuei istripuaren edo matxuraren berri emango diete, nabigatzaileen, mugikortasun-aplikazioen edo ontziko ordenagailuen bidez. Teknologia hori ez duten auto zaharretako gidariek errepideetan dauden mezu aldakorreko panelen bidez jaso ahal izango dute informazioa.
+
+Istripua edo matxura tunel baten barruan gertatzen bada, gailuak DGTra bidaliko du seinalea?
+
+Bai. V16 balizak estaldura konbentzionalik gabeko baldintzetan ere funtzionatzen du, IoT komunikazio-sare espezializatuen bidezko konexioari esker. Sare horiek ere eskuragarri ez dauden kasuetan, balizak ikusizko seinale gisa funtzionatzen jarraituko du eta datuak gordeko ditu konexioa berrezartzen denean bidaltzeko.
+
+Jakinarazten al die balizak larrialdi-zerbitzuei edo garabiari?
+
+V16 konektatua ez da larrialdi-zerbitzuei eta garabiari abisatzeko sistema. Ibilgailuaren kokapen zehatza seinaleztatzea eta transmititzea da haren funtzioa, bide-ezbeharrak saihesteko. Gidariak edo bidaiariek jakinarazi beharko diote larrialdi-zerbitzuari, behar izanez gero, edo aseguru-etxearen laguntza-zerbitzuari.
+
+Transmititzen al ditu V16 balizak nire datu pertsonalak?
+
+Ez. Erabiltzaileak aktibatzen badu soilik funtzionatzen du balizak, eta ez ditu gidariaren datu pertsonalak transmititzen, ez du abiadura erregistratzen eta ezin du autoaren matrikula identifikatu. Ez dago pertsona bati, telefono-zenbaki bati edo matrikula bati lotuta. Ibilgailu berriek ez dute baliza jarrita edukiko. Gainera, ez da beharrezkoa inolako daturik ematea edo gailuari alta ematea. DGTk ez du inolako daturik eskatzen.
+
+Zer V16 baliza-modelo erosiko dut?
+
+IDIADAk edo LCOEk homologatuta eta ziurtatuta egon behar dute balizek; hain zuzen ere, modeloek araudia betetzen dutela berresten duten laborategi tekniko baimenduek. Merkatuan V16 baliza konektatuen berrehun modelo baino gehiago daude, hainbat preziotan salgai. Baliza konektatu guztiak ez daude homologatuta, eta, beraz, marka eta modelo ziurtatuen zerrenda eguneratua kontsultatzea gomendatzen dugu, DGTren webgunean.
+
+Oraindik ere erabil daitezke konektatu gabeko V16 balizak?
+
+Ez. Konektatu gabeko V16 gailuek ez dute balioko ibilgailu ibilgetuak seinaleztatzeko 2026ko urtarrilaren 1etik aurrera, araudiak adierazten duen bezala.
+
+Jarrai dezaket triangeluak erabiltzen?
+
+Ez. 2026ko urtarrilaren 1etik aurrera ibilgetuta dauden ibilgailuak seinaleztatzeko bide bakarra V16 baliza konektatua da.
+
+Gure herrialdean nazioarteko zirkulazio gisa zirkulatzen duten beste herrialde batzuetan matrikulatutako ibilgailuek, ordea, triangeluak erabili ahal izango dituzte.
+
+Erabil dezaket V16 Espainiatik kanpo?
+
+Baliza baliagarria da Vienako Zirkulazioari buruzko Konbentzioa sinatu eta berretsi duten herrialdeetatik zirkulatzen duten Espainian matrikulatutako ibilgailuentzat. Konbentzioaren zerrendan hainbat kontinentetako 86 bat nazio daude.
+
+Zein da zigorra V16 baliza ez eramateagatik?
+
+Baliza ez eramateagatik ezarritako isuna 80 eurokoa da, hain zuzen ere, aurrez seinalizatzeko triangeluak ez zeramatzaten gidarientzat ezarritako kopuru bera.

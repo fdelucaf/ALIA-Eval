@@ -1,0 +1,535 @@
+Avisos meteorológicos AEMET: conocerlos para prevenir y evitar daños
+Actuar a tiempo en una situación de riesgo puede minimizar las consecuencias de un fenómeno meteorológico potencialmente adverso e incluso llegar a salvar vidas. Pero, ¿sabes interpretar correctamente un aviso de la AEMET? ¿Y la diferencia entre un aviso y una alerta meteorológica? En este artículo te explicamos cómo hacerlo.
+¿Qué son los avisos meteorológicos?
+En primer lugar, conviene definir qué se entiende por fenómeno meteorológico adverso (FMA). Según la definición de la Agencia Estatal de Meteorología (AEMET), el concepto hace referencia a todo evento meteorológico capaz de producir, directa o indirectamente, daños a las personas y los bienes y que, por tanto, puede producir impactos.
+Se denomina aviso a la predicción asociada a la probabilidad de que ocurra un fenómeno meteorológico adverso (lluvias, nevadas, vientos, tormentas, temperaturas máximas y mínimas, fenómenos costeros, etc.) en una zona determinada.
+La AEMET es la agencia responsable de la observación y la elaboración de predicciones meteorológicas en España. Y, por tanto, de la elaboración de estos avisos, que se dividen en tres niveles en función de su peligrosidad, siguiendo los estándares europeos. Cada uno de ellos lleva asociada una recomendación.
+¿Qué tipos de avisos meteorológicos existen?
+Aviso amarillo: indica que el peligro es bajo. Se recomienda atender a la predicción meteorológica y seguir las actualizaciones, especialmente si se realizan actividades al aire libre.
+Aviso naranja: indica que el peligro es importante. Los bienes y la población vulnerables o en zonas expuestas podrían sufrir impactos graves. En estas situaciones, la AEMET recomienda limitar actividades no esenciales y prestar especial atención a las recomendaciones de las autoridades locales.
+Aviso rojo: indica que el peligro es extraordinario. Los daños podrían ser muy graves o catastróficos. En estos casos es imprescindible informarse en tiempo real, seguir las indicaciones de las autoridades, evitar desplazamientos no urgentes y extremar las precauciones.
+Estos niveles básicos de aviso pueden verse complementados por avisos especiales. Esto sucede, por ejemplo, cuando coinciden varios fenómenos meteorológicos adversos o si estos destacan por su intensidad o duración, como en olas de calor y frío o en tormentas tropicales. En estos casos, se pide a la población que preste una atención muy especial a la evolución meteorológica.
+Alertas de protección civil
+La AEMET alerta de la posible llegada de estos fenómenos meteorológicos adversos con hasta 72 horas de antelación y su información está, de forma automática y actualizada, siempre a disposición de la ciudadanía en general, pero, muy especialmente, de las autoridades competentes en materia de emergencia y protección civil, dependientes de las administraciones autonómicas. Estasson las encargadas de evaluar el peligro y las posibles afecciones de los avisos sobre la población y el entorno, así como de enviar las alertas y adoptar las medidas de protección más adecuadas en cada caso.
+La evaluación del análisis del riesgo de un aviso se debe adaptar a múltiples factores: territoriales, urbanísticos, orográficos, etc. Por eso, son las administraciones autonómicas las competentes, por su cercanía y conocimiento del territorio. Por ejemplo, una nevada o una tormenta no representa el mismo riesgo en una zona de alta montaña o en el centro de un área metropolitana, aunque el aviso meteorológico sea el mismo. En consecuencia, las medidas adoptadas por protección civil serán diferentes.
+¿Qué competencias tiene cada administración?
+En líneas generales, corresponde al Estado, a través de la AEMET (adscrita al Ministerio para la Transición Ecológica y el Reto Demográfico a través de la Secretaría de Estado de Medio Ambiente), avisar sobre la llegada de posibles fenómenos meteorológicos adversos.
+Por su parte, es competencia de las comunidades autónomas, mediante sus autoridades de protección civil, alertar a la población en casos de inundaciones, incendios o catástrofes. Asimismo, son las responsables de elaborar planes territoriales de emergencia y de activar los protocolos cuando ocurre una crisis.
+En incendios forestales, también corresponde a las autonomías la prevención, planificación y extinción del fuego, aunque el Estado puede apoyar en situaciones críticas.
+En el caso de inundaciones o danas, las comunidades autónomas elaboran planes de acción territorial y de protección civil, mientras que el Estado se encarga de la gestión de los grandes ríos intercomunitarios a través de las confederaciones hidrográficas, adscritas al Ministerio para la Transición Ecológica y el Reto Demográfico, que informan en tiempo real a las autoridades autonómicas para anticipar inundaciones. En el caso de cuencas intracomunitarias, la competencia es de las comunidades autónomas y, en tramos urbanos, de los ayuntamientos.
+¿Cómo llega un aviso a la ciudadanía? El sistema ES-Alert
+En 2022, la Unión Europea estableció una normativa que exige a todos los países miembros implementar un sistema de alertas basado en redes móviles. En España se estableció en 2023 el sistema ES-Alert, que envía notificaciones a todos los dispositivos móviles en áreas de riesgo para alertar a la ciudadanía en caso de emergencia.
+Las alertas se transmiten a través de las antenas de red y aparecen como notificaciones destacadas en la pantalla del móvil. En el caso español, ES-Alert llega a más del 90% de la población gracias al uso de las redes 4G y 5G.
+Existen tres niveles de alertas de protección civil:
+Nivel 1: estas alertas son automáticas y están activadas por defecto en todos los dispositivos compatibles, por lo que no requieren configuración del usuario ni pueden ser desactivadas.
+Nivel 2: estas alertas sí requieren activación manual. Según el Ministerio del Interior, este nivel no se utiliza actualmente en España.
+Nivel 3: se utilizan en casos excepcionales como el secuestro de menores, alertas de salud pública o incidentes de seguridad pública. En España tampoco se utilizan.
+Las alertas que afectan a España son únicamente las de nivel 1. Están activadas por defecto en los dispositivos móviles, pero se recomienda mantenerlos actualizados según la última versión.
+Informarse a través de fuentes oficiales
+Tan importante es saber interpretar avisos y alertas meteorológicas, como dónde informarse. Siempre ha de hacerse a través de fuentes y canales oficiales.
+En los siguientes enlaces se recogen algunos de los principales:
+Web y redes sociales de AEMET
+- Agencia Estatal de Meteorología - AEMET. Gobierno de España
+- AEMET en X - Agencia Estatal de Meteorología - AEMET. Gobierno de España
+- AEMET en Instagram - Agencia Estatal de Meteorología - AEMET. Gobierno de España
+- AEMET en Facebook - Agencia Estatal de Meteorología - AEMET. Gobierno de España
+Web y redes sociales de Ministerio para la Transición Ecológica y el Reto Demográfico
+- Ministerio para la Transición Ecológica y el Reto Demográfico
+- Ministerio en X
+- Ministerio en Instagram
+- Ministerio en Facebook
+Web y redes sociales de los servicios de protección civil de las Comunidades Autónomas
+- Protección Civil en las CC.AA. - DGPCyE
+Baliza V16 Conectada: ¿qué es, para qué sirve y cuándo será obligatoria?
+La baliza V16 Conectada es un dispositivo homologado para señalizar averías y accidentes en la carretera que será de uso obligatorio y sustituirá a los triángulos a partir del 1 de enero de 2026.
+El Consejo de Ministros, en su reunión del 16 de marzo de 2021, aprobó un Real Decreto para regular los servicios de auxilio en vías públicas que incluía, como principal novedad, la sustitución de los dos triángulos que se colocan delante y detrás del vehículo inmovilizado tras una avería o accidente por un dispositivo luminoso que se sitúa en la parte más alta del vehículo. La norma estableció su obligatoriedad a partir del 1 de enero de 2026.
+El Boletín Oficial del Estado publicó el 20 de diciembre de 2022 un nuevo Real Decreto que modifica y completa esa normativa, fundamentalmente, en lo que respecta a aspectos técnicos, de certificación y de conectividad de los dispositivos (balizas).
+Los conductores han podido utilizar hasta ahora tanto los triángulos como las balizas con o sin conexión. Sin embargo, a partir del 1 de enero de 2026 solo serán legales los dispositivos V16 conectados a la plataforma DGT 3.0.
+¿Qué es la baliza V16 Conectada?
+Es una pequeña baliza de color amarillo que está dotada de conectividad y es capaz de emitir una luz 360º de alta intensidad de forma intermitente y continua al menos durante 30 minutos. Incorpora una pila o batería con una vida útil de un mínimo de 18 meses, al margen de si es o no recargable.
+¿Cuál es el objetivo de la baliza V16?
+Evitar que los conductores tengan que bajar de sus vehículos cuando tienen alguna avería para colocar los triángulos, transitando por la calzada o el arcén. Cada año fallecen en España alrededor de 25 personas atropelladas mientras intentan colocar los triángulos.
+Aumentar la protección de los conductores y los ocupantes porque la conectividad permite la visibilidad luminosa de los vehículos averiados y la visibilidad virtual, dado que el resto de conductores que circulen por la zona reciben un aviso a través de navegadores, aplicaciones de movilidad y paneles de mensaje variable, de que hay un vehículo parado en la calzada.
+¿Qué vehículos están obligados a llevarla?
+Los turismos, furgonetas, autobuses, vehículos mixtos adaptables, camiones y conjuntos de vehículos no especiales tienen que llevarla obligatoriamente. En el caso de las motocicletas, no es obligatorio, pero es aconsejable por motivos de seguridad.
+La baliza debe guardarse cargada en la guantera o en otro lugar accesible dentro de vehículo.
+¿Cómo se coloca la baliza V16 Conectada?
+Tras inmovilizar el vehículo en la carretera o en el arcén, el conductor tiene que encender la baliza y colocarla desde el interior en el techo del coche y, si no fuera posible, como es el caso de los autobuses y camiones, puede situarla en su puerta. También hay que activar las luces de emergencia del vehículo.
+La baliza V16 suele incluir un imán potente que le permite adherirse a superficies metálicas. Si el vehículo tiene una carrocería de aluminio o un techo de cristal, es posible que no se adhiera con la misma fuera que en las superficies de acero.
+¿Qué tiene que hacer el conductor tras activar la baliza?
+Una vez inmovilizado el vehículo y activada la baliza, el conductor y los ocupantes tendrán que valorar si es posible abandonar o no el coche en condiciones de seguridad.
+El Reglamento General de Circulación establece como norma general que deberán abandonar el vehículo siempre que exista un lugar seguro fuera de la plataforma de circulación. Tendrán que salir del coche por el lado contrario al flujo de tráfico sin transitar o permanecer en los carriles o arcenes que conforman la plataforma. Si las condiciones de circulación no permitieran a los ocupantes abandonar el vehículo con seguridad, permanecerán dentro con el cinturón abrochado.
+¿Cómo funciona la baliza V16 Conectada? ¿Necesito una app o un móvil?
+Después de activarla, la baliza emite una señal luminosa y transmite de forma automática la ubicación exacta del vehículo averiado a la plataforma DGT 3.0.
+El dispositivo incluye en su interior un chip GPS y una tarjeta SIM no extraíble que se encargan de realizar la conexión. Sólo hay que encenderlo. No es necesario utilizar el teléfono móvil ni ninguna aplicación.
+Las compañías telefónicas no van a cobrar a los particulares ninguna cuantía por el servicio de conectividad, ya que la legislación marca una disponibilidad de conectividad mínima de 12 años, cuyo coste está contemplado en el precio de venta del dispositivo V16.
+¿Qué fuente de alimentación utiliza y cuánto dura la batería?
+La baliza V16 funciona gracias a una fuente de alimentación interna que varía en función del modelo. Algunos dispositivos llevan pilas alcalinas no recargables y otros baterías de litio recargables por USB. En todos los casos deben garantizar un mínimo de 30 minutos de funcionamiento continuo tras la activación. Asimismo, tienen que tener una autonomía mínima, en reposo, de 18 meses.
+¿A qué distancia se ve la baliza conectada?
+En condiciones óptimas, la baliza se ve desde una distancia de 1.000 metros. Como la baliza está conectada a los centros de gestión de Tráfico, estos difundirán al resto de vehículos que circulen por la zona información del accidente o avería a través de los navegadores, las aplicaciones de movilidad o los ordenadores de a bordo. Los conductores de coches antiguos que no cuenten con este tipo de tecnología podrán informarse a través de los paneles de mensaje variable que están en las carreteras.
+Si el accidente o la avería se produce dentro de un túnel, ¿el dispositivo mandará la señal a la DGT?
+Sí. La baliza V16 funciona incluso en condiciones sin cobertura convencional gracias a su conexión mediante redes de comunicación IoT especializadas. En los casos donde ni siquiera estas redes estén disponibles, la baliza seguirá funcionando como señal visual y almacenará los datos para enviarlos cuando se restablezca la conexión.
+¿Avisa la baliza a los servicios de emergencia o a la grúa?
+La V16 Conectada no es un sistema de aviso a los servicios de emergencia ni a la grúa. Su función es señalizar y transmitir la posición exacta del vehículo para evitar siniestros viales. El conductor o los ocupantes tendrán que comunicar su incidente al servicio de emergencias si lo necesitan o al servicio de asistencia de la compañía aseguradora.
+¿Transmite la V16 mis datos personales?
+No. La baliza solo funciona si el usuario la activa y no transmite los datos personales del conductor, no registra la velocidad ni puede identificar la matrícula del coche. No está asociada a una persona, número de teléfono o matrícula. Los vehículos nuevos no vendrán con la baliza instalada. Además, no es necesario proporcionar ningún tipo de dato ni dar de alta el dispositivo. La DGT no solicita ningún dato.
+¿Qué modelo de baliza V16 compro?
+Las balizas tienen que estar homologadas y certificadas por IDIADA o LCOE, que son los laboratorios técnicos autorizados que ratifican que los modelos cumplen con la normativa. En el mercado hay más de doscientos modelos de balizas V16 conectadas con diversos precios. No todas las balizas que se anuncian como conectadas están homologadas, por lo que se recomienda consultar el listado actualizado de marcas y modelos certificados que figura en la página web de la DGT.
+¿Pueden seguir usándose las balizas V16 no conectadas?
+No. Los dispositivos V16 no conectados no serán válidos como medio para la señalización de vehículos inmovilizados a partir del 1 de enero de 2026, tal y como indica la normativa.
+¿Puedo seguir usando los triángulos?
+No. La baliza V16 conectada es el único medio reconocido para señalizar vehículos inmovilizados a partir del 1 de enero de 2026.
+Sí podrán utilizar los triángulos aquellos vehículos matriculados en otros países que circulen por nuestro país en calidad de circulación internacional.
+¿Puedo usar la V16 fuera de España?
+La baliza es válida para los vehículos matriculados en España que circulen por los países firmantes y ratificantes de la Convención sobre la Circulación de Viena, cuyo listado incluye alrededor de 86 naciones de distintos continentes.
+¿Cuál es la sanción por no llevar la baliza V16?
+La multa por no llevar la baliza es de 80 euros, que es la misma cantidad establecida para los conductores que no llevaban los triángulos de preseñalización.
+¿De qué hablamos cuando hablamos de desinformación?
+Desde 2021, las campañas de desinformación son consideradas en España como un riesgo para la seguridad nacional. Este riesgo, lejos de reducirse, se ha ido consolidando e incluso ha ganado en importancia y protagonismo en los últimos años a nivel global. Tanto es así, que el informe del Foro Económico Mundial de Davos de 2024 sitúa el fenómeno de la desinformación en el primer puesto en el ranking de riesgos globales en el corto plazo.
+¿Qué es la desinformación y qué diferencias existen?
+La desinformación ha existido siempre, a lo largo de la historia de la humanidad. Pero la desinformación en contextos digitales es un fenómeno relativamente reciente y en constante evolución, lo que conlleva que cada vez nos encontremos con más conceptos y términos para referirnos a ella. Muchos son neologismos y extranjerismos que, en ocasiones, tienden a ser mal empleados cuando los traducimos al castellano. Por ejemplo, ¿sabías que en inglés se utilizan hasta tres palabras para hablar de desinformación: malinformation, misinformation y disinformation)? ¿Sabrías diferenciarlas?
+El Foro contra las campañas de desinformación en el ámbito de la Seguridad Nacional, creado en 2022 como una iniciativa nacional de colaboración público-privada, ha identificado y definido 125 conceptos y términos clave para la comprensión del fenómeno de la desinformación, con implicaciones en la seguridad nacional y el ámbito digital. En este artículo recopilamos veinte de los más comunes, utilizados para describir las técnicas y herramientas que conforman una campaña de desinformación.
+Bulo. Información falsa o engañosa que se difunde de manera intencional y con el objetivo de manipular o engañar a la audiencia. Se trata de un rumor o noticia sin fundamento que se propaga rápidamente a través de las redes sociales y los medios de comunicación. Carece de evidencia o pruebas confiables que la respalden y se utiliza para crear confusión, generar desconfianza o influir en la opinión pública. (Para muchos, los bulos son las mal llamadas fake news).
+Desinformación. Acción o estrategia que consiste en la difusión intencionada de información falsa o engañosa, descontextualizada o parcial, con el fin de confundir, persuadir y manipular a las personas. A diferencia de la información errónea, que puede ser incorrecta pero no intencional, la desinformación es deliberada y busca influir en las opiniones, creencias o comportamientos de la ciudadanía. En inglés, disinformation.
+Misinformation. Información falsa, errónea o inexacta emitida sin intención de engañar o manipular. Suele ser fruto de errores, negligencias o sesgos inconscientes. A diferencia de lo que sucede con la disinformation (que sí implica la emisión de un contenido falso de forma intencionada), la misinformation hace referencia a la difusión accidental de información no verídica.
+Malinformation. Uso de información verídica o basada parcialmente en la realidad para causar daño a una persona, colectivo, organización, institución o país. Incluye el uso político de información sensible, la revelación de información personal o confidencial o la publicación de información comprometida obtenida mediante métodos fraudulentos. Aunque la malinformation se basa en información verdadera, esta puede resultar incompleta, desactualizada o haber sufrido algún tipo de manipulación con el fin de producir descrédito, perjuicio o menoscabo.
+Glosario: términos clave para entender la desinformación
+Verificación (fact-cheking). Acción destinada a la comprobación de la autenticidad de datos o afirmaciones, las fuentes de las que proceden y la identidad de sus emisores. Es una herramienta crucial para combatir la desinformación.
+Debunking (Desenmascarar/desacreditar). Acción de demostrar la falsedad o inexactitud de un contenido presumiblemente desinformativo utilizando estrategias y técnicas de verificación. Quienes realizan el proceso de debunking son verificadores o fact-checkers (debunkers), que etiquetan el contenido como falso, engañoso, verdadero a medias, etc.
+Prebunking. Puede traducirse como "pre-desenmascaramiento". Conjunto de medidas preventivas, orientadas a inmunizar o alertar anticipadamente a la ciudadanía ante mensajes falsos. Es una práctica usada principalmente por agencias de verificación y organizaciones que promueven la alfabetización mediática.
+Alfabetización mediática. Es la facultad de consultar y evaluar críticamente contenidos en medios de comunicación, así como de crear contenido digital. Esta competencia implica entender cómo funcionan los medios y desarrollar habilidades críticas para interpretar la información que publican. Se aplica a entornos mediáticos tanto digitales como analógicos.
+Manipulación informativa; FIMI. La manipulación informativa incluye una serie de prácticas para distorsionar y alterar el proceso comunicativo con el propósito de influir y alterar la opinión pública. FIMI (Foreign Information Manipulation and Interference) describe un patrón de comportamiento, en su mayoría no ilegal, pero sí de carácter manipulador y llevado a cabo de manera intencional, que busca amenazar o generar un impacto negativo en los valores democráticos y procesos políticos.
+Bot y granja de bots. Abreviatura de robot. Es un programa de software diseñado para realizar tareas automatizadas en internet, sin intervención humana. Los bots tienen la capacidad de interactuar con usuarios en tiempo real, manejar gran cantidad de volúmenes de datos y adaptarse a diferentes entornos. Su mal uso genera desinformación, manipulación de la opinión pública, suplantación de la identidad, ataques coordinados a individuos, organizaciones y colectivos, y manipulación de resultados de búsquedas de tendencias. Una granja de bots hace referencia a la organización masificada de bots, coordinados para la creación masiva y difusión de mensajes falsos en redes sociales, a partir de contenidos desinformativos, abusivos y violentos
+Trol. Persona con identidad real oculta que publica mensajes provocadores o dañinos de manera intencionada con un objetivo ideológico concreto: generar desinformación, boicotear o entorpecer la conversación, ocasionar daño, etc. Sus acciones son conocidas con el término 'trolear'. Muchas veces actúan de forma coordinada en lo que se conoce como granjas de troles.
+Deepfake. Técnica de inteligencia artificial que permite manipular o generar contenido audiovisual falso, como imágenes, videos o audios, de manera muy realista. Estos contenidos se crean a partir de datos de entrenamiento de aprendizaje profundo (deep learning), lo que permite reemplazar el rostro o la voz de una persona por la de otra e incluso generar una persona que no existe. Los deepfakes han sido utilizados para crear contenido engañoso, como vídeos de políticos diciendo o haciendo cosas que nunca ocurrieron.
+Cámara de eco. Entorno donde se comparten de manera recurrente creencias, ideas o datos alineados, propiciando así su amplificación y refuerzo. La información, sea verdadera o falsa, circula y se redifunde sin ser cuestionada por los miembros del grupo, ni contrastada con perspectivas externas, lo que crea una realidad distorsionada y polarizada.
+Luz de gas (gaslighting). Estrategia de abuso y manipulación que busca que la otra persona cuestione su propia percepción de la realidad. El término tiene su origen en la obra de teatro del mismo nombre de Patrick Hamilton, estrenada en 1938, donde un hombre maltrata a su mujer haciendo pequeños cambios en el hogar, como el nivel de la luz de gas, para que ella empiece a dudar de su cordura. Actualmente se emplea para referirse a la estrategia de mentir reiteradamente a alguien con el fin de manipularlo y controlarlo.
+Polarización. La polarización es la división creciente de la sociedad en grupos con ideas, opiniones o intereses opuestos, lo que puede dificultar el consenso y aumentar el conflicto social. Igualmente, se trata de un recurso de comunicación utilizado por grupos de interés (ej. grupos políticos) para atraer usuarios mediante la explotación de plataformas digitales y el uso de discursos, que pueden incluir discursos de odio y contenidos desinformativos.
+Pseudomedio. Publicación, normalmente digital, que emula a los medios periodísticos en su estructura y formato y que se caracteriza por incumplir los principios éticos y estándares profesionales del periodismo. Los pseudomedios incitan a la polarización, el activismo ideológico, el fomento de teorías conspirativas y una tendencia generalizada a la difusión de contenidos falsos, no contrastados y extremadamente sesgados o partidistas.
+Discurso de odio. Cualquier forma de expresión que ataca o utiliza un lenguaje hostil, incívico, amenazante, ofensivo, discriminatorio o de violencia expresa, en referencia a un grupo o a una persona en función de su etnia, nacionalidad, raza, género, ascendencia, religión, vulnerabilidad u otras formas de identidad como la ideología política, idioma, origen económico o social, discapacidad, estado de salud u orientación sexual, entre otras. En este artículo explicamos más sobre los discursos de odio y cómo combatirlos.
+TTP; marcos DISARM. Las siglas TTP hacen referencia a las Tácticas, Técnicas y Procedimientos utilizadas en un contexto de manipulación informativa. Su análisis permite describir los patrones de comportamiento de un actor de amenaza y planificar estrategias de respuesta y reacción. Las TTP se recogen en los marcos DISARM (Detecting and Responding to Manipulated Media), dos catálogos de código abierto: el Red Framework, diseñado para describir TTP en el ámbito de la desinformación; y el Blue Framework, que centra las respuestas sugeridas frente a las mismas.
+Amenazas híbridas y estrategia híbrida. Acciones coordinadas y sincronizadas para lograr los objetivos estratégicos de actores estatales o no estatales. De forma deliberada, buscan socavar, desestabilizar y perjudicar al adversario, así como explotar las vulnerabilidades sistémicas de los Estados. Para ello utilizan y combinan una amplia gama de medios (desde ataques cibernéticos, campañas de manipulación de la información, maniobras políticas encubiertas y tácticas militares, entre otras) y pretenden influir en la toma de decisiones a nivel local, estatal o institucional. En ocasiones, se utilizan de forma indistinta los términos 'amenazas' y 'estrategias' híbridas, pero no son lo mismo: las primeras son acciones que pueden materializarse en el futuro, mientras que las segundas sí acaban materializándose para lograr un fin.
+Influencia - injerencia extranjera. La injerencia extranjera, a menudo realizada como parte de una estrategia híbrida más amplia, puede entenderse como los esfuerzos coercitivos, encubiertos y engañosos para perturbar la libre formación y manifestación de la voluntad u opinión de las personas por parte de un actor estatal extranjero o de sus agentes, normalmente con objetivos políticos. Por el contrario, las actividades de influencia extranjera se llevan a cabo de manera abierta y transparente, son un aspecto normal de las relaciones internacionales y la diplomacia y contribuyen positivamente al debate público.
+Si quieres conocer más sobre el fenómeno de la desinformación y el trabajo de España y otros países para combatirla, aquí te dejamos más lecturas interesantes para seguir profundizando.
+Foro contra las campañas de desinformación en el ámbito de la Seguridad Nacional | Sitio oficial del Departamento de Seguridad Nacional
+Proteger la democracia europea de las interferencias y la manipulación: Plan de Acción para la Democracia Europea
+Plan de Acción por la Democracia
+Código de buenas prácticas en materia de desinformación (2022) | Configurar el futuro digital de Europa
+The Code of Conduct on Disinformation | Shaping Europe's digital future
+Los centros de lucha contra la desinformación de la UE se extienden ahora a todos los países de la UE | Configurar el futuro digital de Europa
+Portugal and Spain, the EU countries most concerned about disinformation, according to the Digital News Report 2025 | Iberifier
+Observatorio Europeo de los Medios Digitales - EDMO | Configurar el futuro digital de Europa
+EDMO Hubs - EDMO
+Encuesta sobre la juventud 2024 - febrero de 2025 - Encuesta del Eurobarómetro
+DISARM Foundation
+Bulos y noticias falsas (fake news) | Ciudadanía | INCIBE
+Estafas telefónicas y por SMS: protección contra el fraude
+Transformación Digital lanza un plan para combatir las estafas telefónicas de suplantación de identidad que incluye actuaciones como la prohibición de llamadas comerciales desde números móvil o el bloqueo de llamadas que manipulan su numeración para esconder su origen.
+El Ministerio para la Transformación Digital y de la Función Pública aprobó el 12 de febrero una orden ministerial con un paquete de medidas para erradicar los fraudes por teléfono y SMS. Este plan permitirá a los usuarios identificar las llamadas y mensajes comerciales para no ser víctimas de estafas.
+¿Qué es una estafa de suplantación de identidad?
+Las estafas telefónicas de suplantación de identidad suelen comenzar con una llamada o un mensaje de texto en los que el emisor suplanta la identidad de una organización de confianza (presentándose, por ejemplo, como una entidad bancaria o como un organismo o empresa de la Administración pública, por ejemplo la DGT) con la clara intención de defraudar, engañando al consumidor para que proporcione algún tipo de información personal o financiera.
+Así, en estas llamadas ('vishing') o mensajes ('smishing') se suele pedir al ciudadano, entre otras cosas, que facilite sus claves personales, que acceda a una web o llame a un número telefónico, que realice una trasferencia o que contrate un servicio.
+¿Qué impacto tienen estos fraudes?
+Este tipo de estafa causa importantes daños financieros y económicos a todos los sectores de la sociedad, especialmente a consumidores, empresas y organismos públicos. Además, disminuyen la confianza de la ciudadanía en las comunicaciones electrónicas, perjudicando a aquellas empresas y organismos que hacen un uso legítimo de llamadas y mensajes de texto como canal de comunicación con el público.
+Según datos del Banco de España, el Ministerio del Interior o el Instituto Nacional de Ciberseguridad (INCIBE), estos fraudes se han incrementado en los últimos años. Algunos países europeos, como Finlandia, han puesto en marcha medidas similares a las incluidas en el nuevo Plan con una gran efectividad, ya que se han reducido las estafas por suplantación de identidad en casi un 90%.
+¿Qué objetivos tiene este plan?
+El objetivo de este paquete de medidas contra el fraude en llamadas y SMS es aumentar la protección de consumidores y empresas ante el creciente número de fraudes a través de este tipo de estafas. Esta meta da cumplimiento al artículo 3 de la Ley General de Telecomunicaciones, de defender los intereses de los usuarios, restaurando la confianza de los consumidores en las comunicaciones electrónicas.
+Así, el plan adopta soluciones para evitar que progresen las comunicaciones que manipulan el identificador de línea llamante o el identificador numérico o alfanumérico de los SMS y establece medidas para garantizar la correcta identificación de servicios de atención a clientes y llamadas comerciales.
+¿Con qué medidas cuenta?
+Bloqueo de numeración no atribuida: los operadores de telefonía deberán bloquear llamadas y SMS con números que no hayan sido atribuidos a ningún servicio, asignados a ningún operador o adjudicados a ningún cliente, como los que comienzan por 3 ó 4.
+Bloqueo de llamadas nacionales con origen internacional: se impedirá el uso de números españoles falsificados en llamadas y SMS desde el extranjero, con excepción de clientes en régimen de 'roaming' o itinerancia.
+Creación de una base de datos para alfanuméricos en mensajes: se creará un registro de códigos alfanuméricos que gestionará la Comisión Nacional de los Mercados y de la Competencia para evitar que actores no autorizados suplanten a entidades legítimas como bancos o administraciones.
+Prohibición de móviles para servicios de atención al cliente y llamadas comerciales no solicitadas: las empresas no podrán usar números móviles para telemarketing. Deberán emplear numeración geográfica o números 800/900, ahora habilitados para emitir llamadas.
+¿Cuándo entra en vigor el plan?
+El bloqueo de números no atribuidos a ningún servicio entra en vigor 20 días después de la publicación de la orden en el BOE, es decir, el 7 de marzo. Sin embargo, tanto el bloqueo de llamadas y SMS con origen internacional, como la prohibición de las llamadas comerciales no solicitadas desde números móviles, entrarán en vigor el 15 de mayo.
+Por otra parte, a partir del 15 de mayo de 2026 entrará en funcionamiento el registro de códigos alfanuméricos y el bloqueo de SMS de origen internacional.
+Ingreso Mínimo Vital (IMV): ¿qué es y cómo puedo solicitarlo?
+El Ingreso Mínimo Vital (IMV) es una prestación dirigida a prevenir el riesgo de pobreza y exclusión social de las personas que viven solas o están integradas en una unidad de convivencia y carecen de recursos económicos para cubrir sus necesidades básicas.
+El Ingreso Mínimo Vital (IMV) es una medida de la Seguridad Social que proporciona un nivel básico de ingresos a aquellos en situación de vulnerabilidad económica. Su objetivo es asegurar la inclusión social y laboral de los beneficiarios.
+El IMV se introdujo en 2020 por Real Decreto-ley, en un contexto de exigencia y necesidad a consecuencia de la pandemia. En diciembre de 2021 se consolidó en la Ley 19/2021, de 20 de diciembre, por la que se establece el Ingreso Mínimo Vital.
+Según las estadísticas del Instituto Nacional de la Seguridad Social de 2024, el IMV beneficia a 2.050.000 personas que conviven en 674.000 hogares.
+¿Quiénes pueden ser beneficiarios del Ingreso Mínimo Vital?
+Se puede acceder al IMV de forma individual o como miembro de una unidad de convivencia.
+Las unidades de convivencia las forman un conjunto de personas que residan en el mismo domicilio y estén unidas entre sí por vínculo matrimonial, pareja de hecho, o vínculo de hasta segundo grado de consanguinidad, afinidad o adopción. También se incluye a personas con las que se conviva por razones de guarda con fin de adopción o acogimiento familiar permanente. Los miembros de las unidades de convivencia accederán al IMV a través de un único titular que los represente.
+Además de los criterios económicos, detallados más adelante, los beneficiarios del IMV deben cumplir ciertos requisitos, que varían si se solicita de forma individual o como representante de una unidad de convivencia.
+En general, pueden ser beneficiarios individuales del IMV las personas de al menos 23 años que no formen parte de una unidad de convivencia ni estén unidos por matrimonio o pareja de hecho (a menos que estén en proceso de separación o divorcio). No se aplican los requisitos de edad o de inicio de trámites de separación o divorcio a las mujeres víctimas de violencia de género o trata de personas y explotación sexual. Además, pueden ser titulares individuales las personas de entre 18 y 22 años que provengan de centros de protección de menores o que sean huérfanos absolutos, siempre que no formen parte de una unidad de convivencia. Existen otras condiciones más específicas, como requisitos de residencia legal o de haber vivido de forma independiente durante un tiempo determinado antes de la solicitud, que puede consultar en el portal del IMV.
+Los titulares del IMV que soliciten la prestación en nombre de una unidad de convivencia deben tener al menos 23 años. También pueden hacerlo los mayores de edad o menores emancipados que tengan hijos o menores a su cargo en régimen de guarda con fines de adopción o acogimiento familiar permanente. La solicitud debe ser firmada por todos los integrantes mayores de edad, y la persona solicitante representará a la unidad en todas las gestiones relacionadas con el IMV. Como en el supuesto anterior, existen otros requisitos más concretos que conviene consultar antes de realizar la solicitud.
+¿Cuál es la cuantía del IMV en el año 2025?
+La cuantía del Ingreso Mínimo Vital es la diferencia entre la renta garantizada, fijada por ley, y otros ingresos que los beneficiarios puedan tener. Por lo tanto, solo se puede acceder al IMV si estos ingresos son inferiores a la renta garantizada, y la cantidad recibida será la necesaria para que el beneficiario alcance este umbral económico. En el caso de las unidades de convivencia, se considerarán los ingresos de todos sus miembros.
+La renta garantizada se establece como una cantidad anual dividida en 12 pagas. En 2025 se ha incrementado un 9%, quedando su cálculo de la siguiente manera:
+Para un beneficiario individual, la renta garantizada es de 7.905,72 euros al año, o 658,81 euros al mes.
+En el caso de una unidad de convivencia, su renta garantizada se incrementa en un 30% por cada miembro adicional. Sin embargo, a partir de 5 miembros la cantidad deja de aumentar, por lo que la renta garantizada de la unidad de convivencia no puede superar el 220% de una renta individual. Por lo tanto, para una unidad de 5 miembros o más, la renta garantizada será de 17.392,68 euros anuales, o 1.449,39 euros mensuales.
+Además de los límites establecidos, existen dos complementos que pueden aumentar la cantidad:
+En los casos de unidad de convivencia monoparental, se añade un 22% de una renta garantizada individual a la cantidad percibida. Para ser considerada como monoparental, la unidad de convivencia deberá estar constituida por un solo adulto que conviva con uno o más descendientes hasta el segundo grado menores de edad sobre los que tenga la guarda y custodia exclusiva, o que conviva con uno o más menores en régimen de acogimiento familiar permanente o guarda con fines de adopción cuando se trate del único acogedor o guardador. También se considerarán monoparentales las unidades de convivencia en las que, habiendo dos progenitores, guardadores o acogedores, uno se encuentre ingresado en prisión o en un centro hospitalario por un periodo ininterrumpido igual o superior a un año. De igual manera, podrán optar a este complemento las unidades con dos progenitores, guardadores o acogedores cuando uno de estos tenga reconocido un grado 3 de dependencia, la incapacidad permanente absoluta o la gran invalidez. Finalmente, para el caso de una mujer que haya sufrido violencia de género y sea la única adulta de la unidad, no se requerirá que la guarda y custodia del menor sea exclusiva, o que dicha mujer sea la única acogedora o guardadora en caso de acogimiento familiar permanente o guarda con fines de adopción.
+Si algún miembro de la unidad tiene un grado de discapacidad reconocido igual o superior al 65%, se añadirá otro complemento de cuantía igual que la del complemento por monoparentalidad.
+Adicionalmente, se otorgará un Complemento de Ayuda para la Infancia mensual por cada menor de edad miembro de la unidad de convivencia. Este complemento se calcula según la edad del menor al inicio del año para el que se otorgará la ayuda: para menores de 3 años corresponden 115 euros; para mayores de 3 años y menores de 6 años, serán 80,50 euros; y para quienes tengan entre 6 y 18 años, la ayuda será de 57,50 euros. Está ayuda se extiende a familias que, por renta, no puedan optar al IMV, si cumplen determinadas condiciones. Puede obtener más información en esta página de la Seguridad Social.
+¿La cuantía del IMV se actualiza con el cambio de las circunstancias personales?
+Sí. El cambio en las circunstancias personales de la persona titular del Ingreso Mínimo Vital o de algún miembro de la unidad de convivencia puede resultar en la modificación de la cuantía de la prestación. La modificación puede realizarse a lo largo del año, y tendrá efectos a partir del primer día del mes siguiente al del hecho que causó dicha modificación.
+En todo caso, la cuantía de la prestación se actualizará automáticamente el 1 de enero de cada año, tomando como referencia los ingresos anuales reales del año anterior y realizando los ajustes correspondientes.
+¿Cómo solicitar el Ingreso Mínimo Vital?
+Puede hacerlo de las siguientes maneras:
+Por internet, con certificado electrónico o Cl@ve, a través de la Sede Electrónica de la Seguridad Social.
+Por internet, sin certificado electrónico o sistema cl@ve, mediante el formulario especialmente habilitado por la Seguridad Social. Tenga en cuenta que se le pedirá documentación para verificar su identidad, incluyendo una fotografía y una dirección de correo electrónico.
+Presencialmente en los Centros de Atención e Información (CAISS) de la Seguridad Social.
+Durante el proceso de solicitud se le requerirán varios documentos que acrediten aspectos como la identidad, residencia, situación familiar o económica. Puede obtener más información sobre los medios de acreditación de estos requisitos en la sección correspondiente del portal de la Seguridad Social.
+Nuevo teléfono para consultas
+Desde el 4 de noviembre del 2024 está disponible el teléfono corto 020 para informarse sobre el Ingreso Mínimo Vital. Esta línea de atención gratuita se suma al número actual de información 900 20 22 22, que seguirá en funcionamiento. La nueva línea ofrecerá información y asesoramiento personalizado sobre requisitos, solicitudes, documentación, procedimiento y trámites necesarios para acceder a la prestación.
+Igualdad salarial: el Gobierno reafirma su compromiso con la igualdad retributiva
+El Consejo de Ministros ha aprobado la declaración institucional con motivo del Día para la Igualdad Salarial, fecha fijada en el 22 de febrero desde el año 2010, a propuesta de los ministerios de Igualdad, de Trabajo y Economía Social y de Juventud e Infancia.
+El Gobierno expresa su firme determinación en la lucha contra la desigualdad retributiva, consciente de que las diferencias de remuneración entre mujeres y hombres siguen siendo uno de los ejes fundamentales de la desigualdad económica y social. En la declaración, se compromete a continuar progresando en la aplicación efectiva de la normativa vigente y en la adopción o desarrollo de las medidas de igualdad, derechos humanos, justicia social y participación democrática que sean precisas para revertir las causas de las brechas de género y de la desigualdad salarial entre mujeres y hombres.
+De esta forma, se avanza un paso más hacia la consecución de los Objetivos de Desarrollo Sostenible (ODS) establecidos por la Organización de Naciones Unidas en su Agenda 2030, especialmente de los objetivos 5, lograr la igualdad entre los sexos y empoderar a todas las mujeres y niñas, y 8, promover el crecimiento económico inclusivo y sostenible, el empleo y el trabajo decente para todas las personas.
+¿Qué es la igualdad salarial o igualdad retributiva?
+La igualdad salarial, también conocida como igualdad retributiva o equiparación salarial, supone que aquellos que realizan labores similares o igualmente productivas deberían recibir una remuneración idéntica, independientemente de su género, raza, orientación sexual, nacionalidad, religión u otras categorías.
+¿Qué es la brecha salarial?
+La Comisión Europea define la brecha salarial de género como la diferencia entre los ingresos brutos medios por hora de los hombres asalariados frente a los de las mujeres, en porcentaje de la renta bruta masculina.
+¿Qué efectos tiene la brecha salarial a lo largo de la vida laboral?
+La brecha salarial implica que las mujeres obtienen menos ingresos a lo largo de su vida, lo que se traduce, además, en pensiones más bajas y un mayor riesgo de pobreza en las personas mayores. La eliminación de la desigualdad retributiva permitiría avanzar en la igualdad real y efectiva de la sociedad, a la que se refiere el artículo 9.2 de la Constitución Española.
+¿Cuánto se ha reducido la brecha salarial en España?
+Según los últimos datos de la Encuesta de Estructura Salarial de 2022, en la década 2012-2022 la brecha salarial se ha reducido en 6,83 puntos, situándose en un 17,09%. Una desigualdad que sigue siendo inadmisible, ya que refleja la discriminación estructural que todavía sufren las mujeres en el ámbito laboral.
+Avances hacia la igualdad laboral en España
+En los últimos años se han producido avances importantes en la situación del mercado laboral de las mujeres.
+Según los datos más recientes de la Encuesta de Población Activa, en 2024 el número de mujeres trabajando aumentó en 207.400 y ha superado por primera vez los diez millones de mujeres trabajadoras.
+¿Qué medidas laborales ayudan a combatir la diferencia salarial entre hombres y mujeres?
+El incremento del Salario Mínimo Interprofesional (SMI), la reforma laboral o la reducción de la jornada laboral permiten combatir la brecha salarial de género.
+El Gobierno va a continuar desarrollando e impulsando medidas que permitan avanzar en su erradicación, tales como el reciente Real Decreto por el que se fija el Salario Mínimo Interprofesional para 2025, que lo eleva hasta los 1.184 euros mensuales, consolidando así un incremento del 61% desde 2018.
+La medida beneficia especialmente a las mujeres, que se encuentran sobrerrepresentadas en trabajos con salarios iguales al SMI, y que han supuesto el 65,8% del total de personas beneficiarias.
+Por otra parte, la reducción prevista de la jornada laboral a 37,5 horas semanales, sin reducción de salario, facilitará la conciliación de la vida personal, laboral y familiar, mejorando la calidad de vida de todas las personas trabajadoras, en particular de las mujeres, que continúan asumiendo la mayor parte de las responsabilidades de cuidados en los hogares.
+Otro avance destacado es la reducción de la temporalidad que ha conseguido la reforma laboral y que afecta en mayor parte a las mujeres.
+Además, España ha sido pionera en la regulación de la materia con el Real Decreto-ley de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación, o los reales decretos relativos a la igualdad retributiva entre mujeres y hombres y a los planes de igualdad.
+A estas actuaciones hay que sumar los avances logrados en las últimas décadas en materia de permisos para el cuidado de la infancia, que han tenido como hitos destacados la equiparación de los permisos por nacimiento introducida por el Real Decreto-ley de medidas urgentes para garantizar la igualdad de trato y de oportunidades entre mujeres y hombres, o la aprobación de un nuevo permiso parental intransferible y con posibilidad de su disfrute de manera flexible para el cuidado de los hijos e hijas o menores acogidos por más de un año y hasta la edad de ocho años.
+Inteligencia artificial y brecha digital de género en España
+El desarrollo tecnológico plantea una serie de oportunidades de futuro, pero no está exento de retos en el ámbito laboral, incluida la dimensión retributiva.
+Lograr una mayor participación y liderazgo de las mujeres en el desarrollo vinculado a la IA, el Big Data y el Machine Learning.
+Mitigar los sesgos de género y lograr una mayor transparencia en los algoritmos y la integración de la perspectiva de género en la programación, creación de códigos y algoritmos, son desafíos a abordar, no solo para evitar que las brechas de género se perpetúen o incluso se agranden, sino para revertir las brechas existentes, creando soluciones innovadoras para combatir las causas de las desigualdades estructurales entre mujeres y hombres en el ámbito laboral.
+Implementar la Estrategia Nacional de Inteligencia Artificial (ENIA), que incluye la igualdad de género como uno de sus objetivos transversales y aborda expresamente el desafío de "Reducir la brecha de género del ámbito de la IA en empleo y liderazgo".
+Desinformación y brecha salarial
+En los últimos tiempos, la desinformación, que tiene efectos perversos en todos los ámbitos de nuestra sociedad, afecta también a la igualdad de género. Las narrativas falsas o sesgadas refuerzan estereotipos, justifican las desigualdades existentes y normalizan discriminaciones inaceptables, promoviendo una comprensión equivocada de las causas y consecuencias de la desigualdad salarial entre mujeres y hombres.
+Esta desinformación tiende a minimizar o incluso a negar la existencia de la constatada diferencia de ingresos entre mujeres y hombres, atribuyendo estas diferencias a elecciones individuales o a la diferencia en horas trabajadas. La desinformación, además de distorsionar la realidad, socava la confianza en los datos oficiales y obstaculiza los esfuerzos por lograr la igualdad efectiva en el ámbito laboral.
+Combatir la desinformación y promover un análisis riguroso de la realidad es crucial para avanzar hacia la igualdad real y efectiva de oportunidades entre mujeres y hombres.
+El Gobierno reitera su firme compromiso de continuar luchando contra las campañas de desinformación, impulsando e incorporando la perspectiva de género en el desarrollo de la "Estrategia Nacional de lucha contra las campañas de desinformación ".
+Subida y revalorización de las pensiones 2025
+Las pensiones contributivas se revalorizarán con carácter general un 2,8% en 2025, así como las pensiones del Régimen Especial de Clases Pasivas del Estado. El Gobierno garantiza el poder adquisitivo de los pensionistas en base a la evolución del Índice de Precios al Consumo (IPC).
+El Consejo de Ministros aprobó el 28 de enero de 2025 un Real Decreto-Ley que incluye la revalorización de las pensiones y otras prestaciones abonadas por el sistema de la Seguridad Social.
+En tanto se apruebe la Ley de Presupuestos Generales del Estado para el año 2025, el límite máximo establecido para la percepción de las pensiones públicas del sistema de Seguridad Social y clases pasivas causadas en 2025 será de 3.267,60 euros mensuales o 45.746,40 anuales.
+El Ejecutivo estima que la subida de las pensiones favorecerá a las personas más vulnerables y a quienes reciben pensiones mínimas y no contributivas.
+¿Cuánto suben las pensiones en 2025?
+Las pensiones de la Seguridad Social, en su modalidad contributiva, y las pensiones ordinarias y extraordinarias del Régimen Especial de Clases Pasivas del Estado se revalorizarán con carácter general un 2,8% para 2025, que es la inflación media entre diciembre de 2023 y noviembre de 2024. Esta fórmula fue establecida en la Ley 20/2021, que garantiza el poder adquisitivo de las pensiones y fue consensuada con los agentes sociales.
+La pensión mínima para los pensionistas de 65 años o mayores se fija en 12.241,60 euros anuales y en 15.786,40 en el caso de jubilados con cónyuge a cargo. Los menores de esa edad recibirán 11.452 euros y 15.786,40 si tienen cónyuge a cargo.
+Las pensiones mínimas subirán alrededor del 6% en 2025, las no contributivas y el Ingreso Mínimo Vital se revalorizarán un 9%, y las de viudedad con cargas familiares un 9,1%.
+Las pensiones no contributivas del sistema de la Seguridad Social de invalidez y jubilación tendrán un importe anual de 7.905,80 euros.
+Las pensiones no contributivas del extinguido Seguro Obligatorio de Vejez e Invalidez (SOVI) se revalorizarán en un 6% para 2025, lo que supone alcanzar los 560 euros mensuales en el caso de las no concurrentes con otras pensiones públicas y los 543,60 para las concurrentes.
+La asignación no contributiva por hijo a cargo o menor con discapacidad reconocida igual o superior al 65% alcanza en 2025 los 5.805,6 euros al año. Si la discapacidad es igual o superior al 75% se sitúa en 8.707,20 euros.
+Las prestaciones de orfandad causadas por violencia contra la mujer, experimentarán en 2025 un incremento igual al que se apruebe para el salario mínimo interprofesional para ese año.
+El complemento para la reducción de la brecha de género de las pensiones contributivas queda fijado para 2025 en 35,90 euros mensuales. Es el resultado de sumar un 5% adicional al porcentaje general de revalorización del 2,8%.
+Es el cuarto año que se revalorizan las pensiones de acuerdo con el IPC: un 2,8% en 2025, un 3,8% en 2024, un 8,5% en 2023 y un 2,5% en 2022.
+Así, la pensión media de jubilación pasará de 1.441 euros mensuales en 2024 a 1.481,35 en 2025, lo que supone un incremento de 564,87 euros al año. La pensión media del sistema, considerando todas las modalidades de pensiones y prestaciones, aumenta en torno a 500 euros anuales.
+¿Cuál es el límite de ingresos para el reconocimiento de cuantías mínimas de pensión?
+Sin cónyuge a cargo: 9.193 euros al año
+Con cónyuge a cargo: 10.723 al año
+¿Cuándo suben las pensiones?
+La revalorización se aplicará al importe mensual que tuviese la pensión de que se trate el 31 de diciembre de 2024.
+La subida de pensiones es efectiva desde el 1 de enero de 2025.
+¿Cuándo sabré lo que me han subido?
+El Ministerio de Inclusión, Seguridad Social y Migraciones envía cada año una carta a los pensionistas para comunicarles la revalorización de su pensión y la cuantía exacta que percibirán.
+¿Cuántas personas se benefician de la subida?
+Más de 12 millones de pensionistas y perceptores de prestaciones conservan o aumentan su poder adquisitivo: los beneficiarios de pensiones contributivas y no contributivas, los de Clases Pasivas, los hogares que reciben el Ingreso Mínimo Vital y los perceptores de prestaciones por hijo a cargo con discapacidad igual o superior al 65%. Alrededor del 25% de los ciudadanos se beneficiarán de la subida que garantiza el poder adquisitivo de los pensionistas.
+¿Están aseguradas las pensiones en el futuro?
+La dignidad de las pensiones está asegurada y los pensionistas cuentan con un marco legal estable, que garantiza su poder adquisitivo y protege a quien más lo necesita. Es la garantía, tanto para los actuales como para los futuros perceptores, de que el sistema público responde, protege y cumple sus compromisos.
+Además, con el objetivo de proteger las pensiones del futuro y en búsqueda del equilibrio entre los ingresos y los gastos del sistema de Seguridad Social, se han articulado medidas como la cuota de solidaridad y el aumento de las bases máximas de cotización.
+El tipo de cotización aplicable de la cuota de solidaridad será progresivo en función de los tres tramos de rendimientos fijados (0,92%, 1% o 1,17%) y se incrementará gradualmente a partir de 2025 hasta el año 2045, donde se alcanzará el tipo definitivo
+Por su parte, la cotización por el concepto del Mecanismo de Equidad Intergeneracional (MEI) se establece en el 0,8% con una distribución del 0,67% a cargo del empresario y del 0,13% del trabajador.
+¿Es compatible el incremento de las pensiones con el funcionamiento del sistema?
+La subida es compatible con un fortalecimiento de los ingresos del sistema, que siguen mejorando gracias a la reforma laboral y otras medidas que han permitido crear más empleo, de más calidad y que la actividad económica se robustezca, lo que proporciona más recursos a la Seguridad Social.
+Permiso por nacimiento y cuidado de menor: ¿cómo se solicita y cuánto dura?
+El permiso es de 19 semanas retribuidas para cada uno de los progenitores y de 32 semanas para las familias monoparentales. Dos de ellas podrán disfrutarse de forma flexible hasta que el menor cumpla ocho años.
+El Consejo de Ministros aprobó el 29 de julio de 2025 la ampliación en tres semanas - de 16 a 19- el permiso por nacimiento y cuidado del menor para cada progenitor y lo incrementó a 32 semanas para familias monoparentales/monomarentales. La medida fue convalidada por el Congreso de los Diputados el 9 de septiembre de 2025.
+El Gobierno considera que el trabajo retribuido no puede ni debe impedir que las mujeres y los hombres ejerzan su derecho a los cuidados ni condicionar la decisión de formar una familia. Para ello, sigue adoptando medidas para mejorar la conciliación de la vida familiar y profesional y garantizar la corresponsabilidad en los cuidados, lo que reduce además la brecha de género.
+¿Qué es el permiso por nacimiento y cuidado de menor?
+El permiso por nacimiento y cuidado de menor es un derecho individual de la persona trabajadora y no transferible al otro progenitor. Sustituyó en el año 2021 a las antiguas prestaciones de maternidad y paternidad y las equiparó.
+¿Cómo ha evolucionado este derecho?
+En 2019, el Ejecutivo aprobó medidas para favorecer la igualdad en el ámbito laboral y garantizar el derecho a la conciliación y la corresponsabilidad, entre las que figura la progresiva equiparación de los permisos de madres y padres en base a tres principios: igualdad, intranferibilidad y remuneración al cien por cien. Ese año, el permiso de paternidad pasó de 5 a 8 semanas, y en el año 2020 a doce.
+En 2021 entró en vigor la equiparación total para ambos progenitores y el permiso se amplió a 16 semanas, seis de las cuales deben disfrutarse inmediatamente después del parto o resolución judicial o administrativa en los casos de adopción, guarda o acogimiento.
+En 2025, el Gobierno completa la transposición de una directiva comunitaria mediante un real decreto-ley que amplía el permiso a 19 semanas (32 en el caso de las familias monoparentales). Con esta ampliación, España se ha convertido en un referente internacional en políticas de conciliación, corresponsabilidad e igualdad y se alinea con los países europeos con permisos más largos y flexibles.
+¿Quién puede acogerse a la ampliación del permiso?
+Pueden acogerse a este permiso los trabajadores asalariados, autónomos o empleados públicos que se encuentren en situación de alta o asimilada al alta, tengan cubierto un periodo mínimo de cotización, y cuyos hijos hayan nacido a partir del 2 de agosto de 2024. Las dos semanas adicionales de cuidado podrán solicitarse a partir del 1 de enero de 2026.
+¿Cómo se puede distribuir el permiso por nacimiento y cuidado del menor?
+El nacimiento, que comprende el parto y el cuidado de menor, suspenderá el contrato de trabajo de la madre biológica y el del otro progenitor durante 19 semanas o 32 en el caso de existir una única persona progenitora. El permiso se distribuye de la siguiente forma:
+Diecisiete semanas (28 en el caso de las familias monoparentales o monomarentales) hasta que el bebé cumpla un año:
+Las seis primeras semanas se disfrutan de forma obligatoria e ininterrumpida a jornada completa inmediatamente después del nacimiento del bebé o, en el caso de adopción, guarda o acogimiento familiar a partir de la resolución judicial o administrativa. La madre biológica puede anticipar el descanso hasta las cuatro semanas previas a la fecha prevista para el parto.
+Las once semanas restantes (22 en el caso de monoparentalidad o monomarentalidad) se pueden disfrutar en periodos semanales seguidos o interrumpidos, en régimen de jornada completa o parcial, previo acuerdo entre la empresa y el trabajador, hasta que se cumplan 12 meses del nacimiento del bebé.
+Dos semanas adicionales (cuatro en el caso de monoparentales o monomarentales): Se distribuyen de forma flexible hasta que el menor cumpla los 8 años de edad.
+En supuestos de nacimiento o adopción múltiple o discapacidad, el permiso se amplía una semana más para cada progenitor.
+¿Cómo se disfruta el permiso si el parto es prematuro?
+En los casos de parto prematuro y en los que, por otra circunstancia, el neonato deba permanecer hospitalizado tras el parto, el periodo de suspensión del contrato podrá computarse a partir de la fecha de alta hospitalizaría. Se excluyen de este cómputo las seis semanas posteriores al parto.
+Si el parto es prematuro con falta de peso o el neonato precisa, por alguna condición clínica, hospitalización tras el parto por un periodo superior a siete días, la suspensión se ampliará en tantos días como el nacido se encuentre hospitalizado, con un máximo de trece semanas adicionales.
+¿Qué pasa si fallece el bebé o alguno de sus progenitores?
+En el supuesto de fallecimiento del hijo o hija, el periodo de suspensión no se reduce, salvo que, una vez finalizadas las seis semanas de descanso obligatorio, uno o los dos progenitores soliciten la reincorporación al puesto de trabajo.
+En caso de fallecimiento de uno de los progenitores, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que le reste de permiso.
+¿Quién asume el coste del nuevo permiso de ampliación del permiso?
+La Seguridad Social asume el coste total del permiso por nacimiento y cuidado de menor y abonará el 100% de la base reguladora. La prestación estará exenta de IRPF, por lo que el importe a ingresar será el salario bruto de la nómina, sin retención de Hacienda.
+¿Cómo puedo solicitar la prestación?
+Con certificado digital: Si dispone de certificado digital o usuario y contraseña en Cl@ve, a través del portal Tu Seguridad Social, en el apartado de Prestación por nacimiento y cuidado del menor.
+Sin certificado digital: Si no dispone de métodos de identificación previa, puede utilizar la plataforma para trámites sin certificado digital del INSS que encontrará en la web de prestaciones de la Seguridad Social.
+Por correo: Descargue y rellene el formulario de solicitud que encontrará en la web de la Seguridad Social y remítalo por correo ordinario a la Dirección Provincial del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina correspondiente, junto al resto de la documentación.
+Presencial: Deberá presentar la solicitud y la documentación con cita previa.
+¿Qué documentación tengo que aportar?
+Solicitud de la prestación.
+Acreditación de identidad de los progenitores (DNI, pasaporte o NIE)
+Para trabajadores por cuenta ajena: Certificado de empresa en el que conste la fecha de inicio del descanso laboral por nacimiento y cuidado del menor.
+Además, en caso de nacimiento:
+Informe de maternidad expedido por el Servicio Público de Salud.
+Libro de Familia o certificado de la inscripción en el Registro Civil del niño.
+En caso de gestación por sustitución: Inscripción de la filiación del nacido en el Registro Civil a favor del progenitor comitente (persona que confía la gestación de su hijo a otra persona) o la inscripción de la filiación del hijo en el Registro Civil español a favor del comitente y de la madre biológica.
+En caso de adopción o acogimiento:
+Libro de Familia o certificado de la inscripción en el Registro Civil del recién nacido.
+Resolución judicial por la que se constituye la adopción o resolución administrativa o judicial por la que se concede el acogimiento familiar.
+Cuando sea necesario el desplazamiento previo al país de origen del niño adoptado, hay que aportar la documentación emitida por el órgano competente de la comunidad autónoma de residencia, en la que se justifique el inicio de los trámites para la adopción.
+Líneas estratégicas del Plan Estatal de Vivienda 2026-2030
+El Gobierno ha presentado las líneas maestras del futuro Plan Estatal de Vivienda 2026-2030, dotado con 7.000 millones de euros. Una movilización de recursos sin precedentes que permitirá avanzar en la consolidación de un sistema público de vivienda con estándares europeos y reforzar la política de vivienda como el quinto pilar del Estado del Bienestar.
+El Plan Estatal de Vivienda (PEV) 2026-2030 será el primer plan elaborado de acuerdo con la Ley por el derecho a la vivienda aprobada en 2023, norma que desarrolla el derecho constitucional a una vivienda digna y adecuada para toda la ciudadanía. El plan supone un gran impulso a las políticas estatales de vivienda, e incrementará significativamente la inversión en vivienda protegida, rehabilitación y ayudas a jóvenes. También busca dotar de mayor transparencia al acceso a los datos en la materia.
+La ministra de Vivienda y Agenda Urbana, Isabel Rodríguez, ha destacado que el plan constituye "un nuevo instrumento para marcar una política contundente y eficaz de vivienda desde lo público".
+¿Qué es el Plan Estatal de Vivienda 2026-2030?
+El PEV 2026-2030 es un instrumento estratégico del Gobierno de España que establecerá las políticas públicas de vivienda para los próximos cinco años. La ley de vivienda define los planes estatales de vivienda como una de las principales herramientas de actuación del Estado en política de vivienda, y señala que deberá tener carácter plurianual y elaborarse en coordinación con las demás estrategias estatales. La ley también dispone que los planes de vivienda se compondrán de programas orientados a favorecer el acceso a una vivienda digna y adecuada, así como a promover la oferta de vivienda suficiente y adecuada, especialmente en zonas de mercado residencial tensionado.
+¿Qué objetivos tiene el Plan Estatal de Vivienda?
+El PEV 2026-2030 persigue cinco grandes metas:
+Incrementar el parque de vivienda asequible con carácter protegido y permanente.
+Rehabilitar el parque existente, mejorando eficiencia energética, accesibilidad y regeneración urbana.
+Reducir la edad de emancipación joven, facilitando el acceso a la vivienda.
+Disminuir el esfuerzo financiero de las familias, garantizando que el pago de la vivienda no supere el 30% de los ingresos.
+Revertir las zonas de mercado tensionado mediante políticas de contención y reducción de precios.
+¿Cómo se distribuirá la inversión?
+El Plan prevé una financiación de 7.000 millones de euros, que triplicará la del plan anterior, con un reparto competencial acorde a la Constitución:
+60% aportado por el Estado.
+40% por las comunidades autónomas, responsables de la competencia en vivienda.
+Líneas estratégicas del plan
+1. Más vivienda: construcción y compra
+El 40% de los recursos del futuro Plan se destinarán a incrementar la oferta de vivienda protegida, y se garantizará que esta permanezca en el parque público con carácter permanente. De esta línea, destacan las siguientes medidas:
+Recuperación de las ayudas a la construcción de VPO.
+Colaboración con administraciones, promotores sociales y fórmulas público-privadas.
+Movilización de vivienda vacía mediante compra o cesión para incorporar al parque público.
+2. Mejor vivienda: rehabilitación
+El 30% de los fondos financiarán la rehabilitación de viviendas, edificios y entornos urbanos, con el objetivo de dignificar el parque ya construido y reducir un 30% del consumo energético de más de 260.000 viviendas.
+Las ayudas aumentarán, además, en los casos siguientes:
+Viviendas situadas en zonas de protección patrimonial.
+Viviendas vacías que se destinen a alquiler asequible.
+3. Emancipación joven
+El plan incluirá un paquete de ayudas específicas para jóvenes:
+Subvenciones al alquiler.
+Ayudas de hasta 30.000 euros para alquiler con opción a compra de vivienda protegida.
+Ayudas de más de 10.800 euros para compra en municipios en riesgo demográfico.
+Aval joven para facilitar el acceso al alquiler.
+4. Reducción de la tasa de esfuerzo
+El PEV 2026-2030 incorpora un compromiso de asequibilidad en todas las promociones financiadas por el Estado para garantizar que sus beneficiarios, en ningún caso, tengan que destinar más de un 30% de sus ingresos al pago de la vivienda.
+Además, se mantienen las ayudas generales al alquiler, y se refuerzan las ayudas contempladas en casos de vulnerabilidad para facilitar soluciones habitacionales o sufragar gastos asociados a la vivienda en casos necesarios.
+5. Reversión de zonas tensionadas
+El PEV incluye medidas específicas para contener y reducir precios de alquiler y compra en zonas de mercado tensionado, de acuerdo con lo dispuesto en la ley de vivienda.
+¿Qué supone este plan para la ciudadanía?
+El Plan Estatal de Vivienda 2026-2030 responde al consenso académico y la demanda social por un acuerdo de Estado en materia de vivienda. Supone:
+El mayor esfuerzo inversor realizado hasta la fecha.
+La consolidación del parque público como un legado para futuras generaciones.
+Una respuesta realista y eficaz al principal problema señalado por la ciudadanía: el acceso a la vivienda.
+¿Cómo participar en el proceso de elaboración del Plan Estatal de Vivienda?
+El Ministerio de Vivienda y Agenda Urbana ha abierto a audiencia pública el Proyecto de Real Decreto por el que se regula el Plan Estatal de Vivienda 2026-2030. Las aportaciones podrán realizarse hasta el día 7 de octubre de 2025 a través de este formulario en la página web del ministerio.
+Salario Mínimo Interprofesional (SMI): ¿qué es, cuánto sube y a quién beneficia?
+El Salario Mínimo Interprofesional (SMI) para 2025 se sitúa en 16.576 euros anuales distribuidos en 14 pagas de 1.184 euros, con lo que acumula un incremento del 61% desde el año 2018. Unos 2,4 millones de trabajadores se beneficiarán de esta medida.
+Con la nueva subida del SMI, las personas trabajadoras percibirán 6.273 euros más al año que en 2018. Las empleadas de hogar que trabajen por horas percibirán, al menos, 9,26 euros por cada hora.
+¿Qué es el Salario Mínimo Interprofesional?
+Es la cuantía retributiva mínima que percibe el trabajador referida a la jornada legal de trabajo. Lo regula el Gobierno anualmente, previa consulta con las organizaciones sindicales y las asociaciones empresariales más representativas. En el salario mínimo se computa únicamente la retribución en dinero. Este salario se entiende referido a la jornada legal de trabajo en cada actividad. Si se realizase jornada inferior se percibirá a prorrata.
+¿Cuál es la cuantía del Salario Mínimo Interprofesional en 2025?
+El Consejo de Ministros aprobó el 11 de febrero de 2025 la subida del Salario Mínimo Interprofesional en un 4,4%, tras el acuerdo alcanzado con las organizaciones sindicales.
+Para todas las actividades en la agricultura, la industria y los servicios, sin distinción de sexo ni edad de los trabajadores, queda fijado en 39,47 euros brutos al día, o 16.576 euros brutos anuales distribuidos en 14 pagas de 1.184 euros.
+Esta cifra supone un incremento de 50 euros mensuales en 14 pagas, es decir, un total de 700 euros anuales.
+¿El Salario Mínimo Interprofesional es neto o bruto?
+El Salario Mínimo Interprofesional se refiere al salario bruto de los trabajadores. Los 1.184 euros mensuales en 14 pagas representan el total de devengos de la nómina, y en caso de estar prorrateadas las pagas extras, serán 1.381 euros mensuales en 12 pagas.
+¿Cuál es el salario mínimo de eventuales, temporeros y empleadas del hogar?
+El salario de las personas trabajadoras eventuales, así como las temporeras cuyos servicios a una misma empresa no excedan de 120, no puede ser inferior a 56,08 euros por jornada.
+En el caso de empleadas y empleados del hogar que trabajen por horas, el salario mínimo será de 9,26 euros por hora efectivamente trabajada.
+¿La subida del SMI tiene efectos retroactivos?
+Sí. El incremento aprobado en Consejo de Ministros se aplicará con carácter retroactivo al 1 de enero de 2025.
+¿Cuánto ha subido el SMI en los últimos años?
+En la anterior legislatura, el Gobierno elevó el Salario Mínimo Interprofesional desde los 736 euros hasta los 1.080 en 2023, un incremento del 47%.
+Con la subida del SMI acordada para 2025, el SMI se incrementa en un 61% desde 2018. Esta cifra supone un incremento de 50 euros mensuales en 14 pagas, es decir, un total de 700 euros anuales.
+Ley de Residuos: ¿qué es y qué objetivos persigue?
+En 2025 los ayuntamientos que aún no solicitan la tasa de basuras requerida para cumplir con los objetivos europeos sobre reciclaje deberán hacerlo de manera obligatoria.
+La Ley de Residuos aprobada en 2022 estableció un plazo de tres años para que los ayuntamientos adaptasen su gestión de los residuos a los objetivos de reciclaje establecidos por la Unión Europea.
+Esta adaptación debía realizarse a través de la imposición de una nueva tasa de basuras que sufragara la recogida, el transporte y el tratamiento de residuos sólidos urbanos, de acuerdo con el principio de "quien contamina paga".
+Los municipios que aún no han cumplido con este compromiso y no han puesto en marcha esta tasa deberán hacerlo de manera obligatoria a partir de 2025.
+¿Qué objetivos tiene la Ley de Residuos?
+La Ley 7/2022 sobre residuos y suelos contaminados para una economía circular transpuso en España una directiva europea de 2018 para cumplir con los nuevos objetivos establecidos en la normativa comunitaria e impulsar la economía circular en España.
+La meta fundamental de esta ley es aumentar la circularidad de los residuos. Para ello, la norma introdujo la obligatoriedad de recoger de forma separada nuevas fracciones de residuos como los biorresiduos, los textiles, los residuos domésticos peligrosos, los aceites de cocina usados y los residuos voluminosos para su posterior tratamiento diferenciado. Este nuevo marco se completó con la introducción de un calendario de implantación de recogidas separadas de residuos y medidas para minimizar la utilización de los plásticos de un solo uso.
+Además, la ley persigue reducir al mínimo los efectos negativos de la generación y gestión de residuos sobre la salud humana y el medioambiente, contribuyendo a la lucha contra el cambio climático y a la protección del medio marino. Se alinea con los Objetivos de Desarrollo Sostenible de la Agenda 2030, especialmente los relativos a producción y consumo sostenibles, acción por el clima y vida submarina.
+¿Por qué se establece una nueva tasa de gestión de residuos?
+La directiva europea de 2018 exigía a los Estados miembro alcanzar el 55% de la reutilización y reciclaje de residuos municipales para 2025, un porcentaje que deberá llegar al 60% en 2030 y al 65% en 2035.
+Para lograr este objetivo, la ley española estableció que los municipios debían aplicar un tributo que cubriese los costes de la recogida, transporte y tratamiento de residuos sólidos urbanos, y debían hacerlo en un plazo de tres años. Este plazo expiró en abril de 2025.
+Tasa de residuos: ¿cuánto se paga, cómo y cuándo?
+Cada municipio puede implementar este tributo según sus propios criterios, por lo que son los propios ayuntamientos los que determinan cómo calcular la cuantía de la tasa. En todo caso, la tasa deberá reflejar el coste real del servicio, incluyendo no solo la recogida y tratamiento, sino también la vigilancia de las operaciones, el gasto en mantenimiento o las campañas de concienciación y comunicación en la materia.
+La ley también contempla que los ayuntamientos puedan adaptar la tasa a las características de su población con herramientas como reducciones para personas o familias vulnerables o incentivos para la recogida separada de residuos en viviendas de alquiler vacacional.
+Para confirmar cuánto, a través de qué vías (transferencia, en efectivo o con domiciliación) y cuándo se paga esta tasa, se recomienda acudir a la oficina municipal o acceder a la página web del ayuntamiento que corresponda.
+Obligaciones de la Ley de Residuos para las empresas
+Además de los ayuntamientos, también han debido adaptarse a la Ley de Residuos las empresas que, desde la entrada en vigor de esta norma en el año 2022, tienen la obligación de minimizar el uso de plásticos de un solo uso. Con esta meta siempre presente, la ley estableció medidas como:
+La prohibición de vender productos de plástico, como cubiertos, platos o pajitas.
+El cobro a los clientes de una cantidad por cada producto de plástico no reutilizable que se entregue, especificando este coste adicional. En el caso de los restaurantes, se debe ofrecer a los clientes agua no envasada de forma gratuita.
+La ampliación de la responsabilidad del productor al tratamiento completo de los residuos, para garantizar que los productores asumen la responsabilidad de la gestión de residuos.
+La creación de nuevos gravámenes como el impuesto al plástico, que grava el uso de envases de plástico no reutilizables, o el impuesto al depósito e incineración de residuos en vertederos.
+Estas medidas se complementan con el fomento del diseño de productos más duraderos, reparables y reciclables, evitando la obsolescencia prematura y fomentando la reutilización. Asimismo, se incluyen medidas de información a los consumidores sobre la reparabilidad y el impacto ambiental de determinados productos.
+El papel de la Ley de Residuos en la lucha contra el cambio climático
+La Ley de Residuos establece un marco general para mejorar la gestión de los residuos y reducir su impacto ambiental, lo que supone una importante contribución en la lucha contra el cambio climático. Con medidas como la recogida separada, la prevención del uso de plásticos y la aplicación del principio "quien contamina paga", se busca avanzar hacia una economía más eficiente en el uso de recursos y disminuir las emisiones de gases de efecto invernadero asociadas a los residuos, que se estiman en un 4% del total.
+El modelo español de trasplantes: funcionamiento y claves de su liderazgo mundial
+En 2024 España batió el récord de trasplante de órganos y mantuvo, así, la posición de líder mundial que ocupa en este ámbito desde hace más de 30 años. Recomendado por la Organización Mundial de la Salud, el modelo español basa su éxito en un enfoque multidisciplinar que aborda aspectos legales, técnicos y económicos.
+El trasplante de órganos, que salva la vida o mejora la salud de decenas de miles de pacientes anualmente, registró su máximo histórico en España durante 2024. El pasado año el denominado "modelo español de trasplantes" registró una tasa de 53,9 donantes fallecidos por millón de población, muy por encima del resto de países del mundo.
+Estas cifras mantienen a España como líder internacional en el ámbito de las donaciones y los trasplantes, posición que ocupa desde hace más de tres décadas. El modelo español es el conjunto de medidas adoptadas que ha fraguado este liderazgo. Se trata de una estrategia ampliamente descrita en la literatura científica que ha sido, además, recomendada por la Organización Mundial de la Salud (OMS).
+¿Cómo funciona el modelo español de trasplantes?
+El modelo español de trasplantes se construye sobre dos pilares fundamentales: la Ley de Trasplantes de 1979, que ha sido progresivamente adaptada a los diferentes avances científico-tecnológicos a través de sucesivas normas; y el Sistema Nacional de Salud, cuya condición de sistema público y de acceso universal permite que cualquier paciente pueda acceder al trasplante sin ningún tipo de discriminación.
+En este modelo, la Organización Nacional de Trasplantes (ONT) es el organismo autónomo encargado de coordinar la política de trasplantes a nivel nacional. Ejerce una labor de armonización entre la administración sanitaria central y las autonómicas, que son el soporte de todo el proceso de donación y trasplante.
+Además de la coordinación nacional y autonómica, existe un tercer nivel de coordinación integrado por la red de hospitales autorizados para la obtención de órganos. Uno de los criterios de autorización de estos centros es que cuenten con una unidad de coordinación de trasplantes dentro del hospital, la responsable de orquestar el proceso de donación y trasplante de órganos.
+La figura del coordinador hospitalario de trasplantes, que ejerce el liderazgo en estas unidades, es una de las claves sobre las que pivota el modelo español. Es mayoritariamente médico intensivista, y funciona con el soporte de la ONT y las Coordinaciones Autonómicas de Trasplante.
+Donación: principios y condiciones
+La donación de órganos es un gesto altruista que, por ley, es libre, voluntario, confidencial, anónimo, gratuito y no lucrativo.
+Toda persona puede decidir en vida que, a su muerte, sus órganos sirvan para salvar o mejorar la vida de otros. Sin embargo, no todo el mundo puede ser donante: para ello, las unidades de coordinación son las que valoran la validez de los órganos para el trasplante.
+La donación de células y tejidos está también regulada en España y es también voluntaria y altruista, no pudiéndose percibir contraprestación económica o remuneración alguna ni por el donante ni por cualquier otra persona física ni jurídica.
+En esta categoría está el trasplante de médula ósea, el tejido que se encuentra dentro de algunos huesos donde anidan las células madre y por eso es indispensable para la vida. En términos generales, puede registrase como donante de médula ósea toda persona sana desde los 18 hasta los 40 años, siempre que no padezca ninguna enfermedad transmisible o que pueda poner en peligro su vida por el hecho de la donación.
+Requisitos del proceso de donación
+La legislación española establece que todas las personas son donantes a no ser que hayan expresado lo contrario, supuesto conocido en todo el mundo como "consentimiento presunto".
+Sin embargo, en España a la hora de aplicarla se establece un procedimiento para preservar la voluntad del fallecido, ya que su oposición puede haber sido formulada de diferentes modos (por ejemplo, mediante la expresión de su voluntad a familiares o a profesionales que le hayan atendido en el centro sanitario).
+En la web de la campaña "Eres perfecto para otros" se puede descargar la tarjeta de donante, un documento simbólico que sirve como testimonio escrito del deseo de donar tras el fallecimiento.
+¿Qué es la donación de vivo?
+La donación de vivo es la obtención de órganos procedentes de donantes vivos en aquellos casos en los que esto sea posible.
+Este procedimiento depende del cumplimiento de determinadas condiciones y requisitos reglamentarios: entre estos, que el donante sea mayor de edad y goce de buena salud física y mental.
+La legislación española incluye los pasos a seguir por todos los implicados para garantizar los derechos de donante y receptor y que la donación se rija por los principios generales. Dado que cada caso tiene sus propias particularidades, se recomienda consultar todas las dudas al equipo médico responsable del paciente.
+España, referente internacional
+Desde la Unión Europea se ha recomendado expresamente en distintos documentos la adopción total o parcial del modelo español. En el documento del Consejo de Europa "Meeting the Organ Shortage: Current status and strategies for improvement" se describen los elementos más importantes del modelo para su implementación en otros países, entre los que destacan un sistema sanitario con cobertura universal, financiación adecuada o un número suficiente de personal médico y de enfermería.
+El liderazgo internacional de España en este ámbito se refleja, además, en la hoja de ruta global que la OMS ha planteado para impulsar los trasplantes en los próximos años: la resolución "Aumento de la disponibilidad, acceso ético y supervisión del trasplante de células, tejidos y órganos humanos". España ha sido la principal promotora de este documento, cuyas bases se sentaron durante la Presidencia española de la UE en la denominada Declaración de Santander.
+Antecedentes e historia del Consejo de Ministros
+El origen del Consejo de Ministros, con tal denominación, se remonta al 19 de noviembre de 1823, fecha en la que el rey Fernando VII dicta un Real Decreto por el que se crea el Consejo de Ministros, dirigido al entonces primer secretario de Estado, Víctor Damián Sáez.
+El consejo, según esta norma, se concibió como un órgano colegiado, presidido por el rey, y compuesto por cinco miembros. Su función era tratar asuntos de utilidad general y dictar providencias de común acuerdo, que quedarían recogidas en un libro.
+El Real Decreto cita dos precedentes: el Consejo de Gabinete creado por Felipe V en noviembre de 1714 y la Suprema Junta de Estado establecida por Carlos III en julio de 1787.
+Primera reunión
+La primera reunión registrada en acta fue la del 3 de enero de 1824, aunque va sin firmar. El primer secretario titular del Consejo de Ministros fue Antonio de Ugarte y Larrazábal, que suscribió la primera acta con firma el 15 de febrero de 1824.
+La ausencia de actas entre noviembre y diciembre de 1823 hace pensar que no se celebraron reuniones. Sin embargo, al parecer los diarios de la época publican decretos tramitados por el Consejo de Ministros, por lo que los consejos tuvieron que celebrarse.
+Evolución
+El Consejo de Ministros se reúne en el año 1824 en 42 ocasiones, pero el monarca sólo acudió a cinco reuniones. El ministro de Estado presidió, sin atribución expresa, las 37 sesiones restantes.
+Fernando VII reconoció de forma formal y expresa, mediante el Real Decreto de 31 de diciembre de 1824, que en su ausencia presidiera el Consejo el primer secretario de Estado y del Despacho universal, bajo la denominación, con anterioridad inexistente, de presidente del Consejo de Ministros. El texto iba dirigido a Francisco de Cea y Bermúdez.
+Este Real Decreto también regulaba la periodicidad del Consejo de Ministros: "dos veces a lo mejor por semana y siempre que cualquiera de sus secretarios de despacho lo considerara necesario".
+Las actas revelan que el Consejo de Ministros celebró sus reuniones en el Palacio Real hasta 1825. Desde entonces y hasta finales del reinado de Isabel II se trasladó a la denominada Casa de los Ministerios, un edificio que en la actualidad alberga el Centro de Estudios Políticos y Constitucionales. También se desarrollaron reuniones en algunos de los Reales Sitios, como Aranjuez, San Lorenzo o La Granja.
+A lo largo del siglo XIX y el grueso del siglo XX, la sede del Consejo fue cambiando. No será hasta el año 1977 cuando se desplace a su sede actual, el edificio del Consejo de Ministros ubicado en el complejo de la Moncloa. Finalmente, con la Constitución de 1978 quedará fijado también su papel actual como órgano colegiado de los sucesivos Gobiernos en el marco de un Estado social y democrático de Derecho.
+Bicentenario del Consejo de Ministros: publicación de nuevas actas
+Las actas del Consejo de Ministros constituyen una documentación esencial para comprender la evolución histórica de España.
+Entre 1989 y 1992, en una iniciativa pionera entre los países de nuestro entorno, fueron transcritas y publicadas las primeras actas, que recogen las reuniones celebradas entre el 3 de enero de 1824 y 1930, por su valor documental y su contribución a la transparencia y al patrimonio común de los españoles.
+Estos documentos abarcan un periodo de 106 años, pero solo están disponibles las actas de 21 años y, en algunos casos, incompletas. En algunos periodos no se redactaron y en otros pudieron extraviarse. Están recogidas en ocho tomos correspondientes al período de Fernando VII (entre 1824-1833), dos tomos a la etapa de Isabel II (1833-1839, 1843-1844 y 1854-1855) y la Primera República española (1873-1874), más otro que corresponde a la segunda etapa de la dictadura del general Miguel Primo de Rivera, denominada Directorio Civil (1925-1930). Este último periodo es el único de la historia política de España que está pormenorizadamente documentado en actas del Consejo de Ministros.
+Las actas correspondientes a los Consejos de Ministros celebrados desde el principio de la II República, en 1931, hasta el final de la Guerra Civil que dio paso a la dictadura de Francisco Franco, en 1939, no han sido localizadas. Tampoco se conservan las actas de los consejos celebrados desde 1939 hasta 1957. En el año 1957, un decreto regula las reuniones del Consejo de Ministros y, desde entonces, se conservan las actas en el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+Con motivo del bicentenario de la creación del Consejo de Ministros, el 19 de noviembre de año 2023, el Gobierno publicó, en un ejercicio de transparencia y servicio público, todas las actas posteriores a la Constitución de 1978, que están a disposición de la ciudadanía en la web del Ministerio de la Presidencia.
+Fuentes:
+Actas del Consejo de Ministros (Ministerio de la Presidencia, Justicia y Relaciones con las Cortes); Archivo del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes; Los orígenes del Consejo de Ministros en España. José Antonio Escudero (2023); La creación de la Presidencia del Consejo de Ministros. José Antonio Escudero (1972).
+Gobierno de la XV Legislatura
+Gabinete desde el 21 de noviembre de 2023 hasta el 29 de diciembre de 2023
+Tras la celebración de las elecciones generales del 23 de julio de 2023, el Congreso de los Diputados otorga su confianza por mayoría absoluta a Pedro Sánchez Pérez-Castejón, investido presidente del Gobierno el 16 de noviembre.
+El Boletín Oficial del Estado (BOE) publica el Real Decreto con su nombramiento el 17 de noviembre. Ese mismo día, Pedro Sánchez promete el cargo ante el rey Felipe VI en el Palacio de la Zarzuela.
+El presidente anuncia la composición de su Gobierno el 20 de noviembre, cuyos nombramientos publica el BOE al día siguiente.
+El 21 de noviembre Pedro Sánchez asiste al acto de promesa de los miembros de su Gabinete ante el rey.
+Los ministros y ministras del nuevo Gabinete son los siguientes:
+Vicepresidenta primera y ministra de Economía, Comercio y Empresa, Nadia María Calviño Santamaría.
+Vicepresidenta segunda y ministra de Trabajo y Economía Social, Yolanda Díaz Pérez.
+Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.
+Vicepresidenta cuarta y ministra de Hacienda y Función Pública, María Jesús Montero Cuadrado.
+Ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares.
+Ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños.
+Ministra de Defensa, Margarita Robles.
+Ministro del Interior, Fernando Grande-Marlaska.
+Ministro de Transportes y Movilidad Sostenible, Óscar Puente.
+Ministra de Educación, Formación Profesional y Deportes; y portavoz del Gobierno, Pilar Alegría.
+Ministro de Industria y Turismo, Jordi Hereu.
+Ministro de Agricultura, Pesca y Alimentación, Luis Planas.
+Ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres.
+Ministra de Vivienda y Agenda Urbana, Isabel Rodríguez.
+Ministro de Cultura, Ernest Urtasun.
+Ministra de Sanidad, Mónica García.
+Ministro de Derechos Sociales, Consumo y Agenda 2030, Pablo Bustinduy.
+Ministra de Ciencia, Innovación y Universidades, Diana Morant.
+Ministra de Igualdad, Ana Redondo.
+Ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz.
+Ministro de Transformación Digital, José Luis Escrivá.
+Ministra de Juventud e Infancia, Sira Rego.
+Gabinete desde el 29 de diciembre de 2023 hasta el 6 de septiembre de 2024
+El 29 de diciembre de 2023, el presidente del Gobierno anuncia la primera remodelación del Gabinete de la XV legislatura.
+Como consecuencia del nombramiento de la vicepresidenta primera y titular de Economía, Nadia Calviño, como nueva directora del Banco Europeo de Inversiones, cesa en su cargo y es sustituida por Carlos Cuerpo.
+La vicepresidenta cuarta y ministra de Hacienda y Función Pública, María Jesús Montero, asume la Vicepresidencia Primera en sustitución de Calviño. A su vez, la Secretaría de Estado de Función Pública pasa a formar parte del Ministerio de Transición Digital que dirige el ministro José Luis Escrivá.
+El Boletín Oficial del Estado (BOE) publica el Real Decreto con los tres nombramientos el 29 de diciembre y la reestructuración de los departamentos ministeriales y las vicepresidencias del Gobierno. Los ministros prometen sus cargos ante el rey el mismo día en el Palacio de la Zarzuela.
+El Gabinete queda compuesto de la siguiente manera:
+Presidente del Gobierno, Pedro Sánchez Pérez-Castejón.
+Vicepresidenta primera y ministra de Hacienda, María Jesús Montero Cuadrado.
+Vicepresidenta segunda y ministra de Trabajo y Economía Social, Yolanda Díaz Pérez.
+Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.
+Ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares.
+Ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños.
+Ministra de Defensa, Margarita Robles.
+Ministro del Interior, Fernando Grande-Marlaska.
+Ministro de Transportes y Movilidad Sostenible, Óscar Puente.
+Ministra de Educación, Formación Profesional y Deportes; y portavoz del Gobierno, Pilar Alegría.
+Ministro de Industria y Turismo, Jordi Hereu.
+Ministro de Agricultura, Pesca y Alimentación, Luis Planas.
+Ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres.
+Ministra de Vivienda y Agenda Urbana, Isabel Rodríguez.
+Ministro de Cultura, Ernest Urtasun.
+Ministro de Economía, Comercio y Empresa, Carlos Cuerpo Caballero.
+Ministra de Sanidad, Mónica García.
+Ministro de Derechos Sociales, Consumo y Agenda 2030, Pablo Bustinduy.
+Ministra de Ciencia, Innovación y Universidades, Diana Morant.
+Ministra de Igualdad, Ana Redondo.
+Ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz.
+Ministro para la Transformación Digital y de la Función Pública, José Luis Escrivá.
+Ministra de Juventud e Infancia, Sira Rego.
+Gabinete desde el 6 de septiembre hasta el 25 de noviembre de 2024
+El 4 de septiembre de 2024, el presidente del Gobierno anuncia la segunda remodelación del Gabinete de la XV legislatura.
+Como consecuencia del nombramiento del ministro para la Transformación Digital y de la Función Pública, José Luis Escrivá, como nuevo gobernador del Banco de España, cesa en su cargo y es sustituido por Óscar López.
+El Boletín Oficial del Estado (BOE) publica el Real Decreto con el nombramiento el 6 de septiembre. El ministro promete su cargo ante el rey el mismo día en el Palacio de la Zarzuela.
+El último Gabinete queda compuesto de la siguiente manera:
+Presidente del Gobierno, Pedro Sánchez Pérez-Castejón.
+Vicepresidenta primera y ministra de Hacienda, María Jesús Montero Cuadrado.
+Vicepresidenta segunda y ministra de Trabajo y Economía Social, Yolanda Díaz Pérez.
+Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.
+Ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares.
+Ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños.
+Ministra de Defensa, Margarita Robles.
+Ministro del Interior, Fernando Grande-Marlaska.
+Ministro de Transportes y Movilidad Sostenible, Óscar Puente.
+Ministra de Educación, Formación Profesional y Deportes; y portavoz del Gobierno, Pilar Alegría.
+Ministro de Industria y Turismo, Jordi Hereu.
+Ministro de Agricultura, Pesca y Alimentación, Luis Planas.
+Ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres.
+Ministra de Vivienda y Agenda Urbana, Isabel Rodríguez.
+Ministro de Cultura, Ernest Urtasun.
+Ministro de Economía, Comercio y Empresa, Carlos Cuerpo Caballero.
+Ministra de Sanidad, Mónica García.
+Ministro de Derechos Sociales, Consumo y Agenda 2030, Pablo Bustinduy.
+Ministra de Ciencia, Innovación y Universidades, Diana Morant.
+Ministra de Igualdad, Ana Redondo.
+Ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz.
+Ministro para la Transformación Digital y de la Función Pública, Óscar López.
+Ministra de Juventud e Infancia, Sira Rego.
+Figura del presidente y sus funciones
+Nombramiento y funciones del presidente; estructura de la Presidencia del Gobierno.
+Presidente del Gobierno
+Elección
+Después de cada renovación del Congreso de los Diputados, y en los demás supuestos previstos en la Constitución, el rey, previa consulta con los representantes designados por los grupos políticos presentes en el Parlamento, y a través del presidente del Congreso, propone un candidato a la Presidencia del Gobierno.
+El candidato debe exponer ante el Congreso de los Diputados el programa político del Gobierno que pretende formar y solicitar la confianza de la Cámara, que se entiende otorgada si consigue el apoyo de la mayoría absoluta de sus miembros. Si no alcanza estos apoyos, será necesario repetir la votación cuarenta y ocho horas después. En este caso, es suficiente con que obtenga la confianza de la mayoría simple de los diputados.
+Si finalmente tampoco consiguiese la mayoría necesaria para la investidura en esta segunda votación, se establece que se repetirán propuestas sucesivas con el mismo procedimiento. Pasados dos meses desde la primera votación, si ningún candidato obtiene la confianza del Congreso, el rey debe disolver las Cortes y convocar nuevas elecciones con el refrendo del presidente del Congreso.
+Nombramiento
+Una vez que el candidato ha obtenido la confianza del Congreso, el rey le nombra presidente con el refrendo del presidente del Congreso. El nombramiento se publica en el Boletín Oficial del Estado y posteriormente el presidente toma posesión de su cargo ante el Rey.
+Funciones
+La Constitución atribuye al presidente la dirección de la acción del Gobierno y la coordinación de las funciones de sus demás miembros, sin perjuicio de la competencia y responsabilidad directa de cada uno de ellos en la gestión de sus departamentos ministeriales.
+Asimismo, le corresponden las competencias establecidas en la Ley 50/1997 del Gobierno, que son:
+Representar al Gobierno
+Proponer al rey el nombramiento y separación de los vicepresidentes y de los ministros
+Crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales, así como las Secretarías de Estado
+Aprobar la estructura orgánica de la Presidencia del Gobierno
+Impartir instrucciones a los demás miembros del Gobierno y resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios
+Convocar, presidir y fijar el orden del día de las reuniones del Consejo de Ministros, sin perjuicio de que pueda presidirlas el rey, cuando lo estime oportuno, a petición del presidente del Gobierno
+Proponer al rey, previa deliberación del Consejo de Ministros, la disolución del Congreso, del Senado o de las Cortes Generales
+Plantear ante el Congreso de los Diputados, previa deliberación del Consejo de Ministros, la cuestión de confianza
+Establecer el programa político del Gobierno y determinar las directrices de la política interior y exterior y velar por su cumplimiento
+Dirigir la política de defensa y ejercer respecto de las Fuerzas Armadas las funciones previstas en la legislación reguladora de la defensa nacional y de la organización militar
+Refrendar, en su caso, los actos del rey y someterle, para su sanción, las leyes y demás normas con rango de ley
+Proponer al rey la convocatoria de un referéndum consultivo, previa autorización del Congreso de los Diputados
+Interponer el recurso de inconstitucionalidad
+Presidencia del Gobierno
+El presidente del Gobierno aprueba la estructura orgánica de la Presidencia del Gobierno que, bajo su dirección, desarrolla sus funciones a través de diferentes órganos superiores y directivos.

@@ -1,0 +1,87 @@
+Baliza V16 Conectada: ¿qué es, para qué sirve y cuándo será obligatoria?
+
+La baliza V16 Conectada es un dispositivo homologado para señalizar averías y accidentes en la carretera que será de uso obligatorio y sustituirá a los triángulos a partir del 1 de enero de 2026.
+
+El Consejo de Ministros, en su reunión del 16 de marzo de 2021, aprobó un Real Decreto para regular los servicios de auxilio en vías públicas que incluía, como principal novedad, la sustitución de los dos triángulos que se colocan delante y detrás del vehículo inmovilizado tras una avería o accidente por un dispositivo luminoso que se sitúa en la parte más alta del vehículo. La norma estableció su obligatoriedad a partir del 1 de enero de 2026.
+
+El Boletín Oficial del Estado publicó el 20 de diciembre de 2022 un nuevo Real Decreto que modifica y completa esa normativa, fundamentalmente, en lo que respecta a aspectos técnicos, de certificación y de conectividad de los dispositivos (balizas).
+
+Los conductores han podido utilizar hasta ahora tanto los triángulos como las balizas con o sin conexión. Sin embargo, a partir del 1 de enero de 2026 solo serán legales los dispositivos V16 conectados a la plataforma DGT 3.0.
+
+¿Qué es la baliza V16 Conectada?
+
+Es una pequeña baliza de color amarillo que está dotada de conectividad y es capaz de emitir una luz 360º de alta intensidad de forma intermitente y continua al menos durante 30 minutos. Incorpora una pila o batería con una vida útil de un mínimo de 18 meses, al margen de si es o no recargable.
+
+¿Cuál es el objetivo de la baliza V16?
+
+Evitar que los conductores tengan que bajar de sus vehículos cuando tienen alguna avería para colocar los triángulos, transitando por la calzada o el arcén. Cada año fallecen en España alrededor de 25 personas atropelladas mientras intentan colocar los triángulos.
+
+Aumentar la protección de los conductores y los ocupantes porque la conectividad permite la visibilidad luminosa de los vehículos averiados y la visibilidad virtual, dado que el resto de conductores que circulen por la zona reciben un aviso a través de navegadores, aplicaciones de movilidad y paneles de mensaje variable, de que hay un vehículo parado en la calzada.
+
+¿Qué vehículos están obligados a llevarla?
+
+Los turismos, furgonetas, autobuses, vehículos mixtos adaptables, camiones y conjuntos de vehículos no especiales tienen que llevarla obligatoriamente. En el caso de las motocicletas, no es obligatorio, pero es aconsejable por motivos de seguridad.
+
+La baliza debe guardarse cargada en la guantera o en otro lugar accesible dentro de vehículo.
+
+¿Cómo se coloca la baliza V16 Conectada?
+
+Tras inmovilizar el vehículo en la carretera o en el arcén, el conductor tiene que encender la baliza y colocarla desde el interior en el techo del coche y, si no fuera posible, como es el caso de los autobuses y camiones, puede situarla en su puerta. También hay que activar las luces de emergencia del vehículo.
+
+La baliza V16 suele incluir un imán potente que le permite adherirse a superficies metálicas. Si el vehículo tiene una carrocería de aluminio o un techo de cristal, es posible que no se adhiera con la misma fuera que en las superficies de acero.
+
+¿Qué tiene que hacer el conductor tras activar la baliza?
+
+Una vez inmovilizado el vehículo y activada la baliza, el conductor y los ocupantes tendrán que valorar si es posible abandonar o no el coche en condiciones de seguridad.
+
+El Reglamento General de Circulación establece como norma general que deberán abandonar el vehículo siempre que exista un lugar seguro fuera de la plataforma de circulación. Tendrán que salir del coche por el lado contrario al flujo de tráfico sin transitar o permanecer en los carriles o arcenes que conforman la plataforma. Si las condiciones de circulación no permitieran a los ocupantes abandonar el vehículo con seguridad, permanecerán dentro con el cinturón abrochado.
+
+¿Cómo funciona la baliza V16 Conectada? ¿Necesito una app o un móvil?
+
+Después de activarla, la baliza emite una señal luminosa y transmite de forma automática la ubicación exacta del vehículo averiado a la plataforma DGT 3.0.
+
+El dispositivo incluye en su interior un chip GPS y una tarjeta SIM no extraíble que se encargan de realizar la conexión. Sólo hay que encenderlo. No es necesario utilizar el teléfono móvil ni ninguna aplicación.
+
+Las compañías telefónicas no van a cobrar a los particulares ninguna cuantía por el servicio de conectividad, ya que la legislación marca una disponibilidad de conectividad mínima de 12 años, cuyo coste está contemplado en el precio de venta del dispositivo V16.
+
+¿Qué fuente de alimentación utiliza y cuánto dura la batería?
+
+La baliza V16 funciona gracias a una fuente de alimentación interna que varía en función del modelo. Algunos dispositivos llevan pilas alcalinas no recargables y otros baterías de litio recargables por USB. En todos los casos deben garantizar un mínimo de 30 minutos de funcionamiento continuo tras la activación. Asimismo, tienen que tener una autonomía mínima, en reposo, de 18 meses.
+
+¿A qué distancia se ve la baliza conectada?
+
+En condiciones óptimas, la baliza se ve desde una distancia de 1.000 metros. Como la baliza está conectada a los centros de gestión de Tráfico, estos difundirán al resto de vehículos que circulen por la zona información del accidente o avería a través de los navegadores, las aplicaciones de movilidad o los ordenadores de a bordo. Los conductores de coches antiguos que no cuenten con este tipo de tecnología podrán informarse a través de los paneles de mensaje variable que están en las carreteras.
+
+Si el accidente o la avería se produce dentro de un túnel, ¿el dispositivo mandará la señal a la DGT?
+
+Sí. La baliza V16 funciona incluso en condiciones sin cobertura convencional gracias a su conexión mediante redes de comunicación IoT especializadas. En los casos donde ni siquiera estas redes estén disponibles, la baliza seguirá funcionando como señal visual y almacenará los datos para enviarlos cuando se restablezca la conexión.
+
+¿Avisa la baliza a los servicios de emergencia o a la grúa?
+
+La V16 Conectada no es un sistema de aviso a los servicios de emergencia ni a la grúa. Su función es señalizar y transmitir la posición exacta del vehículo para evitar siniestros viales. El conductor o los ocupantes tendrán que comunicar su incidente al servicio de emergencias si lo necesitan o al servicio de asistencia de la compañía aseguradora.
+
+¿Transmite la V16 mis datos personales?
+
+No. La baliza solo funciona si el usuario la activa y no transmite los datos personales del conductor, no registra la velocidad ni puede identificar la matrícula del coche. No está asociada a una persona, número de teléfono o matrícula. Los vehículos nuevos no vendrán con la baliza instalada. Además, no es necesario proporcionar ningún tipo de dato ni dar de alta el dispositivo. La DGT no solicita ningún dato.
+
+¿Qué modelo de baliza V16 compro?
+
+Las balizas tienen que estar homologadas y certificadas por IDIADA o LCOE, que son los laboratorios técnicos autorizados que ratifican que los modelos cumplen con la normativa. En el mercado hay más de doscientos modelos de balizas V16 conectadas con diversos precios. No todas las balizas que se anuncian como conectadas están homologadas, por lo que se recomienda consultar el listado actualizado de marcas y modelos certificados que figura en la página web de la DGT.
+
+¿Pueden seguir usándose las balizas V16 no conectadas?
+
+No. Los dispositivos V16 no conectados no serán válidos como medio para la señalización de vehículos inmovilizados a partir del 1 de enero de 2026, tal y como indica la normativa.
+
+¿Puedo seguir usando los triángulos?
+
+No. La baliza V16 conectada es el único medio reconocido para señalizar vehículos inmovilizados a partir del 1 de enero de 2026.
+
+Sí podrán utilizar los triángulos aquellos vehículos matriculados en otros países que circulen por nuestro país en calidad de circulación internacional.
+
+¿Puedo usar la V16 fuera de España?
+
+La baliza es válida para los vehículos matriculados en España que circulen por los países firmantes y ratificantes de la Convención sobre la Circulación de Viena, cuyo listado incluye alrededor de 86 naciones de distintos continentes.
+
+¿Cuál es la sanción por no llevar la baliza V16?
+
+La multa por no llevar la baliza es de 80 euros, que es la misma cantidad establecida para los conductores que no llevaban los triángulos de preseñalización.

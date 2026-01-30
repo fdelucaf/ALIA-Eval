@@ -1,0 +1,535 @@
+Avisos meteorològics AEMET: conèixer-los per prevenir i evitar danys
+Actuar a temps en una situació de risc pot minimitzar les conseqüències d'un fenomen meteorològic potencialment advers i fins i tot salvar vides. Però saps interpretar correctament un avís de l'AEMET? I la diferència entre un avís i una alerta meteorològica? En aquest article t’expliquem com fer-ho.
+Què són els avisos meteorològics?
+En primer lloc, convé definir què s'entén per fenomen meteorològic advers (FMA). Segons la definició de l'Agència Estatal de Meteorologia (AEMET), el concepte fa referència a tot esdeveniment meteorològic capaç de produir, directament o indirectament, danys a les persones i els béns i que, per tant, pot produir impactes.
+S'anomena avís a la predicció associada a la probabilitat que es produeixi un fenomen meteorològic advers (pluges, nevades, vents, tempestes, temperatures màximes i mínimes, fenòmens costaners, etc.) en una zona determinada.
+L'AEMET és l'agència responsable de l'observació i l'elaboració de prediccions meteorològiques a Espanya. I, per tant, de l'elaboració d'aquests avisos, que es divideixen en tres nivells en funció de la perillositat, seguint els estàndards europeus. Cadascú porta associada una recomanació.
+Quins tipus d'avisos meteorològics hi ha?
+Avís groc: indica que el perill és baix. Es recomana atendre la predicció meteorològica i seguir les actualitzacions, especialment si es fan activitats a l'aire lliure.
+Avís taronja: indica que el perill és important. Els béns i la població vulnerables o en zones exposades podrien patir impactes greus. En aquestes situacions, l'AEMET recomana limitar activitats no essencials i prestar una atenció especial a les recomanacions de les autoritats locals.
+Avís vermell: indica que el perill és extraordinari. Els danys podrien ser molt greus o catastròfics. En aquests casos, és imprescindible informar-se en temps real, seguir les indicacions de les autoritats, evitar desplaçaments no urgents i extremar les precaucions.
+Aquests nivells bàsics d'avís es poden veure complementats per avisos especials. Això succeeix, per exemple, quan coincideixen diversos fenòmens meteorològics adversos o si aquests destaquen per la seva intensitat o durada, com ara onades de calor i fred o tempestes tropicals. En aquests casos, es demana a la població que faci una atenció molt especial a l'evolució meteorològica.
+Alertes de protecció civil
+L'AEMET alerta de la possible arribada d'aquests fenòmens meteorològics adversos amb fins a 72 hores d'antelació i la seva informació està, de manera automàtica i actualitzada, sempre a disposició de la ciutadania en general, però molt especialment de les autoritats competents en matèria d’emergència i protecció civil, dependents de les administracions autonòmiques. Aquestes són les encarregades d'avaluar el perill i les possibles afeccions dels avisos sobre la població i l'entorn, així com enviar les alertes i adoptar les mesures de protecció més adequades en cada cas.
+L’avaluació de l’anàlisi del risc d’un avís s’ha d’adaptar a múltiples factors: territorials, urbanístics, orogràfics, etc. Per això, són les administracions autonòmiques les competents, per la proximitat i el coneixement del territori. Per exemple, una nevada o una tempesta no representa el mateix risc a una zona d'alta muntanya o al centre d'una àrea metropolitana, encara que l'avís meteorològic sigui el mateix. Per tant, les mesures adoptades per protecció civil seran diferents.
+Quines competències té cada administració?
+En línies generals, correspon a l'Estat, a través de la AEMET (adscrita al Ministeri per a la Transició Ecològica i el Repte Demogràfic a través de la Secretaria d'Estat de Medi Ambient), avisar sobre l'arribada de possibles fenòmens meteorològics adversos.
+Per la seva banda, és competència de les comunitats autònomes, mitjançant les autoritats de protecció civil, alertar la població en casos d'inundacions, incendis o catàstrofes. Així mateix, són les responsables d'elaborar plans territorials d'emergència i d'activar els protocols quan passa una crisi.
+A incendis forestals, també correspon a les autonomies la prevenció, planificació i extinció del foc, encara que l'Estat pot donar suport a situacions crítiques.
+En el cas d’inundacions o danes, les comunitats autònomes elaboren plans d'acció territorial i de protecció civil, mentre que l'Estat s'encarrega de la gestió dels grans rius intercomunitaris a través de les confederacions hidrogràfiques, adscrites al Ministeri per a la Transició Ecològica i el Repte Demogràfic, que informen en temps real les autoritats autonòmiques per anticipar inundacions. En el cas de conques intracomunitàries, la competència és de les comunitats autònomes i, en trams urbans, dels ajuntaments.
+Com arriba un avís a la ciutadania? El sistema ES-Alert
+L'any 2022, la Unió Europea va establir una normativa que exigeix a tots els països membres implementar un sistema d'alertes basat en xarxes mòbils. A Espanya es va establir el 2023 el sistema ES-Alert, que envia notificacions a tots els dispositius mòbils en àrees de risc per alertar la ciutadania en cas d'emergència.
+Les alertes es transmeten a través de les antenes de xarxa i apareixen com a notificacions destacades a la pantalla del mòbil. En el cas espanyol, ES-Alert arriba a més del 90% de la població gràcies a l'ús de les xarxes 4G i 5G.
+Hi ha tres nivells d'alertes de protecció civil:
+Nivell 1: aquestes alertes són automàtiques i estan activades per defecte a tots els dispositius compatibles, per la qual cosa no requereixen configuració de l'usuari ni poden ser desactivades.
+Nivell 2: aquestes alertes sí que requereixen activació manual. Segons el Ministeri de l'Interior, aquest nivell actualment no s'utilitza a Espanya.
+Nivell 3: s'utilitzen en casos excepcionals com el segrest de menors, alertes de salut pública o incidents de seguretat pública. A Espanya tampoc no s'utilitzen.
+Les alertes que afecten Espanya són únicament les de nivell 1. Estan activades per defecte als dispositius mòbils, però es recomana mantenir-los actualitzats segons la darrera versió.
+Informar-se a través de fonts oficials
+Tan important és saber interpretar avisos i alertes meteorològiques com on informar-se. Sempre s'ha de fer a través de fonts i canals oficials.
+Als següents enllaços es recullen alguns dels principals:
+Web i xarxes socials d'AEMET
+- Agència Estatal de Meteorologia - AEMETGovern d'Espanya
+- AEMET a X - Agència Estatal de Meteorologia - AEMET.Govern d'Espanya
+- AEMET a Instagram - Agència Estatal de Meteorologia - AEMET.Govern d'Espanya
+- AEMET a Facebook - Agència Estatal de Meteorologia - AEMET.Govern d'Espanya
+Web i xarxes socials del Ministeri per a la Transició Ecològica i el Repte Demogràfic
+- Ministeri per a la Transició Ecològica i el Repte Demogràfic
+- Ministeri a X
+- Ministeri a Instagram
+- Ministeri a Facebook
+Web i xarxes socials dels serveis de protecció civil de les comunitats autònomes
+- Protecció Civil a les CC.AA. - DGPCyE
+Balisa V16 connectada: què és, per a què serveix i quan serà obligatòria?
+La balisa V16 Connectada és un dispositiu homologat per senyalitzar avaries i accidents a la carretera que serà d'ús obligatori i substituirà els triangles a partir de l'1 de gener del 2026.
+El Consell de Ministres, a la sevareunió del 16 de març de 2021, va aprovar un Reial Decret per a regular els serveis d'auxili a vies públiques que incloïa, com a principal novetat, la substitució dels dos triangles que es col·loquen davant i darrere del vehicle immobilitzat després d'una avaria o accident per un dispositiu lluminós que se situa a la part més alta del vehicle. La norma va establir la seva obligatorietat a partir de l'1 de gener del 2026.
+El Butlletí Oficial de l'Estat va publicar el 20 de desembre de 2022 un nou Reial Decret que modifica i completa aquesta normativa, fonamentalment, pel que fa a aspectes tècnics, de certificació i de connectivitat dels dispositius (balises).
+Els conductors han pogut utilitzar fins ara tant els triangles com les balises amb connexió o sense. No obstant això, a partir de l'1 de gener del 2026 només seran legals els dispositius V16 connectats a la plataforma DGT 3.0.
+Què és la balisa V16 Connectada?
+És una petita balisa de color groc que està dotada de connectivitat i és capaç d'emetre una llum 360 º d'alta intensitat de forma intermitent i contínua almenys durant 30 minuts. Incorpora una pila o bateria amb una vida útil d'un mínim de 18 mesos, al marge de si és recarregable o no.
+Quin és l’objectiu de la balisa V16?
+Evitar que els conductors hagin de baixar dels seus vehicles quan tenen alguna avaria per col·locar els triangles, transitant per la calçada o el voral. Cada any moren a Espanya al voltant de 25 persones atropellades mentre intenten col·locar els triangles.
+Augmentar la protecció dels conductors i els ocupants perquè la connectivitat permet la visibilitat lluminosa dels vehicles avariats i la visibilitat virtual, atès que la resta de conductors que circulin per la zona reben un avís a través de navegadors, aplicacions de mobilitat i panells de missatge variable, que hi ha un vehicle aturat a la calçada.
+Quins vehicles estan obligats a portar-la?
+Els turismes, furgonetes, autobusos, vehicles mixtos adaptables, camions i conjunts de vehicles no especials l'han de portar obligatòriament. En el cas de les motocicletes, no és obligatori però és aconsellable per motius de seguretat.
+La balisa s'ha de guardar carregada a la guantera o en un altre lloc accessible dins de vehicle.
+Com es col·loca la balisa V16 Connectada?
+Després d'immobilitzar el vehicle a la carretera o al voral, el conductor ha d'encendre la balisa i col·locar-la des de l'interior al sostre del cotxe i, si no fos possible, com és el cas dels autobusos i camions, pot situar-la a la porta. També cal activar els llums d’emergència del vehicle.
+La balisa V16 sol incloure un imant potent que permet adherir-se a superfícies metàl·liques. Si el vehicle té una carrosseria d'alumini o un sostre de vidre, és possible que no s'hi adhereixi amb la mateixa força que a les superfícies d'acer.
+Què ha de fer el conductor després d'activar la balisa?
+Un cop immobilitzat el vehicle i activada la balisa, el conductor i els ocupants hauran de valorar si és possible abandonar o no el cotxe en condicions de seguretat.
+El Reglament General de Circulació estableix com a norma general que han d'abandonar el vehicle sempre que hi hagi un lloc segur fora de la plataforma de circulació. Hauran de sortir del cotxe pel costat contrari al flux de trànsit sense transitar o romandre als carrils o vorals que conformen la plataforma. Si les condicions de circulació no permetessin als ocupants abandonar el vehicle amb seguretat, romandran dins amb el cinturó cordat.
+Com funciona la balisa V16 Connectada? Necessito una app o un mòbil?
+Després d'activar-la, la balisa emet un senyal lluminós i transmet de forma automàtica la ubicació exacta del vehicle avariat a la plataforma DGT 3.0.
+El dispositiu inclou al seu interior un xip GPS i una targeta SIM no extraïble que s'encarreguen de fer la connexió. Només cal encendre'l. No cal utilitzar el telèfon mòbil ni cap aplicació.
+Les companyies telefòniques no cobraran als particulars cap quantia pel servei de connectivitat, ja que la legislació marca una disponibilitat de connectivitat mínima de 12 anys, el cost de les quals està contemplat en el preu de venda del dispositiu V16.
+Quina font d’alimentació utilitza i quant dura la bateria?
+La balisa V16 funciona gràcies a una font d’alimentació interna que varia en funció del model. Alguns dispositius porten piles alcalines no recarregables i altres bateries de liti recarregables per USB. En tots els casos heu de garantir un mínim de 30 minuts de funcionament continu després de l'activació. Així mateix, han de tenir una autonomia mínima, en repòs, de 18 mesos.
+A quina distància es veu la balisa connectada?
+En condicions òptimes, la balisa es veu des d'una distància de 1.000 metres. Com que la balisa està connectada als centres de gestió de Trànsit, aquests difondran a la resta de vehicles que circulin per la zona informació de l'accident o avaria a través dels navegadors, les aplicacions de mobilitat o els ordinadors de bord. Els conductors de cotxes antics que no comptin amb aquest tipus de tecnologia podran informar-se a través dels panells de missatge variable que són a les carreteres.
+Si l'accident o l'avaria es produeix dins d'un túnel, el dispositiu enviarà el senyal a la DGT?
+Sí. La balisa V16 funciona fins i tot en condicions sense cobertura convencional gràcies a la connexió mitjançant xarxes de comunicació IoT especialitzades. En els casos on ni tan sols aquestes xarxes estiguin disponibles, la balisa seguirà funcionant com a senyal visual i emmagatzemarà les dades per enviar-les quan es restableixi la connexió.
+Avisa la balisa als serveis d'emergència o la grua?
+La V16 Connectada no és un sistema d'avís als serveis d'emergència ni a la grua. La seva funció és senyalitzar i transmetre la posició exacta del vehicle per evitar sinistres vials. El conductor o els ocupants han de comunicar el seu incident al servei d'emergències si ho necessiten o al servei d'assistència de la companyia asseguradora.
+Transmet la V16 les meves dades personals?
+No. La balisa només funciona si l'usuari l'activa i no transmet les dades personals del conductor, no registra la velocitat ni pot identificar la matrícula del cotxe. No està associada a una persona, número de telèfon o matrícula. Els vehicles nous no vindran amb la balisa instal·lada. A més, no cal proporcionar cap tipus de dada ni donar d'alta el dispositiu. La DGT no sol·licita cap dada.
+Quin model de balisa V16 compro?
+Les balises han d'estar homologades i certificades per IDIADA o LCOE, que són els laboratoris tècnics autoritzats que ratifiquen que els models compleixen la normativa. Al mercat hi ha més de dos-cents models de balises V16 connectades amb diversos preus. No totes les balises que s'anuncien com a connectades estan homologades, per la qual cosa es recomana consultar el llistat actualitzat de marques i models certificats que figura a la pàgina web de la DGT.
+Poden seguir usant-se les balises V16 no connectades?
+No. Els dispositius V16 no connectats no seran vàlids com a mitjà per a la senyalització de vehicles immobilitzats a partir de l'1 de gener de 2026, tal com indica la normativa.
+Puc continuar usant els triangles?
+No. La balisa V16 connectada és l'únic mitjà reconegut per senyalitzar vehicles immobilitzats a partir de l'1 de gener del 2026.
+Sí que podran utilitzar els triangles aquells vehicles matriculats en altres països que circulin pel nostre país en qualitat de circulació internacional.
+Puc fer servir la V16 fora d'Espanya?
+La balisa és vàlida per als vehicles matriculats a Espanya que circulin pels països signants i ratificants de la Convenció sobre la Circulació de Viena, el llistat dels quals inclou al voltant de 86 nacions de diferents continents.
+Quina és la sanció per no portar la balisa V16?
+La multa per no portar la balisa és de 80 euros, que és la mateixa quantitat establerta per als conductors que no duien els triangles de presenyalització.
+De què parlem quan parlem de desinformació?
+Des del 2021, les campanyes de desinformació són considerades a Espanya com un risc per a la seguretat nacional. Aquest risc, lluny de reduir-se, s'ha anat consolidant i fins i tot ha guanyat en importància i protagonisme en els darrers anys a nivell global. Tant és així, que l’informe del Fòrum Econòmic Mundial de Davos de 2024 situa el fenomen de la desinformació en el primer lloc al rànquing de riscos globals a curt termini.
+Què és la desinformació i quines diferències hi ha?
+La desinformació ha existit sempre, al llarg de la història de la humanitat. Però la desinformació en contextos digitals és un fenomen relativament recent i en constant evolució, cosa que comporta que cada cop ens trobem amb més conceptes i termes per referir-nos-hi. Molts són neologismes i estrangerismes que, de vegades, tendeixen a ser mal emprats quan els traduïm al castellà. Per exemple, sabies que en anglès es fan servir fins a tres paraules per parlar de desinformació: malinformation, misinformation i disinformation)? Sabries diferenciar-les?
+El Fòrum contra les campanyes de desinformació a l'àmbit de la Seguretat Nacional, creat el 2022 com una iniciativa nacional de col·laboració publicoprivada, ha identificat i definit 125 conceptes i termes clau per a la comprensió del fenomen de la desinformació, amb implicacions en la seguretat nacional i l’àmbit digital. En aquest article recopilem vint dels més comuns, utilitzats per descriure les tècniques i eines que conformen una campanya de desinformació.
+Notícia falsa. Informació falsa o enganyosa que es difon de manera intencional i amb l'objectiu de manipular o enganyar l'audiència. És un rumor o notícia sense fonament que es propaga ràpidament a través de les xarxes socials i els mitjans de comunicació. Manca d'evidència o proves fiables que li donin suport i s'utilitza per crear confusió, generar desconfiança o influir en l'opinió pública. (Per molts, les notícies falses són les mal anomenades fake news).
+Desinformació. Acció o estratègia que consisteix en la difusió intencionada d'informació falsa o enganyosa, descontextualitzada o parcial, per tal de confondre, persuadir i manipular les persones. A diferència de la informació errònia, que pot ser incorrecta però no intencional, la desinformació és deliberada i cerca influir en les opinions, creences o comportaments de la ciutadania. En anglès, disinformation.
+Misinformation. Informació falsa, errònia o inexacta emesa sense intenció d'enganyar o manipular. Sol ser fruit d'errors, negligències o biaixos inconscients. A diferència del que passa amb la disinformation (que sí que implica l'emissió d'un contingut fals de forma intencionada), la misinformation fa referència a la difusió accidental d’informació no verídica.
+Malinformation. Ús d’informació verídica o basada parcialment en la realitat per causar dany a una persona, col·lectiu, organització, institució o país. Inclou l’ús polític d’informació sensible, la revelació d’informació personal o confidencial o la publicació d’informació compromesa obtinguda mitjançant mètodes fraudulents. Encara que la malinformation es basa en informació veritable, aquesta pot resultar incompleta, desactualitzada o haver patit algun tipus de manipulació per tal de produir descrèdit, perjudici o menyscapte.
+Glossari: termes clau per entendre la desinformació
+Verificació (fact-cheking). Acció destinada a la comprovació de l'autenticitat de dades o afirmacions, les fonts de què procedeixen i la identitat dels seus emissors. És una eina crucial per combatre la desinformació.
+Debunking (Desemmascarar/desacreditar). Acció de demostrar la falsedat o la inexactitud d'un contingut presumiblement desinformatiu utilitzant estratègies i tècniques de verificació. Els qui realitzen el procés de debunking són verificadors o fact-checkers (debunkers), que etiqueten el contingut com a fals, enganyós, veritable a mitges, etc.
+Prebunking. Es pot traduir com a "predesemmascarament". Conjunt de mesures preventives, orientades a immunitzar o alertar anticipadament la ciutadania davant de missatges falsos. És una pràctica usada principalment per agències de verificació i organitzacions que promouen l’alfabetització mediàtica.
+Alfabetització mediàtica. És la facultat de consultar i avaluar críticament continguts en mitjans de comunicació, així com de crear contingut digital. Aquesta competència implica entendre com funcionen els mitjans i desenvolupar habilitats crítiques per interpretar la informació que publiquen. S'aplica a entorns mediàtics tant digitals com a analògics.
+Manipulació informativa; FIMI. La manipulació informativa inclou una sèrie de pràctiques per distorsionar i alterar el procés comunicatiu amb l'objectiu d'influir i alterar l'opinió pública. FIMI (Foreign Information Manipulation and Interference) descriu un patró de comportament, majoritàriament no il·legal, però sí de caràcter manipulador i dut a terme de manera intencional, que busca amenaçar o generar un impacte negatiu en els valors democràtics i processos polítics.
+Bot i granja de bots. Abreviatura de robot. És un programa de programari dissenyat per fer tasques automatitzades a internet, sense intervenció humana. Els bots tenen la capacitat d’interactuar amb usuaris en temps real, manejar gran quantitat de volums de dades i adaptar-se a diferents entorns. El seu mal ús genera desinformació, manipulació de l'opinió pública, suplantació de la identitat, atacs coordinats a individus, organitzacions i col·lectius i manipulació de resultats de cerques de tendències. Una granja de bots fa referència a l'organització massificada de bots, coordinats per a la creació massiva i difusió de missatges falsos en xarxes socials, a partir de continguts desinformatius, abusius i violents
+Trol. Persona amb identitat real oculta que publica missatges provocadors o nocius de manera intencionada amb un objectiu ideològic concret: generar desinformació, boicotejar o entorpir la conversa, ocasionar mal, etc. Les seves accions són conegudes amb el terme 'trolejar'. Moltes vegades actuen de forma coordinada en allò que es coneix com a granges de trols.
+Deepfake. Tècnica d'intel·ligència artificial que permet manipular o generar contingut audiovisual fals, com ara imatges, vídeos o àudios, de manera molt realista. Aquests continguts es creen a partir de dades d'entrenament d'aprenentatge profund (deep learning), cosa que permet reemplaçar el rostre o la veu d'una persona per la d'una altra i fins i tot generar una persona que no existeix. Els deepfakes han estat utilitzats per crear contingut enganyós, com ara vídeos de polítics dient o fent coses que mai no van passar.
+Cambra d'eco. Entorn on es comparteixen de manera recurrent creences, idees o dades alineades, propiciant així la seva amplificació i reforç. La informació, sigui veritable o falsa, circula i es redifon sense ser qüestionada pels membres del grup, ni contrastada amb perspectives externes, cosa que crea una realitat distorsionada i polaritzada.
+Llum de gas (gaslighting). Estratègia d'abús i manipulació que busca que l'altra persona qüestioni la percepció pròpia de la realitat. El terme té el seu origen a l'obra de teatre del mateix nom de Patrick Hamilton, estrenada el 1938, on un home maltracta la seva dona fent petits canvis a la llar, com el nivell de la llum de gas, perquè ella comenci a dubtar del seu seny. Actualment es fa servir per referir-se a l'estratègia de mentir reiteradament algú per tal de manipular-lo i controlar-lo.
+Polarització. La polarització és la divisió creixent de la societat en grups amb idees, opinions o interessos oposats, cosa que pot dificultar el consens i augmentar el conflicte social. Igualment, és un recurs de comunicació utilitzat per grups d'interès (ex. grups polítics) per atraure usuaris mitjançant l'explotació de plataformes digitals i l'ús de discursos, que poden incloure discursos d'odi i continguts desinformatius.
+Pseudomitjà. Publicació, normalment digital, que emula els mitjans periodístics en la seva estructura i format i que es caracteritza per incomplir els principis ètics i estàndards professionals del periodisme. Els pseudomitjans inciten a la polarització, l'activisme ideològic, el foment de teories conspiratives i una tendència generalitzada a la difusió de continguts falsos, no contrastats i extremadament esbiaixats o partidistes.
+Discurs d'odi. Qualsevol forma d'expressió que ataca o utilitza un llenguatge hostil, incívic, amenaçador, ofensiu, discriminatori o de violència expressa, en referència a un grup o a una persona en funció de la seva ètnia, nacionalitat, raça, gènere, ascendència, religió, vulnerabilitat o altres formes d'identitat com la ideologia política, l'idioma, l'origen econòmic o social, la discapacitat, l'estat de salut o orientació sexual, entre altres. En aquest article expliquem més sobre els discursos d'odi i com combatre'ls.
+TTP; marcs DESARM. Les sigles TTP fan referència a les tàctiques, tècniques i procediments utilitzades en un context de manipulació informativa. La seva anàlisi permet descriure els patrons de comportament d‟un actor d’amenaça i planificar estratègies de resposta i reacció. Les TTP es recullen als marcs DISARM (Detecting and Responding to Manipulated Media), dos catàlegs de codi obert: el Red Framework, dissenyat per descriure TTP en l'àmbit de la desinformació; i el Blue Framework, que centra les respostes suggerides davant d'aquestes.
+Amenaces híbrides i estratègia híbrida. Accions coordinades i sincronitzades per assolir els objectius estratègics d’actors estatals o no estatals. De manera deliberada, busquen soscavar, desestabilitzar i perjudicar l'adversari, així com explotar les vulnerabilitats sistèmiques dels Estats. Per això utilitzen i combinen una àmplia gamma de mitjans (des d'atacs cibernètics, campanyes de manipulació de la informació, maniobres polítiques encobertes i tàctiques militars, entre d'altres) i pretenen influir en la presa de decisions a nivell local, estatal o institucional. De vegades, s'utilitzen de forma indistinta els termes 'amenaces' i 'estratègies' híbrides, però no són el mateix: les primeres són accions que es poden materialitzar en el futur, mentre que les segones sí que acaben materialitzant-se per aconseguir un fi.
+Influència - ingerència estrangera. La ingerència estrangera, sovint realitzada com a part d'una estratègia híbrida més àmplia, es pot entendre com els esforços coercitius, encoberts i enganyosos per pertorbar la lliure formació i la manifestació de la voluntat o opinió de les persones per part d'un actor estatal estranger o dels seus agents, normalment amb objectius polítics. Per contra, les activitats d'influència estrangera es duen a terme de manera oberta i transparent, són un aspecte normal de les relacions internacionals i de la diplomàcia i contribueixen positivament al debat públic.
+Si vols conèixer més sobre el fenomen de la desinformació i el treball d'Espanya i altres països per combatre-la, aquí et deixem més lectures interessants per continuar aprofundint.
+Fòrum contra les campanyes de desinformació a l'àmbit de la Seguretat Nacional | Lloc oficial del Departament de Seguretat Nacional
+Protegir la democràcia europea de les interferències i la manipulació: Pla d'Acció per a la Democràcia Europea
+Pla d'Acció per la Democràcia
+Codi de bones pràctiques en matèria de desinformació (2022) | Configurar el futur digital d'Europa
+The Code of Conduct on Disinformation | Shaping Europe's digital future
+Els centres de lluita contra la desinformació de la UE s'estenen ara a tots els països de la UE | Configurar el futur digital d'Europa
+Portugal and Spain, the EU countries most concerned about disinformation, according to the Digital News Report 2025 | Iberifier
+Observatori Europeu dels Mitjans Digitals - EDMO | Configurar el futur digital d'Europa
+EDMO Hubs - EDMO
+Enquesta sobre la joventut 2024 - febrer de 2025 - Enquesta de l'Eurobaròmetre
+DISARM Foundation
+Notícies falses (fake news) | Ciutadania | INCEB
+Estafes telefòniques i per SMS: protecció contra el frau
+Transformació Digital llança un pla per combatre les estafes telefòniques de suplantació d'identitat que inclou actuacions com la prohibició de trucades comercials des de números mòbils o el bloqueig de trucades que manipulen la seva numeració per amagar-ne l'origen.
+El Ministeri per a la Transformació Digital i de la Funció Pública va aprovar el 12 de febrer una ordre ministerial amb un paquet de mesures per eradicar els fraus per telèfon i SMS. Aquest pla permetrà als usuaris identificar les trucades i els missatges comercials per no ser víctimes d'estafes.
+Què és una estafa de suplantació d’identitat?
+Les estafes telefòniques de suplantació d'identitat solen començar amb una trucada o un missatge de text en què l'emissor suplanta la identitat d'una organització de confiança (per exemple, com una entitat bancària o com un organisme o empresa de l'Administració pública, per exemple la DGT) amb la clara intenció de defraudar, enganyant el consumidor perquè proporcioni algun tipus d'informació personal o financera.
+Així, en aquestes trucades ('vishing') o missatges ('smishing') se sol demanar al ciutadà, entre altres coses, que faciliti les seves claus personals, que accedeixi a una web o truqui a un número telefònic, que faci una transferència o que contracti un servei.
+Quin impacte tenen aquests fraus?
+Aquest tipus d'estafa causa danys financers i econòmics importants a tots els sectors de la societat, especialment a consumidors, empreses i organismes públics. A més, disminueixen la confiança de la ciutadania en les comunicacions electròniques, perjudicant aquelles empreses i organismes que fan un ús legítim de trucades i missatges de text com a canal de comunicació amb el públic.
+Segons dades del Banc d'Espanya, el Ministeri de l'Interior o l’Institut Nacional de Ciberseguretat (INCIBE), aquests fraus s'han incrementat en els darrers anys. Alguns països europeus, com ara Finlàndia, han posat en marxa mesures similars a les incloses al nou Pla amb una gran efectivitat, ja que s'han reduït les estafes per suplantació d'identitat en gairebé un 90%.
+Quins objectius té aquest pla?
+L'objectiu d'aquest paquet de mesures contra el frau en trucades i SMS és augmentar la protecció de consumidors i empreses davant del nombre creixent de fraus a través d'aquesta mena d'estafes. Aquest objectiu dona compliment a l'article 3 de la Llei General de Telecomunicacions, de defensar els interessos dels usuaris, restaurant la confiança dels consumidors en les comunicacions electròniques.
+Així, el pla adopta solucions per evitar que progressin les comunicacions que manipulen l'identificador de línia trucant o l'identificador numèric o alfanumèric dels SMS i estableix mesures per garantir la identificació correcta de serveis d'atenció a clients i trucades comercials.
+Amb quines mesures compta?
+Bloqueig de numeració no atribuïda: els operadors de telefonia hauran de bloquejar trucades i SMS amb números que no hagin estat atribuïts a cap servei, assignats a cap operador o adjudicats a cap client, com els que comencen per 3 o 4.
+Bloqueig de trucades nacionals amb origen internacional: s'impedirà l'ús de números espanyols falsificats en trucades i SMS des de l'estranger, a excepció de clients en règim de 'roaming' o itinerància.
+Creació d'una base de dades per a alfanumèrics en missatges: es crearà un registre de codis alfanumèrics que gestionarà la Comissió Nacional dels Mercats i de la Competència per evitar que actors no autoritzats suplantin entitats legítimes com ara bancs o administracions.
+Prohibició de mòbils per a serveis d'atenció al client i trucades comercials no sol·licitades: les empreses no podran fer servir números mòbils per a telemàrqueting. Hauran d'emprar numeració geogràfica o números 800/900, ara habilitats per emetre trucades.
+Quan entra en vigor el pla?
+El bloqueig de números no atribuïts a cap servei entra en vigor 20 dies després de la publicació de l'ordre al BOE, és a dir, el 7 de març. Tot i això, tant el bloqueig de trucades i SMS amb origen internacional, com la prohibició de les trucades comercials no sol·licitades des de números mòbils, entraran en vigor el 15 de maig.
+D'altra banda, a partir del 15 de maig del 2026 entrarà en funcionament el registre de codis alfanumèrics i el bloqueig de SMS d'origen internacional.
+Ingrés Mínim Vital (IMV): què és i com ho puc sol·licitar?
+L'Ingrés Mínim Vital (IMV) és una prestació adreçada a prevenir el risc de pobresa i exclusió social de les persones que viuen soles o estan integrades en una unitat de convivència i no tenen recursos econòmics per cobrir les seves necessitats bàsiques.
+L'Ingrés Mínim Vital (IMV) és una mesura de la Seguretat Social que proporciona un nivell bàsic d'ingressos a aquells en situació de vulnerabilitat econòmica. L'objectiu és assegurar la inclusió social i laboral dels beneficiaris.
+L'IMV es va introduir el 2020 per Reial Decret-llei, en un context d'exigència i necessitat a conseqüència de la pandèmia. Al desembre de 2021 es va consolidar a la Llei 19/2021, de 20 de desembre, per la qual s'estableix l'Ingrés Mínim Vital.
+Segons les estadístiques de l'Institut Nacional de la Seguretat Social del 2024, l'IMV beneficia 2.050.000 persones que conviuen en 674.000 llars.
+Qui pot ser beneficiari de l'Ingrés Mínim Vital?
+Es pot accedir a l'IMV de manera individual o com a membre d'una unitat de convivència.
+Les unitats de convivència les formen un conjunt de persones que resideixin al mateix domicili i estiguin unides entre si per vincle matrimonial, parella de fet, o vincle de fins a segon grau de consanguinitat, afinitat o adopció. També s'hi inclouen persones amb qui es convisqui per raons de guarda amb finalitat d'adopció o acolliment familiar permanent. Els membres de les unitats de convivència accediran a l'IMV mitjançant un únic titular que els representi.
+A més dels criteris econòmics, detallats més endavant, els beneficiaris de l'IMV han de complir certs requisits, que varien si se sol·licita de manera individual o com a representant d'una unitat de convivència.
+En general, poden ser beneficiaris individuals de l'IMV les persones d'almenys 23 anys que no formin part d'una unitat de convivència ni estiguin units per matrimoni o parella de fet (tret que estiguin en procés de separació o divorci). No s'apliquen els requisits d'edat o inici de tràmits de separació o divorci a les dones víctimes de violència de gènere o tràfic de persones i explotació sexual. A més, poden ser titulars individuals les persones entre 18 i 22 anys que provinguin de centres de protecció de menors o que siguin orfes absoluts, sempre que no formin part d'una unitat de convivència. Hi ha altres condicions més específiques, com ara requisits de residència legal o d'haver viscut de forma independent durant un temps determinat abans de la sol·licitud, que pot consultar al portal de l'IMV.
+Els titulars de l'IMV que sol·licitin la prestació en nom d'una unitat de convivència han de tenir almenys 23 anys. També ho poden fer els majors d'edat o menors emancipats que tinguin fills o menors a càrrec seu en règim de guarda amb finalitats d'adopció o acolliment familiar permanent. La sol·licitud ha de ser signada per tots els integrants majors d’edat i la persona sol·licitant representarà la unitat en totes les gestions relacionades amb l'IMV. Com en el supòsit anterior, hi ha altres requisits més concrets que convé consultar abans de fer la sol·licitud.
+Quina és la quantia de l'IMV l'any 2025?
+La quantia de l'Ingrés Mínim Vital és la diferència entre la renda garantida, fixada per llei, i altres ingressos que els beneficiaris puguin tenir. Per tant, només es pot accedir a l'IMV si aquests ingressos són inferiors a la renda garantida, i la quantitat rebuda serà la necessària perquè el beneficiari arribi a aquest llindar econòmic. En el cas de les unitats de convivència, es consideraran els ingressos de tots els membres.
+La renda garantida s'estableix com a quantitat anual dividida en 12 pagues. El 2025 s'ha incrementat un 9%, quedant-ne el càlcul de la següent manera:
+Per a un beneficiari individual, la renda garantida és de 7.905,72 euros cada any, o 658,81 euros al mes.
+En el cas d'una unitat de convivència, la renda garantida s'incrementa un 30% per cada membre addicional. Tot i això, a partir de 5 membres la quantitat deixa d'augmentar, per la qual cosa la renda garantida de la unitat de convivència no pot superar el 220% d'una renda individual. Per tant, per a una unitat de 5 membres o més, la renda garantida serà de 17.392,68 euros anuals o 1.449,39 euros mensuals.
+A més dels límits establerts, hi ha dos complements que poden augmentar la quantitat:
+En els casos d’unitat de convivència monoparental, s‟afegeix un 22% d’una renda garantida individual a la quantitat percebuda. Per ser considerada monoparental, la unitat de convivència ha d'estar constituïda per un sol adult que convisqui amb un o més descendents fins al segon grau menors d'edat sobre els quals tingui la guarda i custòdia exclusiva, o que convisqui amb un o més menors en règim d'acolliment familiar permanent o guarda amb finalitats d'adopció quan es tracti. També es consideraran monoparentals les unitats de convivència en què, havent-hi dos progenitors, guardadors o acollidors, un estigui ingressat a la presó o en un centre hospitalari per un període ininterromput igual o superior a un any. De la mateixa manera, poden optar a aquest complement les unitats amb dos progenitors, guardadors o acollidors quan un tingui reconegut un grau 3 de dependència, la incapacitat permanent absoluta o la gran invalidesa. Finalment, per al cas d'una dona que hagi patit violència de gènere i sigui l'única adulta de la unitat, no es requerirà que la guarda i la custòdia del menor sigui exclusiva, o que aquesta dona sigui l'única acollidora o guardadora en cas d'acolliment familiar permanent o guarda amb finalitats d'adopció.
+Si algun membre de la unitat té un grau de discapacitat reconegut igual o superior al 65%, s'hi afegirà un altre complement de quantia igual que la del complement per monoparentalitat.
+Addicionalment, s'atorgarà un complement d'ajuda per a la infància mensual per cada menor membre de la unitat de convivència. Aquest complement es calcula segons l’edat del menor a l’inici de l’any per al qual s‘atorgarà ‘ajuda: per a menors de 3 anys corresponen 115 euros; per a majors de 3 anys i menors de 6 anys, seran 80,50 euros; i per als que tinguin entre 6 i 18 anys, l’ajuda serà de 57,50 euros. Aquest ajut s'estén a famílies que, per renda, no puguin optar a l'IMV, si compleixen determinades condicions. Pot obtenir més informació a aquesta pàgina de la Seguretat Social.
+La quantia de l’IMV s’actualitza amb el canvi de les circumstàncies personals?
+Sí. El canvi en les circumstàncies personals de la persona titular de l'ingrés mínim vital o d'algun membre de la unitat de convivència pot resultar en la modificació de la quantia de la prestació. La modificació es pot fer al llarg de l'any, i té efectes a partir del primer dia del mes següent al del fet que va causar aquesta modificació.
+En tot cas, la quantia de la prestació s'actualitzarà automàticament l'1 de gener de cada any, prenent com a referència els ingressos anuals reals de l'any anterior i es realitzaran els ajustaments corresponents.
+Com sol·licitar l'Ingrés Mínim Vital?
+Pot fer-ho de les següents maneres:
+Per internet, amb certificat electrònic o Cl@ve, a través de la Seu Electrònica de la Seguretat Social.
+Per internet, sense certificat electrònic o sistema cl@ve, mitjançant el formulari especialment habilitat per la Seguretat Social. Tingui en compte que se li demanarà documentació per verificar la seva identitat, incloent-hi una fotografia i una adreça de correu electrònic.
+Presencialment als Centres d'Atenció i Informació (CAISS) de la Seguretat Social.
+Durant el procés de sol·licitud se li requeriran diversos documents que acreditin aspectes com ara la identitat, residència, situació familiar o econòmica. Pot obtenir més informació sobre els mitjans d'acreditació d'aquests requisits a la secció corresponent del portal de la Seguretat Social.
+Nou telèfon per a consultes
+Des del 4 de novembre de 2024 està disponible el telèfon curt 020 per informar-se sobre l'Ingrés Mínim Vital. Aquesta línia d’atenció gratuïta se suma al número actual d’informació 900 20 22 22, que seguirà en funcionament. La nova línia oferirà informació i assessorament personalitzat sobre requisits, sol·licituds, documentació, procediment i tràmits necessaris per accedir a la prestació.
+Igualtat salarial: el Govern reafirma el compromís amb la igualtat retributiva
+El Consell de Ministres ha aprovat la declaració institucional amb motiu del Dia per a la Igualtat Salarial, data fixada el 22 de febrer des de l'any 2010, a proposta dels ministeris d'Igualtat, Treball i Economia Social i de Joventut i Infància.
+El Govern expressa la seva determinació ferma en la lluita contra la desigualtat retributiva, conscient que les diferències de remuneració entre dones i homes continuen sent un dels eixos fonamentals de la desigualtat econòmica i social. A la declaració, es compromet a continuar progressant en l'aplicació efectiva de la normativa vigent i en l'adopció o el desenvolupament de les mesures d'igualtat, drets humans, justícia social i participació democràtica que siguin necessàries per revertir les causes de les bretxes de gènere i de la desigualtat salarial entre dones i homes.
+D'aquesta manera, s'avança un pas més cap a la consecució dels Objectius de Desenvolupament Sostenible (ODS) establerts per l'Organització de Nacions Unides a la seva Agenda 2030, especialment dels objectius 5, assolir la igualtat entre els sexes i empoderar totes les dones i nenes, i 8, promoure el creixement econòmic inclusiu i sostenible.
+Què és la igualtat salarial o igualtat retributiva?
+La igualtat salarial, també coneguda com a igualtat retributiva o equiparació salarial, suposa que aquells que fan tasques similars o igualment productives haurien de rebre una remuneració idèntica, independentment del seu gènere, raça, orientació sexual, nacionalitat, religió o altres categories.
+Què és la bretxa salarial?
+La Comissió Europea defineix la bretxa salarial de gènere com la diferència entre els ingressos bruts mitjans per hora dels homes assalariats davant dels de les dones, en percentatge de la renda bruta masculina.
+Quins efectes té la bretxa salarial al llarg de la vida laboral?
+La bretxa salarial implica que les dones obtenen menys ingressos al llarg de la seva vida, cosa que es tradueix, a més, en pensions més baixes i un risc de pobresa més gran en la gent gran. L'eliminació de la desigualtat retributiva permetria avançar en la igualtat real i efectiva de la societat, a què fa referència l'article 9.2 de la Constitució Espanyola.
+Quant s'ha reduït l'escletxa salarial a Espanya?
+Segons les darreres dades de l'Enquesta d'Estructura Salarial del 2022, a la dècada 2012-2022 la bretxa salarial s'ha reduït en 6,83 punts, situant-se en un 17,09%. Una desigualtat que continua sent inadmissible, ja que reflecteix la discriminació estructural que encara pateixen les dones a l'àmbit laboral.
+Avenços cap a la igualtat laboral a Espanya
+En els darrers anys s'han produït avenços importants en la situació del mercat laboral de les dones.
+Segons les dades més recents de l'Enquesta de Població Activa, el 2024 el nombre de dones treballant va augmentar en 207.400 i ha superat per primer cop els deu milions de dones treballadores.
+Quines mesures laborals ajuden a combatre la diferència salarial entre homes i dones?
+L’increment del Salari Mínim Interprofessional (SMI), la reforma laboral o la reducció de la jornada laboral permeten combatre la bretxa salarial de gènere.
+El Govern continuarà desenvolupant i impulsant mesures que permetin avançar en la seva eradicació, com ara el recent Reial Decret pel qual es fixa el Salari Mínim Interprofessional per al 2025, que ho eleva fins als 1.184 euros mensuals, consolidant així un increment del 61% des del 2018.
+La mesura beneficia especialment les dones, que estan sobrerepresentades en treballs amb salaris iguals a l'SMI, i que han suposat el 65,8% del total de persones beneficiàries.
+D'altra banda, la reducció prevista de la jornada laboral a 37,5 hores setmanals, sense reducció de salari, facilitarà la conciliació de la vida personal, laboral i familiar, millorant la qualitat de vida de totes les persones treballadores, en particular de les dones, que continuen assumint la major part de les responsabilitats de cura a les llars.
+Un altre avenç destacat és la reducció de la temporalitat que ha aconseguit la reforma laboral i que afecta en major part les dones.
+A més, Espanya ha estat pionera en la regulació de la matèria amb el Reial decret llei de mesures urgents per garantir la igualtat de tracte i les oportunitats entre dones i homes en l'ocupació i l'ocupació, o els reials decrets relatius a la igualtat retributiva entre dones i homes i als plans d'igualtat.
+A aquestes actuacions cal sumar els avenços aconseguits en les últimes dècades en matèria de permisos per a la cura de la infància, que han tingut com a fites destacades l'equiparació dels permisos per naixement introduïda pel Reial decret llei de mesures urgents per garantir la igualtat de tracte i d'oportunitats entre dones i homes, o l'aprovació d'un nou permís parental intransferible i amb possibilitat de o menors acollits durant més d'un any i fins a l'edat de vuit anys.
+Intel·ligència artificial i bretxa digital de gènere a Espanya
+El desenvolupament tecnològic planteja una sèrie d’oportunitats de futur, però no està exempt de reptes en l’àmbit laboral, inclosa la dimensió retributiva.
+Aconseguir més participació i lideratge de les dones en el desenvolupament vinculat a la IA, el Big Data i el Machine Learning.
+Mitigar els biaixos de gènere i aconseguir una major transparència en els algorismes i la integració de la perspectiva de gènere en la programació, creació de codis i algorismes, són desafiaments a abordar, no només per evitar que les bretxes de gènere es perpetuïn o fins i tot s'engrandeixen, sinó per revertir les bretxes existents, creant solucions innovadores per combatre les causes.
+Implementar l'Estratègia Nacional d'Intel·ligència Artificial (ENIA), que inclou la igualtat de gènere com un dels objectius transversals i aborda expressament el desafiament de "Reduir la bretxa de gènere de l'àmbit de la IA en ocupació i lideratge".
+Desinformació i bretxa salarial
+En els darrers temps, la desinformació, que té efectes perversos en tots els àmbits de la nostra societat, afecta també la igualtat de gènere. Les narratives falses o esbiaixades reforcen estereotips, justifiquen les desigualtats existents i normalitzen discriminacions inacceptables, promovent una comprensió equivocada de les causes i conseqüències de la desigualtat salarial entre dones i homes.
+Aquesta desinformació tendeix a minimitzar o fins i tot a negar l’existència de la constatada diferència d’ingressos entre dones i homes, atribuint aquestes diferències a eleccions individuals o a la diferència en hores treballades. La desinformació, a més de distorsionar la realitat, soscava la confiança en les dades oficials i obstaculitza els esforços per assolir la igualtat efectiva en l'àmbit laboral.
+Combatre la desinformació i promoure una anàlisi rigorosa de la realitat és crucial per avançar cap a la igualtat real i efectiva d’oportunitats entre dones i homes.
+El Govern reitera el seu ferm compromís de continuar lluitant contra les campanyes de desinformació, impulsant i incorporant la perspectiva de gènere al desenvolupament de l'Estratègia Nacional de lluita contra les campanyes de desinformació”.
+Pujada i revaloració de les pensions 2025
+Les pensions contributives es revaloraran amb caràcter general un 2,8% el 2025, així com les pensions del Règim Especial de Classes Passives de l'Estat. El Govern garanteix el poder adquisitiu dels pensionistes sobre la base de l'evolució de l'Índex de Preus al Consum (IPC).
+El Consell de Ministres va aprovar el 28 de gener de 2025 un Reial decret llei que inclou la revaloració de les pensions i altres prestacions abonades pel sistema de la Seguretat Social.
+Mentre s'aprovi la Llei de Pressupostos Generals de l'Estat per a l'any 2025, el límit màxim establert per a la percepció de les pensions públiques del sistema de Seguretat Social i les classes passives causades el 2025 serà de 3.267,60 euros mensuals o 45.746,40 anuals.
+L'Executiu estima que la pujada de les pensions afavorirà les persones més vulnerables i els que reben pensions mínimes i no contributives.
+Quant pugen les pensions el 2025?
+Les pensions de la Seguretat Social, en la modalitat contributiva, i les pensions ordinàries i extraordinàries del Règim Especial de Classes Passives de l'Estat es revaloraran amb caràcter general un 2,8% per al 2025, que és la inflació mitjana entre desembre del 2023 i novembre del 2024. Aquesta fórmula va ser establerta a la Llei 20/2021, que garanteix el poder adquisitiu de les pensions i va ser consensuada amb els agents socials.
+La pensió mínima per als pensionistes de 65 anys o més grans es fixa en 12.241,60 euros anuals i en 15.786,40 en el cas de jubilats amb cònjuge a càrrec. Els menors d’aquesta edat rebran 11.452 euros i 15.786,40 si tenen cònjuge a càrrec.
+Les pensions mínimes pujaran al voltant del 6% el 2025, les no contributives i l’Ingrés Mínim Vital es revaloraran un 9%, i les de viduïtat amb càrregues familiars un 9,1%.
+Les pensions no contributives del sistema de la Seguretat Social d'invalidesa i jubilació tindran un import anual de 7.905,80 euros.
+Les pensions no contributives de l'extingida Assegurança Obligatòria de Vellesa i Invalidesa (SOVI) es revaloraran en un 6% per al 2025, fet que suposa assolir els 560 euros mensuals en el cas de les no concurrents amb altres pensions públiques i els 543,60 per a les concurrents.
+L'assignació no contributiva per fill a càrrec o menor amb discapacitat reconeguda igual o superior al 65% arriba al 2025 als 5.805,6 euros a l'any. Si la discapacitat és igual o superior al 75%, se situa en 8.707,20 euros.
+Les prestacions d'orfandat causades per violència contra la dona experimentaran el 2025 un increment igual al que s'aprovi per al salari mínim interprofessional per a aquest any.
+El complement per a la reducció de la bretxa de gènere de les pensions contributives queda fixat per al 2025 en 35,90 euros mensuals. És el resultat de sumar un 5% addicional al percentatge general de revaloració del 2,8%.
+És el quart any que es revaloren les pensions d'acord amb l'IPC: un 2,8% el 2025, un 3,8% el 2024, un 8,5% el 2023 i un 2,5% el 2022.
+Així, la pensió mitjana de jubilació passarà de 1.441 euros mensuals el 2024 a 1.481,35 el 2025, fet que suposa un increment de 564,87 euros l'any. La pensió mitjana del sistema, considerant totes les modalitats de pensions i prestacions, augmenta al voltant de 500 euros anuals.
+Quin és el límit d’ingressos per al reconeixement de quanties mínimes de pensió?
+Sense cònjuge a càrrec: 9.193 euros a l'any
+Amb cònjuge a càrrec: 10.723 a l'any
+Quan pugen les pensions?
+La revaloració s'aplicarà a l'import mensual que tingués la pensió de què es tracti el 31 de desembre del 2024.
+La pujada de pensions és efectiva des del 1 de gener de 2025.
+Quan sabré què m'han pujat?
+El Ministeri d'Inclusió, Seguretat Social i Migracions envia cada any una carta als pensionistes per comunicar-los la revaloració de la pensió i la quantia exacta que percebran.
+Quantes persones es beneficien de la pujada?
+Més de 12 milions de pensionistes i perceptors de prestacions conserven o augmenten el poder adquisitiu: els beneficiaris de pensions contributives i no contributives, els de Classes Passives, les llars que reben l'Ingrés Mínim Vital i els perceptors de prestacions per fill a càrrec amb discapacitat igual o superior al 65%. Al voltant del 25% dels ciutadans es beneficiaran de la pujada que garanteix el poder adquisitiu dels pensionistes.
+Estan assegurades les pensions en el futur?
+La dignitat de les pensions està assegurada i els pensionistes compten amb un marc legal estable, que en garanteix el poder adquisitiu i protegeix qui més ho necessita. És la garantia, tant per als actuals com per als futurs perceptors, que el sistema públic respon, protegeix i compleix els compromisos.
+A més, amb l'objectiu de protegir les pensions del futur i cercant l'equilibri entre els ingressos i les despeses del sistema de Seguretat Social, s'han articulat mesures com la quota de solidaritat i l'augment de les bases màximes de cotització.
+El tipus de cotització aplicable de la quota de solidaritat serà progressiu en funció dels tres trams de rendiments fixats (0,92%, 1% o 1,17%) i s'incrementarà gradualment a partir del 2025 fins a l'any 2045, on s'assolirà el tipus definitiu
+Per part seva, la cotització pel concepte del Mecanisme d'Equitat Intergeneracional (MEI) s'estableix en el 0,8% amb una distribució del 0,67% a càrrec de l'empresari i del 0,13% del treballador.
+És compatible l'increment de les pensions amb el funcionament del sistema?
+La pujada és compatible amb un enfortiment dels ingressos del sistema, que continuen millorant gràcies a la reforma laboral i altres mesures que han permès crear més ocupació, de més qualitat i que l'activitat econòmica s'enforteixi, cosa que proporciona més recursos a la Seguretat Social.
+Permís per naixement i cura de menor: com se sol·licita i quant dura?
+El permís és de 19 setmanes retribuïdes per a cadascun dels progenitors i de 32 setmanes per a les famílies monoparentals. Dues podran gaudir-se de forma flexible fins que el menor compleixi vuit anys.
+El Consell de Ministres va aprovar el 29 de juliol de 2025 l'ampliació en tres setmanes - de 16 a 19- el permís per naixement i cura del menor per a cada progenitor i el va incrementar a 32 setmanes per a famílies monoparentals/monomarentals. La mesura va ser convalidada pel Congrés dels Diputats el 9 de setembre del 2025.
+El Govern considera que la feina retribuïda no pot ni ha d'impedir que les dones i els homes exerceixin el seu dret a les cures ni condicionar la decisió de formar una família. Per això, segueix adoptant mesures per millorar la conciliació de la vida familiar i professional i garantir la coresponsabilitat en les cures, cosa que redueix, a més, la bretxa de gènere.
+Què és el permís per naixement i cura de menor?
+El permís per naixement i cura de menor és un dret individual de la persona treballadora i no transferible a un altre progenitor. Va substituir l'any 2021 les antigues prestacions de maternitat i paternitat i les va equiparar.
+Com ha evolucionat aquest dret?
+El 2019, l'Executiu va aprovar mesures per afavorir la igualtat a l'àmbit laboral i garantir el dret a la conciliació i la coresponsabilitat, entre les quals figura la progressiva equiparació dels permisos de mares i pares sobre la base de tres principis: igualtat, intransferibilitat i remuneració al cent per cent. Aquest any, el permís de paternitat va passar de 5 a 8 setmanes, i l'any 2020 a dotze.
+El 2021 va entrar en vigor l'equiparació total per a tots dos progenitors i el permís es va ampliar a 16 setmanes, sis de les quals s'han de gaudir immediatament després del part o resolució judicial o administrativa en els casos d'adopció, guarda o acolliment.
+El 2025, el Govern completa la transposició d'una directiva comunitària mitjançant un reial decret llei que amplia el permís a 19 setmanes (32 en el cas de les famílies monoparentals). Amb aquesta ampliació, Espanya ha esdevingut un referent internacional en polítiques de conciliació, coresponsabilitat i igualtat i s'alinea amb els països europeus amb permisos més llargs i flexibles.
+Qui es pot acollir a l'ampliació del permís?
+Poden acollir-se a aquest permís els treballadors assalariats, autònoms o empleats públics que estiguin en situació d'alta o assimilada a l'alta, tinguin cobert un període mínim de cotització, i els fills dels quals hagin nascut a partir del 2 d'agost del 2024. Les dues setmanes addicionals de cura es poden sol·licitar a partir de l'1 de gener de 2026.
+Com es pot distribuir el permís per naixement i cura del menor?
+El naixement, que comprèn el part i la cura de menor, suspèn el contracte de treball de la mare biològica i el de l'altre progenitor durant 19 setmanes o 32 en cas que hi hagi una única persona progenitora. El permís es distribueix de la manera següent:
+Disset setmanes (28 en el cas de les famílies monoparentals o monomarentals) fins que el nadó compleixi un any:
+Les sis primeres setmanes es gaudeixen de manera obligatòria i ininterrompuda a jornada completa immediatament després del naixement del nadó o, en cas d'adopció, guarda o acolliment familiar a partir de la resolució judicial o administrativa. La mare biològica pot anticipar el descans fins a les quatre setmanes prèvies a la data prevista per al part.
+Les onze setmanes restants (22 en el cas de monoparentalitat o monomarentalitat) es poden gaudir en períodes setmanals seguits o interromputs, en règim de jornada completa o parcial, amb l'acord previ entre l'empresa i el treballador, fins que es compleixin 12 mesos del naixement del nadó.
+Dues setmanes addicionals (quatre en el cas de monoparentals o monomarentals): Es distribueixen de manera flexible fins que el menor compleixi els 8 anys.
+En casos de naixement o adopció múltiple o discapacitat, el permís s'amplia una setmana més per a cada progenitor.
+Com es gaudeix el permís si el part és prematur?
+En els casos de part prematur i en els quals, per altra circumstància, el nounat hagi de romandre hospitalitzat després del part, el període de suspensió del contracte es pot computar a partir de la data d'alta hospitalització. S'exclouen d’aquest còmput les sis setmanes posteriors al part.
+Si el part és prematur amb falta de pes o el nounat necessita, per alguna condició clínica, hospitalització després del part per un període superior a set dies, la suspensió s'ampliarà en tants dies com el nascut estigui hospitalitzat, amb un màxim de tretze setmanes addicionals.
+Què passa si mor el nadó o algun dels seus progenitors?
+En el supòsit de mort del fill o filla, el període de suspensió no es redueix, llevat que, un cop finalitzades les sis setmanes de descans obligatori, un o els dos progenitors sol·licitin la reincorporació al lloc de treball.
+En cas de mort d'un dels progenitors, l'altre progenitor pot fer ús de la totalitat o, si escau, de la part que li resti de permís.
+Qui assumeix el cost del permís nou d'ampliació del permís?
+La Seguretat Social assumeix el cost total del permís per naixement i cura de menor i abonarà el 100% de la base reguladora. La prestació estarà exempta d'IRPF, per tant l'import a ingressar serà el salari brut de la nòmina, sense retenció d'Hisenda.
+Com puc sol·licitar la prestació?
+Amb certificat digital: Si disposeu de certificat digital o usuari i contrasenya a Cl@ve, a través del portal La teva Seguretat Social, a l'apartat de Prestació per naixement i cura del menor.
+Sense certificat digital: Si no disposa de mètodes d'identificació prèvia, pot utilitzar la plataforma per a tràmits sense certificat digital de l'INSS que trobarà al web de prestacions de la Seguretat Social.
+Per correu: Descarregui i ompli el formulari de sol·licitud que trobarà al web de la Seguretat Social i trameti-ho per correu ordinari a l'Adreça Provincial de l'Institut Nacional de la Seguretat Social o de l'Institut Social de la Marina corresponent, juntament amb la resta de documentació.
+Presencial: Haurà de presentar la sol·licitud i la documentació amb cita prèvia.
+Quina documentació he d'aportar?
+Sol·licitud de la prestació.
+Acreditació d'identitat dels progenitors (DNI, passaport o NIE)
+Per a treballadors per compte aliè: Certificat d'empresa on consti la data d'inici del descans laboral per naixement i cura del menor.
+A més, en cas de naixement:
+Informe de maternitat expedit pel Servei Públic de Salut.
+Llibre de Família o certificat de la inscripció al Registre Civil del nen.
+En cas de gestació per substitució: Inscripció de la filiació del nascut al Registre Civil a favor del progenitor comitent (persona que confia la gestació del seu fill a una altra persona) o la inscripció de la filiació del fill al Registre Civil espanyol a favor del comitent i de la mare biològica.
+En cas d'adopció o acolliment:
+Llibre de Família o certificat de la inscripció al Registre Civil del nounat.
+Resolució judicial per la qual es constitueix l'adopció o la resolució administrativa o judicial per la qual es concedeix l'acolliment familiar.
+Quan sigui necessari el desplaçament previ al país d'origen del nen adoptat, cal aportar la documentació emesa per l'òrgan competent de la comunitat autònoma de residència, on es justifiqui l'inici dels tràmits per a l'adopció.
+Línies estratègiques del Pla Estatal d'Habitatge 2026-2030
+El Govern ha presentat les línies mestres del futur Pla Estatal d’Habitatge 2026-2030, dotat amb 7.000 milions d’euros. Una mobilització de recursos sense precedents que permetrà avançar en la consolidació d‟un sistema públic d’habitatge amb estàndards europeus i reforçar la política d’habitatge com el cinquè pilar de l’Estat del Benestar.
+El Pla Estatal d'Habitatge (PEV) 2026-2030 serà el primer pla elaborat d'acord amb la Llei pel dret a l'habitatge aprovat el 2023, norma que desenvolupa el dret constitucional a un habitatge digne i adequat per a tota la ciutadania. El pla suposa un gran impuls a les polítiques estatals d’habitatge, i incrementarà significativament la inversió en habitatge protegit, rehabilitació i ajuts a joves. També cerca dotar de més transparència l'accés a les dades en la matèria.
+La ministra d'Habitatge i Agenda Urbana, Isabel Rodríguez, ha destacat que el pla constitueix "un nou instrument per marcar una política contundent i eficaç d'habitatge des del públic".
+Què és el Pla estatal d'habitatge 2026-2030?
+El PEV 2026-2030 és un instrument estratègic del Govern d'Espanya que establirà les polítiques públiques d'habitatge per als propers cinc anys. La llei d’habitatge defineix els plans estatals d’habitatge com una de les principals eines d’actuació de l’Estat en política d‘habitatge, i assenyala que haurà de tenir caràcter plurianual i elaborar-se en coordinació amb les altres estratègies estatals. La llei també disposa que els plans d'habitatge es compondran de programes orientats a afavorir l'accés a un habitatge digne i adequat, així com a promoure l'oferta d'habitatge suficient i adequat, especialment a zones de mercat residencial tensionat.
+Quins objectius té el Pla estatal d'habitatge?
+El PEV 2026-2030 persegueix cinc grans metes:
+Incrementar el parc d’habitatge assequible amb caràcter protegit i permanent.
+Rehabilitar el parc existent, millorant eficiència energètica, accessibilitat i regeneració urbana.
+Reduir l'edat d'emancipació jove i facilitar l'accés a l'habitatge.
+Disminuir l'esforç financer de les famílies i garantir que el pagament de l'habitatge no superi el 30% dels ingressos.
+Revertir les zones de mercat tensionades mitjançant polítiques de contenció i reducció de preus.
+Com es distribuirà la inversió?
+El Pla preveu un finançament de 7.000 milions d'euros, que triplicarà el del pla anterior, amb un repartiment competencial d'acord amb la Constitució:
+60% aportat per l’Estat.
+40% per les comunitats autònomes, responsables de la competència en habitatge.
+Línies estratègiques del pla
+1. Més habitatge: construcció i compra
+El 40% dels recursos del futur Pla es destinaran a incrementar l'oferta d'habitatge protegit, i es garantirà que aquest romangui al parc públic amb caràcter permanent. D'aquesta línia, destaquen les mesures següents:
+Recuperació de les ajudes a la construcció de VPO.
+Col·laboració amb administracions, promotors socials i fórmules publicoprivades.
+Mobilització d'habitatge buit mitjançant compra o cessió per incorporar-lo al parc públic.
+2. Millor habitatge: rehabilitació
+El 30% dels fons finançaran la rehabilitació d’habitatges, edificis i entorns urbans, amb l’objectiu de dignificar el parc ja construït i reduir un 30% del consum energètic de més de 260.000 habitatges.
+Els ajuts augmentaran, a més, en els casos següents:
+Habitatges situats a zones de protecció patrimonial.
+Habitatges buits que es destinin a lloguer assequible.
+3. Emancipació jove
+El pla inclourà un paquet d’ajuts específics per a joves:
+Subvencions al lloguer.
+Ajuts de fins a 30.000 euros per a lloguer amb opció a compra d'habitatge protegit.
+Ajuts de més de 10.800 euros per a compra a municipis en risc demogràfic.
+Aval jove per facilitar l´accés al lloguer.
+4. Reducció de la taxa d’esforç
+El PEV 2026-2030 incorpora un compromís d'assequibilitat a totes les promocions finançades per l'Estat per garantir que els seus beneficiaris, en cap cas, hagin de destinar més d'un 30% dels ingressos al pagament de l'habitatge.
+A més, es mantenen els ajuts generals al lloguer, i es reforcen els ajuts contemplats en casos de vulnerabilitat per facilitar solucions habitacionals o sufragar despeses associades a l'habitatge en casos necessaris.
+5. Reversió de zones tensionades
+El PEV inclou mesures específiques per contenir i reduir preus de lloguer i compra a zones de mercat tensionat, d'acord amb el que disposa la llei d'habitatge.
+Què suposa aquest pla per a la ciutadania?
+El Pla Estatal d’Habitatge 2026-2030 respon al consens acadèmic i la demanda social per un acord d’Estat en matèria d’habitatge. Suposa:
+El major esforç inversor realitzat fins ara.
+La consolidació del parc públic com a llegat per a futures generacions.
+Una resposta realista i eficaç al problema principal assenyalat per la ciutadania: l'accés a l'habitatge.
+Com participar al procés d'elaboració del Pla Estatal d'Habitatge?
+El Ministeri d’Habitatge i Agenda Urbana ha obert a audiència pública el Projecte de Reial Decret pel qual es regula el Pla Estatal d’Habitatge 2026-2030. Les aportacions es podran fer fins al dia 7 d'octubre de 2025 a través d’aquest formulari a la pàgina web del Ministeri.
+Salari Mínim Interprofessional (SMI): què és, quant puja i a qui beneficia?
+El Salari Mínim Interprofessional (SMI) per al 2025 se situa en 16.576 euros anuals distribuïts en 14 pagues de 1.184 euros, de manera que acumula un increment del 61% des de l'any 2018. Uns 2,4 milions de treballadors es beneficiaran d’aquesta mesura.
+Amb la nova pujada de l'SMI, les persones treballadores percebran 6.273 euros més a l'any que el 2018. Les empleades de la llar que treballin per hores percebran almenys 9,26 euros per cada hora.
+Què és el Salari Mínim Interprofessional?
+És la quantia retributiva mínima que percep el treballador referida a la jornada legal de treball. El regula el Govern anualment, amb la consulta prèvia amb les organitzacions sindicals i les associacions empresarials més representatives. Al salari mínim es computa únicament la retribució en diners. Aquest salari s'entén referit a la jornada legal de treball a cada activitat. Si es fa jornada inferior es percebrà a prorrata.
+Quina és la quantia del Salari Mínim Interprofessional el 2025?
+El Consell de Ministres va aprovar l'11 de febrer del 2025 la pujada del Salari Mínim Interprofessional en un 4,4%, després de l’acord aconseguit amb les organitzacions sindicals.
+Per a totes les activitats a l'agricultura, la indústria i els serveis, sense distinció de sexe ni edat dels treballadors, queda fixat en 39,47 euros bruts al dia, o 16.576 euros bruts anuals distribuïts en 14 pagues de 1.184 euros.
+Aquesta xifra suposa un increment de 50 euros mensuals a 14 pagues, és a dir, un total de 700 euros anuals.
+El Salari Mínim Interprofessional és net o brut?
+El Salari Mínim Interprofessional fa referència al salari brut dels treballadors. Els 1.184 euros mensuals en 14 pagues representen el total de meritacions de la nòmina, i en cas que les pagues extres estiguin prorratejades, seran 1.381 euros mensuals en 12 pagues.
+Quin és el salari mínim d'eventuals, temporers i empleades de la llar?
+El salari de les persones treballadores eventuals, així com les temporeres els serveis de les quals a una mateixa empresa no excedeixin de 120, no pot ser inferior a 56,08 euros per jornada.
+En el cas d'empleades i empleats de la llar que treballin per hores, el salari mínim és de 9,26 euros per hora treballada efectivament.
+La pujada de l'SMI té efectes retroactius?
+Sí. L'increment aprovat al Consell de Ministres s'aplicarà amb caràcter retroactiu a l'1 de gener de 2025.
+Quant ha pujat l'SMI els darrers anys?
+A l'anterior legislatura, el Govern va elevar el Salari Mínim Interprofessional des dels 736 euros fins als 1.080 el 2023, un increment del 47%.
+Amb la pujada de l'SMI acordada per al 2025, l'SMI s'incrementa un 61% des del 2018. Aquesta xifra suposa un increment de 50 euros mensuals a 14 pagues, és a dir, un total de 700 euros anuals.
+Llei de Residus: què és i quins objectius persegueix?
+El 2025 els ajuntaments que encara no sol·liciten la taxa d'escombraries requerida per complir amb els objectius europeus sobre reciclatge ho hauran de fer de manera obligatòria.
+La Llei de Residus aprovada el 2022 va establir un termini de tres anys perquè els ajuntaments adaptessin la seva gestió dels residus als objectius de reciclatge establerts per la Unió Europea.
+Aquesta adaptació s'havia de fer a través de la imposició d'una nova taxa d'escombraries que sufragués la recollida, el transport i el tractament de residus sòlids urbans, d'acord amb el principi de “qui contamina paga”.
+Els municipis que encara no han complert aquest compromís i no han posat en marxa aquesta taxa ho hauran de fer de manera obligatòria a partir del 2025.
+Quins objectius té la Llei de Residus?
+La Llei 7/2022 sobre residus i sòls contaminats per a una economia circular va transposar a Espanya una directiva europea del 2018 per complir amb els nous objectius establerts a la normativa comunitària i impulsar l’economia circular a Espanya.
+La meta fonamental d’aquesta llei és augmentar la circularitat dels residus. Per això, la norma va introduir l'obligatorietat de recollir de forma separada noves fraccions de residus com ara els bioresidus, els tèxtils, els residus domèstics perillosos, els olis de cuina usats i els residus voluminosos per al tractament diferenciat posterior. Aquest nou marc es va completar amb la introducció d’un calendari d’implantació de recollides separades de residus i mesures per minimitzar la utilització dels plàstics d’un sol ús.
+A més, la llei persegueix reduir al mínim els efectes negatius de la generació i gestió de residus sobre la salut humana i el medi ambient, contribuint a la lluita contra el canvi climàtic i la protecció del medi marí. S'alinea amb els Objectius de Desenvolupament Sostenible de l'Agenda 2030, especialment els relatius a producció i consum sostenibles, acció pel clima i vida submarina.
+Per què s’estableix una nova taxa de gestió de residus?
+La directiva europea del 2018 exigia als Estats membre assolir el 55% de la reutilització i reciclatge de residus municipals per al 2025, un percentatge que haurà d'arribar al 60% el 2030 i al 65% el 2035.
+Per assolir aquest objectiu, la llei espanyola va establir que els municipis havien d'aplicar un tribut que cobrís els costos de la recollida, transport i tractament de residus sòlids urbans, i ho havien de fer en un termini de tres anys. Aquest termini va expirar l'abril del 2025.
+Taxa de residus: quant es paga, com i quan?
+Cada municipi pot implementar aquest tribut segons els seus propis criteris, per la qual cosa són els mateixos ajuntaments els que determinen com calcular la quantia de la taxa. En tot cas, la taxa ha de reflectir el cost real del servei, incloent-hi no només la recollida i el tractament, sinó també la vigilància de les operacions, la despesa en manteniment o les campanyes de conscienciació i comunicació en la matèria.
+La llei també preveu que els ajuntaments puguin adaptar la taxa a les característiques de la seva població amb eines com ara reduccions per a persones o famílies vulnerables o incentius per a la recollida separada de residus en habitatges de lloguer de vacances.
+Per confirmar quant, a través de quines vies (transferència, en efectiu o amb domiciliació) i quan es paga aquesta taxa, es recomana acudir a l’oficina municipal o accedir a la pàgina web de l’ajuntament que correspongui.
+Obligacions de la Llei de Residus per a les empreses
+A més dels ajuntaments, també s'han hagut d'adaptar a la Llei de residus les empreses que, des de l'entrada en vigor d'aquesta norma l'any 2022, tenen l'obligació de minimitzar l'ús de plàstics d'un sol ús. Amb aquesta meta sempre present, la llei va establir mesures com ara:
+La prohibició de vendre productes de plàstic, com ara coberts, plats o palletes.
+El cobrament als clients d’una quantitat per cada producte de plàstic no reutilitzable que es lliuri, especificant aquest cost addicional. En el cas dels restaurants, cal oferir als clients aigua no envasada de forma gratuïta.
+L'ampliació de la responsabilitat del productor al tractament complet dels residus per garantir que els productors assumeixen la responsabilitat de la gestió de residus.
+La creació de nous gravàmens com l'impost al plàstic, que grava l'ús d'envasos de plàstic no reutilitzables, o l'impost al dipòsit i la incineració de residus en abocadors.
+Aquestes mesures es complementen amb el foment del disseny de productes més duradors, reparables i reciclables, evitant l'obsolescència prematura i fomentant la reutilització. Així mateix, s'hi inclouen mesures d'informació als consumidors sobre la reparabilitat i l'impacte ambiental de determinats productes.
+El paper de la Llei de Residus en la lluita contra el canvi climàtic
+La Llei de Residus estableix un marc general per millorar la gestió dels residus i reduir-ne l'impacte ambiental, fet que suposa una important contribució a la lluita contra el canvi climàtic. Amb mesures com ara la recollida separada, la prevenció de l'ús de plàstics i l'aplicació del principi "qui contamina paga", es busca avançar cap a una economia més eficient en l'ús de recursos i disminuir les emissions de gasos d'efecte hivernacle associades als residus, que s'estimen un 4% del total.
+El model espanyol de trasplantaments: funcionament i claus del seu lideratge mundial
+El 2024 Espanya va batre el rècord de trasplantament d'òrgans i va mantenir així la posició de líder mundial que ocupa en aquest àmbit des de fa més de 30 anys. Recomanat per l'Organització Mundial de la Salut, el model espanyol basa el seu èxit en un enfocament multidisciplinari que aborda aspectes legals, tècnics i econòmics.
+El trasplantament d'òrgans, que salva la vida o millora la salut de desenes de milers de pacients anualment, va registrar el màxim històric a Espanya durant el 2024. L’any passat el denominat "model espanyol de trasplantaments" va registrar una taxa de 53,9 donants morts per milió de població, molt per sobre de la resta de països del món.
+Aquestes xifres mantenen Espanya com a líder internacional a l'àmbit de les donacions i els trasplantaments, posició que ocupa des de fa més de tres dècades. El model espanyol és el conjunt de mesures adoptades que ha forjat aquest lideratge. Es tracta d'una estratègia àmpliament descrita a la literatura científica que ha estat, a més, recomanada per l'Organització Mundial de la Salut (OMS).
+Com funciona el model espanyol de trasplantaments?
+El model espanyol de trasplantaments es construeix sobre dos pilars fonamentals: la Llei de Trasplantaments de 1979, que ha estat progressivament adaptada als diferents avenços cientificotecnològics a través de successives normes; i el Sistema Nacional de Salut, la condició del qual de sistema públic i d'accés universal permet que qualsevol pacient pugui accedir al trasplantament sense cap tipus de discriminació.
+En aquest model, l’Organització Nacional de Trasplantaments (ONT) és l’organisme autònom encarregat de coordinar la política de trasplantaments a nivell nacional. Exerceix una tasca d'harmonització entre l'administració sanitària central i les autonòmiques, que són suport de tot el procés de donació i trasplantament.
+A més de la coordinació nacional i autonòmica, hi ha un tercer nivell de coordinació integrat per la xarxa d'hospitals autoritzats per obtenir òrgans. Un dels criteris d’autorització d’aquests centres és que comptin amb una unitat de coordinació de trasplantaments dins de l’hospital, la responsable d’orquestrar el procés de donació i trasplantament d’òrgans.
+La figura del coordinador hospitalari de trasplantaments, que exerceix el lideratge en aquestes unitats, és una de les claus sobre les quals pivota el model espanyol. És majoritàriament metge intensivista i funciona amb el suport de l'ONT i les Coordinacions Autonòmiques de Trasplantament.
+Donació: principis i condicions
+La donació d’òrgans és un gest altruista que, per llei, és lliure, voluntari, confidencial, anònim, gratuït i no lucratiu.
+Tota persona pot decidir en vida que, a la seva mort, els seus òrgans serveixin per salvar o millorar la vida dels altres. Tot i això, no tothom pot ser donant: per això, les unitats de coordinació són les que valoren la validesa dels òrgans per al trasplantament.
+La donació de cèl·lules i teixits està també regulada a Espanya i és també voluntària i altruista, i no es pot percebre cap contraprestació econòmica o cap remuneració ni pel donant ni per qualsevol altra persona física ni jurídica.
+En aquesta categoria hi ha el trasplantament de medul·la òssia, el teixit que es troba dins d'alguns ossos on nien les cèl·lules mare i per això és indispensable per a la vida. En termes generals, es pot registrar com a donant de medul·la òssia tota persona sana des dels 18 fins als 40 anys, sempre que no pateixi cap malaltia transmissible o que pugui posar en perill la seva vida pel fet de la donació.
+Requisits del procés de donació
+La legislació espanyola estableix que totes les persones són donants tret que hagin expressat el contrari, supòsit conegut a tot el món com a "consentiment presumpte".
+Tot i això, a Espanya a l'hora d'aplicar-la s'estableix un procediment per preservar la voluntat del mort, ja que la seva oposició pot haver estat formulada de diferents maneres (per exemple, mitjançant l'expressió de la seva voluntat a familiars o a professionals que l'hagin atès al centre sanitari).
+Al web de la campanya "Ets perfecte per a altres" es pot descarregar la targeta de donant, un document simbòlic que serveix com a testimoni escrit del desig de donar després de la mort.
+Què és la donació de viu?
+La donació de viu és obtenir òrgans procedents de donants vius en aquells casos en què això sigui possible.
+Aquest procediment depèn del compliment de determinades condicions i requisits reglamentaris: entre aquests, que el donant sigui més gran i gaudeixi de bona salut física i mental.
+La legislació espanyola inclou els passos que han de seguir tots els implicats per garantir els drets de donant i receptor i que la donació es regeixi pels principis generals. Atès que cada cas té les pròpies particularitats, es recomana consultar tots els dubtes a l'equip mèdic responsable del pacient.
+Espanya, referent internacional
+Des de la Unió Europea s'ha recomanat expressament en diferents documents l'adopció total o parcial del model espanyol. Al document del Consell d'Europa "Meeting the Organ Shortage: Current status and strategies for improvement" es descriuen els elements més importants del model per implementar-los en altres països, entre els quals destaquen un sistema sanitari amb cobertura universal, finançament adequat o un nombre suficient de personal mèdic i d'infermeria.
+El lideratge internacional d'Espanya en aquest àmbit es reflecteix, a més, al full de ruta global que l'OMS ha plantejat per impulsar els trasplantaments els propers anys: la resolució "Augment de la disponibilitat, accés ètic i supervisió del trasplantament de cèl·lules, teixits i òrgans humans". Espanya ha estat la principal promotora d'aquest document, les bases del qual es van asseure durant la Presidència espanyola de la UE a la denominada Declaració de Santander.
+Antecedents i història del Consell de Ministres
+L'origen del Consell de Ministres, amb aquesta denominació, es remunta al 19 de novembre de 1823, data en què el rei Ferran VII dicta un Reial decret pel qual es crea el Consell de Ministres, dirigit al llavors primer secretari d'Estat, Víctor Damián Sáez.
+El Consell, segons aquesta norma, es va concebre com un òrgan col·legiat, presidit pel rei, i compost per cinc membres. Tenia com a funció tractar assumptes d'utilitat general i dictar providències de comú acord, que quedaven recollides en un llibre.
+El Reial decret cita dos precedents: el Consell de Gabinet creat per Felip V el novembre de 1714 i la Suprema Junta d'Estat establerta per Carles III el juliol de 1787.
+Primera reunió
+La primera reunió registrada en acta va ser la de 3 de gener de 1824, encara que va sense signar. El primer secretari titular del Consell de Ministres va ser Antonio d'Ugarte i Larrazábal, que va subscriure la primera acta amb signatura el 15 de febrer de 1824.
+L'absència d'actes entre novembre i desembre de 1823 fa pensar que no hi va haver reunions. Tot i això, segons sembla, els diaris de l'època publiquen decrets tramitats pel Consell de Ministres, per la qual cosa els consells es van haver de reunir.
+Evolució
+L'any 1824, el Consell de Ministres es reuneix 42 vegades, però el monarca només va acudir a cinc reunions. Sense cap atribució expressa, el ministre d'Estat va presidir, les altres 37 sessions.
+Mitjançant el Reial decret de 31 de desembre de 1824, Ferran VII va acceptar de forma formal i expressa que, en absència seva, presidís el Consell el primer secretari d'Estat i del Despatx universal, sota la denominació, fins aleshores inexistent, de president del Consell de Ministres. El text anava dirigit a Francisco de Cea y Bermúdez.
+Aquest Reial decret també regulava la periodicitat del Consell de Ministres: "dues vegades potser per setmana i sempre que qualsevol dels seus secretaris de despatx ho considerés necessari".
+Les actes revelen que el Consell de Ministres es va reunir al Palau Reial fins al 1825. Des de llavors i fins a finals del regnat d'Isabel II, es va traslladar a l'anomenada Casa dels Ministeris, un edifici que actualment acull el Centre d'Estudis Polítics i Constitucionals. També es van fer reunions en alguns dels Reales Sitios, com ara Aranjuez, San Lorenzo o La Granja.
+Al llarg del segle XIX i gran part del segle XX, la seu del Consell va anar canviant. No serà fins a l'any 1977 quan es desplaci a la seu actual, l'edifici del Consell de Ministres ubicat al complex de la Moncloa. Finalment, amb la Constitució del 1978, en quedarà fixat també el paper actual com a òrgan col·legiat dels governs successius en el marc d'un Estat social i democràtic de Dret.
+Bicentenari del Consell de Ministres: publicació de noves actes
+Les actes del Consell de Ministres són una documentació essencial per comprendre l'evolució històrica d'Espanya.
+Entre 1989 i 1992, en una iniciativa pionera entre els països del nostre entorn, es van transcriure i publicar les primeres actes, que recullen les reunions celebrades entre el 3 de gener de 1824 i 1930, pel valor documental i la contribució a la transparència i al patrimoni comú dels espanyols.
+Aquests documents abasten un període de 106 anys, però només estan disponibles les actes de 21 anys i, en alguns casos, incompletes. Hi ha períodes en què no se'n van redactar; en altres períodes, es van poder extraviar. Estan recollides en vuit volums corresponents al període de Ferran VII (entre 1824-1833), dos volums de l'etapa d'Isabel II (1833-1839, 1843-1844 i 1854-1855) i la Primera República espanyola (1873-1874), més un altre que correspon a la segona etapa de la dictadura del general Miguel Primo de Rivera, denominada Directori Civil (1925-1930). Aquest darrer període és l'únic de la història política d'Espanya que està detalladament documentat en actes del Consell de Ministres.
+Les actes corresponents als consells de ministres celebrats des del principi de la II República, el 1931, fins al final de la Guerra Civil que va donar pas a la dictadura de Francisco Franco, el 1939, no s'han localitzat. Tampoc no es conserven les actes dels consells celebrats des de 1939 fins a 1957. L'any 1957, un decret regula les reunions del Consell de Ministres i, des de llavors, les actes es conserven al Ministeri de la Presidència, Justícia i Relacions amb les Corts.
+Amb motiu del bicentenari de la creació del Consell de Ministres, el 19 de novembre d'any 2023, el Govern va publicar, en un exercici de transparència i servei públic, totes les actes posteriors a la Constitució de 1978, que estan a disposició ciutadana al web del Ministeri de la Presidència.
+Fonts:
+Actes del Consell de Ministres (Ministeri de la Presidència, Justícia i Relacions amb les Corts); Arxiu del Ministeri de la Presidència, Justícia i Relacions amb les Corts; Els orígens del Consell de Ministres a Espanya. José Antonio Escudero (2023); La creació de la Presidència del Consell de Ministres. José Antonio Escudero (1972).
+Govern de la XV legislatura
+Gabinet des del 21 de novembre del 2023 fins al 29 de desembre del 2023
+Després de la celebració de les eleccions generals del 23 de juliol del 2023, el Congrés dels Diputats atorga la confiança per majoria absoluta a Pedro Sánchez Pérez-Castejón, i és investit president del Govern el 16 de novembre.
+El Butlletí Oficial de l'Estat (BOE) en publica el reial decret amb el nomenament el 17 de novembre. Aquell mateix dia, Pedro Sánchez promet el càrrec davant el rei Felip VI al Palau de la Zarzuela.
+El president anuncia la composició del seu Govern el 20 de novembre, els nomenaments del qual els publica el BOE l'endemà.
+El 21 de novembre Pedro Sánchez assisteix a l'acte de promesa dels membres del seu Gabinet davant el rei.
+Els ministres i les ministres del nou Gabinet són els següents:
+Vicepresidenta primera i ministra d'Economia, Comerç i Empresa, Nadia María Calviño Santamaría.
+Vicepresidenta segona i ministra d'Ocupació i Economia Social, Yolanda Díaz Pérez.
+Vicepresidenta tercera i ministra per a la Transició Ecològica i el Repte Demogràfic, Teresa Ribera Rodríguez.
+Vicepresidenta quarta i ministra d'Hisenda i Funció Pública, María Jesús Montero Cuadrado.
+Ministre d'Afers Exteriors, Unió Europea i Cooperació, José Manuel Albares.
+Ministre de la Presidència, Justícia i Relacions amb les Corts, Félix Bolaños.
+Ministra de Defensa, Margarita Robles.
+Ministre de l'Interior, Fernando Grande-Marlaska.
+Ministre de Transports i Mobilitat Sostenible, Óscar Puente.
+Ministra d'Educació, Formació Professional i Esports; i portaveu del Govern, Pilar Alegría.
+Ministre d'Indústria i Turisme, Jordi Hereu.
+Ministra d'Agricultura, Pesca i Alimentació, Luis Planas.
+Ministre de Política Territorial i Memòria Democràtica, Ángel Víctor Torres.
+Ministra d'Habitatge i Agenda Urbana, Isabel Rodríguez.
+Ministre de Cultura, Ernest Urtasun.
+Ministra de Sanitat, Mónica García.
+Ministre de Drets Socials, Consum i Agenda 2030, Pablo Bustinduy.
+Ministra de Ciència, Innovació i Universitats, Diana Morant.
+Ministra d'Igualtat, Ana Redondo.
+Ministra d'Inclusió, Seguretat Social i Migracions, Elma Saiz.
+Ministre de Transformació Digital, José Luis Escrivá.
+Ministra de Joventut i Infància, Sira Rego.
+Gabinet des del 29 de desembre del 2023 fins al 6 de setembre del 2024
+El 29 de desembre del 2023, el president del Govern anuncia la primera remodelació del Gabinet de la XV legislatura.
+Com a conseqüència del nomenament de la vicepresidenta primera i titular d'Economia, Nadia Calviño, com a nova directora del Banc Europeu d'Inversions, cessa en el càrrec i és substituïda per Carlos Cuerpo.
+La vicepresidenta quarta i ministra d'Hisenda i Funció Pública, María Jesús Montero, assumeix la vicepresidència primera en substitució de Calviño. Alhora, la Secretaria d'Estat de Funció Pública passa a formar part del Ministeri de Transició Digital que dirigeix el ministre José Luis Escrivá.
+El Butlletí Oficial de l'Estat (BOE) publica el reial decret amb els tres nomenaments el 29 de desembre i la reestructuració dels departaments ministerials i les vicepresidències del Govern. Els ministres prometen el càrrec davant el rei, el mateix dia al Palau de la Zarzuela.
+El Gabinet queda compost de la manera següent:
+President del Govern, Pedro Sánchez Pérez-Castejón.
+Vicepresidenta primera i ministra d'Hisenda, María Jesús Montero Cuadrado.
+Vicepresidenta segona i ministra d'Ocupació i Economia Social, Yolanda Díaz Pérez.
+Vicepresidenta tercera i ministra per a la Transició Ecològica i el Repte Demogràfic, Teresa Ribera Rodríguez.
+Ministre d'Afers Exteriors, Unió Europea i Cooperació, José Manuel Albares.
+Ministre de la Presidència, Justícia i Relacions amb les Corts, Félix Bolaños.
+Ministra de Defensa, Margarita Robles.
+Ministre de l'Interior, Fernando Grande-Marlaska.
+Ministre de Transports i Mobilitat Sostenible, Óscar Puente.
+Ministra d'Educació, Formació Professional i Esports; i portaveu del Govern, Pilar Alegría.
+Ministre d'Indústria i Turisme, Jordi Hereu.
+Ministra d'Agricultura, Pesca i Alimentació, Luis Planas.
+Ministre de Política Territorial i Memòria Democràtica, Ángel Víctor Torres.
+Ministra d'Habitatge i Agenda Urbana, Isabel Rodríguez.
+Ministre de Cultura, Ernest Urtasun.
+Ministre d'Economia, Comerç i Empresa, Carlos Cuerpo Caballero.
+Ministra de Sanitat, Mónica García.
+Ministre de Drets Socials, Consum i Agenda 2030, Pablo Bustinduy.
+Ministra de Ciència, Innovació i Universitats, Diana Morant.
+Ministra d'Igualtat, Ana Redondo.
+Ministra d'Inclusió, Seguretat Social i Migracions, Elma Saiz.
+Ministre per a la Transformació Digital i de la Funció Pública, José Luis Escrivá.
+Ministra de Joventut i Infància, Sira Rego.
+Gabinet des del 6 de setembre fins al 25 de novembre del 2024
+El 4 de setembre del 2024, el president del Govern anuncia la segona remodelació del Gabinet de la XV legislatura.
+Com a conseqüència del nomenament del ministre per a la Transformació Digital i de la Funció Pública, José Luis Escrivá, com a nou governador del Banc d'Espanya, cessa en el càrrec i és substituït per Óscar López.
+El Butlletí Oficial de l'Estat (BOE) en publica el reial decret amb el nomenament el 6 de setembre. El ministre promet el càrrec davant el rei, el mateix dia al Palau de la Zarzuela.
+El darrer Gabinet queda compost de la manera següent:
+President del Govern, Pedro Sánchez Pérez-Castejón.
+Vicepresidenta primera i ministra d'Hisenda, María Jesús Montero Cuadrado.
+Vicepresidenta segona i ministra d'Ocupació i Economia Social, Yolanda Díaz Pérez.
+Vicepresidenta tercera i ministra per a la Transició Ecològica i el Repte Demogràfic, Teresa Ribera Rodríguez.
+Ministre d'Afers Exteriors, Unió Europea i Cooperació, José Manuel Albares.
+Ministre de la Presidència, Justícia i Relacions amb les Corts, Félix Bolaños.
+Ministra de Defensa, Margarita Robles.
+Ministre de l'Interior, Fernando Grande-Marlaska.
+Ministre de Transports i Mobilitat Sostenible, Óscar Puente.
+Ministra d'Educació, Formació Professional i Esports; i portaveu del Govern, Pilar Alegría.
+Ministre d'Indústria i Turisme, Jordi Hereu.
+Ministra d'Agricultura, Pesca i Alimentació, Luis Planas.
+Ministre de Política Territorial i Memòria Democràtica, Ángel Víctor Torres.
+Ministra d'Habitatge i Agenda Urbana, Isabel Rodríguez.
+Ministre de Cultura, Ernest Urtasun.
+Ministre d'Economia, Comerç i Empresa, Carlos Cuerpo Caballero.
+Ministra de Sanitat, Mónica García.
+Ministre de Drets Socials, Consum i Agenda 2030, Pablo Bustinduy.
+Ministra de Ciència, Innovació i Universitats, Diana Morant.
+Ministra d'Igualtat, Ana Redondo.
+Ministra d'Inclusió, Seguretat Social i Migracions, Elma Saiz.
+Ministre per a la Transformació Digital i de la Funció Pública, Óscar López.
+Ministra de Joventut i Infància, Sira Rego.
+Figura del president i les seves funcions
+Nomenament i funcions del president; estructura de la Presidència del Govern.
+President del Govern
+Elecció
+Després de cada renovació del Congrés dels Diputats, i en els altres supòsits previstos a la Constitució, el rei, prèvia consulta amb els representants designats pels grups polítics presents al Parlament, i mitjançant el president del Congrés, proposa un candidat a la Presidència del Govern.
+El candidat ha d'exposar davant el Congrés dels Diputats el programa polític del Govern que vol formar i ha de sol·licitar la confiança de la Cambra, que s'entén atorgada si aconsegueix el suport de la majoria absoluta dels membres. Si no assoleix aquests suports, cal repetir la votació quaranta-vuit hores després. En aquest cas, n'hi ha prou que obtingui la confiança de la majoria simple dels diputats.
+Si finalment tampoc no aconseguís la majoria necessària per a la investidura en aquesta segona votació, s'estableix que es repetiran propostes successives amb el mateix procediment. Passats dos mesos des de la primera votació, si cap candidat no obté la confiança del Congrés, el rei ha de dissoldre les Corts i convocar noves eleccions amb la ratificació del president del Congrés.
+Nomenament
+Quan el candidat ha obtingut la confiança del Congrés, el rei el nomena president amb la ratificació del president del Congrés. El nomenament es publica al «Butlletí Oficial de l'Estat» i posteriorment el president pren possessió del càrrec davant el Rei.
+Funcions
+La Constitució atribueix al president la direcció de l'acció del Govern i la coordinació de les funcions de la resta dels membres, sense perjudici de la competència i la responsabilitat directa de cadascun en la gestió dels departaments ministerials.
+Així mateix, li corresponen les competències establertes a la Llei 50/1997 del Govern, que són les següents:
+Representar el Govern
+Proposar al rei el nomenament i la separació dels vicepresidents i dels ministres
+Crear, modificar i suprimir, per reial decret, els departaments ministerials, i també les secretaries d'estat
+Aprovar l'estructura orgànica de la Presidència del Govern
+Impartir instruccions als altres membres del Govern i resoldre els conflictes d'atribucions que puguin sorgir entre els diferents ministeris
+Convocar, presidir i fixar l'ordre del dia de les reunions del Consell de Ministres, sens perjudici que les pugui presidir el rei, quan ho consideri oportú, a petició del president del Govern
+Proposar al rei, amb la deliberació prèvia del Consell de Ministres, la dissolució del Congrés, del Senat o de les Corts Generals
+Plantejar davant el Congrés dels Diputats, prèvia deliberació del Consell de Ministres, la qüestió de confiança
+Establir el programa polític del Govern, determinar les directrius de la política interior i exterior i vetllar pel seu compliment
+Dirigir la política de defensa i exercir, respecte de les Forces Armades, les funcions previstes a la legislació reguladora de la defensa nacional i de l'organització militar
+Refrendar, si escau, els actes del rei i sotmetre-li, perquè sancioni, les lleis i altres normes amb rang de llei
+Proposar al rei la convocatòria d'un referèndum consultiu, amb l'autorització prèvia del Congrés dels Diputats
+Interposar el recurs d'inconstitucionalitat
+President del Govern
+El president del Govern aprova l'estructura orgànica de la Presidència del Govern que, sota la seva direcció, desenvolupa les funcions a través de diferents òrgans superiors i directius.

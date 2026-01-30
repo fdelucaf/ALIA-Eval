@@ -1,0 +1,535 @@
+AEMETen abisu meteorologikoak: ezagutu kalteak prebenitzeko eta saihesteko
+Arrisku-egoera batean garaiz jokatzeak kalte egin dezakeen fenomeno meteorologiko baten ondorioak minimiza ditzake, baita bizitzak salba ditzake ere. Baina, ba al dakizu zuzen interpretatzen AEMETen ohar bat? Eta abisu baten eta alerta meteorologiko baten arteko aldea? Artikulu honetan azaltzen dizugu nola egin.
+Zer dira abisu meteorologikoak?
+Lehenik eta behin, komeni da zehaztea zer den muturreko fenomeno meteorologikoa (FMA). Meteorologiako Estatu Agentziaren (AEMET) definizioaren arabera, pertsonei eta ondasunei zuzenean edo zeharka kalteak eragin diezazkiekeen eta, beraz, inpaktuak eragin ditzakeen gertaera meteorologiko orori egiten dio erreferentzia kontzeptuak.
+Abisua esaten zaio muturreko fenomeno meteorologikoa gertatzeko probabilitateari (euriteak, elurteak, haizeteak, ekaitzak, tenperatura maximoak eta minimoak, kostaldeko fenomenoak, etab.) lotutako iragarpenari eremu jakin batean.
+AEMET Espainiako meteorologia-iragarpenak behatzeko eta egiteko agentzia arduraduna da. Eta, beraz, ohar horiek egitetik, zeinak hiru mailatan banatzen baitira arriskuaren arabera, Europako estandarrei jarraituz. Haietako bakoitzak gomendio bat du.
+Zer abisu meteorologiko mota daude?
+Abisu horia: arriskua txikia dela adierazten du. Eguraldiaren iragarpenari kasu egitea eta eguneraketak jarraitzea gomendatzen da, batez ere aire zabalean jarduerak egiten badira.
+Abisu laranja: arriskua handia dela adierazten du. Ondasun eta populazio ahulek edo arriskupeko zonetan inpaktu larriak izan ditzakete. Egoera horietan, funtsezkoak ez diren jarduerak mugatzea gomendatzen du AEMETek, eta tokiko agintarien gomendioei arreta berezia jartzea.
+Abisu gorria: arriskua apartekoa dela adierazten du. Kalteak oso larriak edo katastrofikoak izan daitezke. Kasu horietan, ezinbestekoa da informazioa denbora errealean jasotzea, agintariek esandakoari jarraitzea, premiazkoak ez diren joan-etorriak saihestea eta kontu handiz ibiltzea.
+Oinarrizko abisu-maila horiek ohar bereziekin osa daitezke. Hori gertatzen da, adibidez, aurkako zenbait fenomeno meteorologiko daudenean, edo fenomeno horiek intentsitateagatik edo iraupenagatik nabarmentzen direnean, hala nola bero- eta hotz-boladetan edo ekaitz tropikaletan. Kasu horietan, eboluzio meteorologikoari arreta berezia jartzeko eskatzen zaie herritarrei.
+Babes zibileko alertak
+AEMETek 72 orduko aurrerapenarekin ohartarazten du muturreko fenomeno meteorologiko horiek etor daitezkeela, eta informazioa automatikoki eta eguneratuta ematen du, beti herritarren esku, baina, bereziki, larrialdietan eta babes zibilean eskumena duten agintarien esku, administrazio autonomikoen mende baitaude. Haiek arduratzen dira biztanleei eta inguruneari buruzko abisuen arriskua eta eragin posibleak ebaluatzeaz, alertak bidaltzeaz eta kasu bakoitzean egokienak diren babes-neurriak hartzeaz.
+Ohar baten arriskuaren analisiaren ebaluazioa hainbat faktoretara egokitu behar da: lurraldekoak, hirigintzakoak, orografikoak, etab. Hori dela eta, administrazio autonomikoak dira eskudunak, lurraldearekiko duten gertutasunagatik eta ezagutzagatik. Adibidez, elurte edo ekaitz batek ez du arrisku bera goi-mendiko eremu batean edo metropoli-eremu baten erdian, nahiz eta abisu meteorologikoa berdina izan. Ondorioz, babes zibilagatik hartutako neurriak desberdinak izango dira.
+Zein eskumen ditu administrazio bakoitzak?
+Oro har, Estatuari dagokio, AEMETen bidez (Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioari atxikia, Ingurumeneko Estatu Idazkaritzaren bidez), gerta daitezkeen muturreko fenomeno meteorologikoen berri ematea.
+Bestalde, autonomia-erkidegoen eskumena da, babes zibileko agintaritzen bidez, uholde-, sute- edo hondamendi-kasuetan biztanleak ohartaraztea. Era berean, larrialdietarako lurralde-planak egiteko ardura dute, baita krisi bat gertatzen denean protokoloak aktibatzeko ardura ere.
+Baso-suteetan, autonomiei dagokie suari aurrea hartzea, planifikatzea eta itzaltzea, baina Estatuak babes dezake egoera kritikoetan.
+Uholdeen edo danen kasuan, autonomia-erkidegoek lurraldeko eta babes zibileko ekintza-planak egiten dituzte; Estatua, berriz, erkidego arteko ibai handien kudeaketaz arduratzen da, konfederazio hidrografikoen bidez. Konfederazio horiek Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioari atxikita daude, eta denbora errealean ematen diete autonomia-erkidegoetako agintariei uholdeei aurrea hartzeko informazioa. Erkidego barruko arroen kasuan, eskumena autonomia-erkidegoena da, eta, hiri-barruko tarteetan, udalena.
+Nola iristen zaie abisua herritarrei? ES-Alert sistema
+2022an, Europar Batasunak araudi bat ezarri zuen, eta herrialde kide guztiei sare mugikorretan oinarritutako alerta-sistema bat ezartzea eskatzen die. Espainian 2023an ezarri zen ES-Alert sistema, gailu mugikor guztietara jakinarazpenak bidaltzen dituena arrisku-eremuetan, larrialdietan herritarrak ohartarazteko.
+Alertak sare-antenen bidez transmititzen dira, eta mugikorraren pantailan jakinarazpen nabarmen gisa agertzen dira. Espainiaren kasuan, ES-Alert 4G eta 5G sareen erabilerari esker iristen da herritarren % 90era.
+Babes zibileko hiru alerta-maila daude:
+1. maila: alerta hauek automatikoak dira eta gailu bateragarri guztietan lehenespenez aktibatuta daude; beraz, ez dute erabiltzailearen konfiguraziorik behar eta ezin dira desaktibatu.
+2. maila: alerta horiek eskuz aktibatu behar dira. Barne Ministerioaren arabera, maila hori ez da erabiltzen gaur egun Espainian.
+3. maila: kasu berezietan erabiltzen dira, hala nola adingabeen bahiketan, osasun publikoko alertetan edo segurtasun publikoko gorabeheretan. Espainian ere ez dira erabiltzen.
+Espainiari eragiten dioten alertak 1. mailakoak dira soilik. Gailu mugikorretan lehenespenez aktibatuta daude, baina azken bertsioaren arabera eguneratuta edukitzea gomendatzen da.
+Iturri ofizialen bidez informatzea
+Abisu eta alerta meteorologikoak interpretatzen jakitea bezain garrantzitsua da non informatu jakitea. Iturri eta kanal ofizialen bidez egin behar da beti.
+Hurrengo esteketan agertzen dira nagusietako batzuk:
+AEMETen webgunea eta sare sozialak
+- Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+- AEMET X-n - Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+- AEMET Instagram-en - Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+- AEMET Facebook-en - Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioaren webgunea eta sare sozialak
+- Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioa
+- Ministerioa X-n
+- Ministerioa Instagram-en
+- Ministerioa Facebook-en
+Autonomia-erkidegoetako babes zibileko zerbitzuen webgunea eta sare sozialak
+- Babes Zibila autonomia-erkidegoetan - Babes Zibileko eta Larrialdietako Zuzendaritza Nagusia
+V16 baliza konektatua: zer da, zertarako balio du eta noiz izango da derrigorrezkoa?
+V16 baliza konektatua errepideko matxurak eta istripuak seinaleztatzeko gailu homologatua da, nahitaez erabili beharrekoa, eta triangeluak ordezkatuko ditu 2026ko urtarrilaren 1etik aurrera.
+Lehen Ministro Kontseiluak, 2021eko martxoaren 16ko bileran, errege-dekretu bat onartu zuen bide publikoetako laguntza-zerbitzuak arautzeko, eta, berritasun nagusi gisa, hau jasotzen zuen: matxura edo istripu baten ondoren ibilgetuta dagoen ibilgailuaren aurrean eta atzean jartzen diren bi triangeluen ordez, ibilgailuaren goialdean gailu argitsu bat jartzea. Arauak 2026ko urtarrilaren 1etik aurrera ezarri zuen derrigortasuna.
+Estatuko Aldizkari Ofizialak beste errege-dekretu bat argitaratu zuen 2022ko abenduaren 20an, araudi hori aldatzen eta osatzen duena, batez ere alderdi teknikoei, ziurtagiriei eta gailuen (balizen) konektagarritasunari dagokienez.
+Gidariek triangeluak zein balizak erabili ahal izan dituzte orain arte, konexioarekin edo konexiorik gabe. Hala ere, 2026ko urtarrilaren 1etik aurrera, DGT 3.0 plataformara konektatutako V16 gailuak bakarrik izango dira legezkoak.
+Zer da V16 baliza konektatua?
+Baliza txiki hori bat da, konektibitatez hornitua, eta intentsitate handiko 360º-ko argia aldizka eta modu jarraituan igortzeko gai da, gutxienez 30 minutuz. Pila edo bateria bat dauka, gutxienez 18 hilabeteko balio-bizitza daukana, berriz kargatu daitekeen ala ez alde batera utzita.
+Zein da V16 balizaren helburua?
+Triangeluak jartzeko matxuraren bat duten gidariek beren ibilgailuetatik jaitsi eta galtzadatik edo bazterbidetik ibili behar izan dezaten saihestea. Urtero 25 pertsona inguru hiltzen dira Espainian auto batek harrapatuta, triangeluak jartzen saiatzen diren bitartean.
+Gidarien eta bidaiarien babesa areagotzea, konektibitateak matxuratutako ibilgailuen argi-ikuspena eta ikuspen birtuala ahalbidetzen baititu. Izan ere, inguru horretan dabiltzan gainerako gidariek abisu bat jasotzen dute nabigatzaileen, mugikortasun-aplikazioen eta mezu aldakorreko panelen bidez, galtzadan ibilgailu bat geldituta dagoela esanez.
+Zein ibilgailuk eraman behar dute nahitaez?
+Turismoek, furgonetek, autobusek, ibilgailu misto moldagarriek, kamioiek eta bereziak ez diren ibilgailu-taldeek derrigorrean eraman behar dute. Motozikleten kasuan, ez da derrigorrezkoa, baina segurtasun-arrazoiengatik gomendagarria da.
+Baliza gordetegian gorde behar da, kargatuta, edo, bestela, ibilgailuaren barruan, erraz iristeko beste lekuren batean.
+Nola jartzen da V16 baliza konektatua?
+Ibilgailua errepidean edo bazterbidean ibilgetu ondoren, gidariak baliza piztu eta barrutik autoaren sabaian jarri behar du eta, posible ez balitz, autobus eta kamioien kasuan bezala, bere atean koka dezake. Ibilgailuko larrialdiko argiak ere aktibatu behar dira.
+V16 balizak iman indartsu bat izaten du, gainazal metalikoei itsasteko aukera ematen diona. Ibilgailuak aluminiozko karrozeria edo kristalezko sabaia badu, baliteke altzairuzko gainazaletan bezain indartsu ez itsastea.
+Zer egin behar du gidariak baliza aktibatu ondoren?
+Ibilgailua ibilgetu eta balizak aktibatu ondoren, gidariak eta bidaiariek ibilgailua segurtasun-baldintzetan uztea posible den ala ez baloratu beharko dute.
+Zirkulazioko Erregelamendu Orokorrak arau orokor gisa xedatzen du ibilgailua utzi beharko dutela, baldin eta zirkulazio-plataformatik kanpo leku segururik badago. Zirkulazio-fluxuaren kontrako aldetik irten beharko dute autotik, ibili gabe edo plataforma osatzen duten errei edo bazterbideetan egon gabe. Zirkulazio-baldintzen ondorioz bidaiariek ezin badute ibilgailua segurtasunez utzi, barruan egongo dira, gerrikoa lotuta daukatela.
+Nola funtzionatzen du V16 baliza konektatuak? Aplikazio bat edo mugikor bat behar dut?
+Aktibatu ondoren, balizak argi-seinale bat igortzen du, eta automatikoki transmititzen du matxuratutako ibilgailuaren kokapen zehatza DGT 3.0 plataformara.
+Gailuak GPS txip bat eta atera ezin den SIM txartel bat ditu barnean, eta haiek arduratzen dira konexioa egiteaz. Piztu besterik ez dago. Ez da beharrezkoa telefono mugikorra erabiltzea, ezta aplikaziorik ere.
+Telefono-konpainiek ez diete partikularrei inolako zenbatekorik kobratuko konektibitate-zerbitzuagatik; izan ere, legeriak agintzen duenez, konektibitatea gutxienez 12 urtez egongo da eskuragarri, eta haren kostua V16 gailuaren salmenta-prezioan dago aurreikusita.
+Zer elikadura-iturri erabiltzen du eta zenbat irauten du bateriak?
+V16 balizak modeloaren arabera aldatzen den barne-elikadurako iturri bati esker funtzionatzen du. Gailu batzuek berriz kargatu ezin diren pila alkalinoak dituzte, eta beste batzuek, berriz, USB bidez karga daitezkeen litiozko bateriak. Kasu guztietan, gutxienez 30 minutuko funtzionamendu jarraitua bermatu behar dute aktibazioaren ondoren. Era berean, gutxienez 18 hilabeteko autonomia izan behar dute, atsedenean.
+Zein distantziatara ikusten da baliza konektatua?
+Baldintza ezin hobeetan, baliza 1.000 metroko distantziatik ikusten da. Baliza trafikoa kudeatzeko zentroei konektatuta dagoenez, gune horretan dabiltzan gainerako ibilgailuei istripuaren edo matxuraren berri emango diete, nabigatzaileen, mugikortasun-aplikazioen edo ontziko ordenagailuen bidez. Teknologia hori ez duten auto zaharretako gidariek errepideetan dauden mezu aldakorreko panelen bidez jaso ahal izango dute informazioa.
+Istripua edo matxura tunel baten barruan gertatzen bada, gailuak DGTra bidaliko du seinalea?
+Bai. V16 balizak estaldura konbentzionalik gabeko baldintzetan ere funtzionatzen du, IoT komunikazio-sare espezializatuen bidezko konexioari esker. Sare horiek ere eskuragarri ez dauden kasuetan, balizak ikusizko seinale gisa funtzionatzen jarraituko du eta datuak gordeko ditu konexioa berrezartzen denean bidaltzeko.
+Jakinarazten al die balizak larrialdi-zerbitzuei edo garabiari?
+V16 konektatua ez da larrialdi-zerbitzuei eta garabiari abisatzeko sistema. Ibilgailuaren kokapen zehatza seinaleztatzea eta transmititzea da haren funtzioa, bide-ezbeharrak saihesteko. Gidariak edo bidaiariek jakinarazi beharko diote larrialdi-zerbitzuari, behar izanez gero, edo aseguru-etxearen laguntza-zerbitzuari.
+Transmititzen al ditu V16 balizak nire datu pertsonalak?
+Ez. Erabiltzaileak aktibatzen badu soilik funtzionatzen du balizak, eta ez ditu gidariaren datu pertsonalak transmititzen, ez du abiadura erregistratzen eta ezin du autoaren matrikula identifikatu. Ez dago pertsona bati, telefono-zenbaki bati edo matrikula bati lotuta. Ibilgailu berriek ez dute baliza jarrita edukiko. Gainera, ez da beharrezkoa inolako daturik ematea edo gailuari alta ematea. DGTk ez du inolako daturik eskatzen.
+Zer V16 baliza-modelo erosiko dut?
+IDIADAk edo LCOEk homologatuta eta ziurtatuta egon behar dute balizek; hain zuzen ere, modeloek araudia betetzen dutela berresten duten laborategi tekniko baimenduek. Merkatuan V16 baliza konektatuen berrehun modelo baino gehiago daude, hainbat preziotan salgai. Baliza konektatu guztiak ez daude homologatuta, eta, beraz, marka eta modelo ziurtatuen zerrenda eguneratua kontsultatzea gomendatzen dugu, DGTren webgunean.
+Oraindik ere erabil daitezke konektatu gabeko V16 balizak?
+Ez. Konektatu gabeko V16 gailuek ez dute balioko ibilgailu ibilgetuak seinaleztatzeko 2026ko urtarrilaren 1etik aurrera, araudiak adierazten duen bezala.
+Jarrai dezaket triangeluak erabiltzen?
+Ez. 2026ko urtarrilaren 1etik aurrera ibilgetuta dauden ibilgailuak seinaleztatzeko bide bakarra V16 baliza konektatua da.
+Gure herrialdean nazioarteko zirkulazio gisa zirkulatzen duten beste herrialde batzuetan matrikulatutako ibilgailuek, ordea, triangeluak erabili ahal izango dituzte.
+Erabil dezaket V16 Espainiatik kanpo?
+Baliza baliagarria da Vienako Zirkulazioari buruzko Konbentzioa sinatu eta berretsi duten herrialdeetatik zirkulatzen duten Espainian matrikulatutako ibilgailuentzat. Konbentzioaren zerrendan hainbat kontinentetako 86 bat nazio daude.
+Zein da zigorra V16 baliza ez eramateagatik?
+Baliza ez eramateagatik ezarritako isuna 80 eurokoa da, hain zuzen ere, aurrez seinalizatzeko triangeluak ez zeramatzaten gidarientzat ezarritako kopuru bera.
+Zertaz ari gara desinformazioaz ari garenean?
+2021etik aurrera, desinformazio-kanpainak segurtasun nazionalerako arriskutzat hartzen dira Espainian. Arrisku hori, murriztu beharrean, sendotuz joan da, eta azken urteotan garrantzia eta protagonismoa bereganatu ditu, maila globalean. Hain da horrela, ezen Davoseko Munduko Ekonomia Foroaren 2024ko txostenak lehen postuan kokatzen baitu desinformazioaren fenomenoa epe laburreko arrisku globalen rankingean.
+Zer da desinformazioa eta zer desberdintasun daude?
+Desinformazioa betidanik egon da, gizateriaren historian zehar. Baina testuinguru digitaletako desinformazioa nahiko fenomeno berria da, eta etengabe ari da bilakatzen. Hori dela eta, gero eta kontzeptu eta termino gehiago ditugu hari buruz hitz egiteko. Asko neologismoak eta erdarakadak dira, eta, batzuetan, gaizki erabili ohi dira gaztelaniara itzultzen ditugunean. Adibidez, ba al zenekien ingelesez hiru hitz ere erabiltzen direla desinformazioaz hitz egiteko: malinformation, misinformation eta disinformation? Jakingo zenuke haiek bereizten?
+Segurtasun Nazionalaren arloko desinformazio-kanpainen aurkako Foroa 2022an sortu zen, lankidetza publiko-pribatuko ekimen nazional gisa. 125 kontzeptu eta termino giltzarri identifikatu eta definitu ditu desinformazioaren fenomenoa ulertzeko, eta segurtasun nazionalean eta eremu digitalean inplikazioak ditu. Artikulu honetan, hogei ohiko bildu ditugu, desinformazio-kanpaina bat osatzen duten teknikak eta tresnak deskribatzeko erabilitakoak.
+Gezurra. Informazio faltsua edo engainagarria, nahita eta entzuleak manipulatzeko edo engainatzeko helburuarekin zabaltzen dena. Oinarririk gabeko zurrumurrua edo albistea da, sare sozialen eta hedabideen bidez azkar zabaltzen dena. Ez du hura babesten duen ebidentzia edo froga fidagarririk, eta nahasmena edo mesfidantza sortzeko edo iritzi publikoan eragina izateko erabiltzen da. (Askoren ustez, gezurrak oker deituriko fake news dira.)
+Desinformazioa. Informazio faltsua edo engainagarria, testuingurutik kanpo dagoena edo informazio partziala nahita zabaltzea, pertsonak nahastu, konbentzitu eta manipulatzeko. Informazio okerra ez bezala —okerra izan daiteke, baina ez nahitakoa—, desinformazioa deliberatua da, eta herritarren iritzi, uste edo jokabideetan eragitea bilatzen du. Ingelesez, disinformation.
+Misinformation-a. Engainatzeko edo manipulatzeko asmorik gabe emandako informazio faltsua, okerra edo zehaztugabea. Akats, arduragabekeria edo joera inkontzienteen ondorio izan ohi da. Disinformation-arekin ez bezala (eduki faltsu bat nahita igortzea esan nahi baitu), misinformation-ak informazio ez-egiazkoaren ustekabeko hedapenari egiten dio erreferentzia.
+Malinformation Egiazko informazioa edo errealitatean partzialki oinarritutako informazioa erabiltzea, pertsona, kolektibo, erakunde, instituzio edo herrialde bati kalte egiteko. Informazio sentikorraren erabilera politikoa, informazio pertsonala edo konfidentziala ezagutaraztea edo iruzurrezko metodoen bidez lortutako informazio konprometitua argitaratzea barne hartzen ditu. Malinformation-a benetako informazioan oinarritzen bada ere, informazio hori osatu gabea, eguneratu gabea edo manipulazioren bat jasan duena izan daiteke, izen ona galarazteko edo kaltea eragiteko.
+Glosarioa: desinformazioa ulertzeko funtsezko terminoak
+Egiaztapena (fact-cheking). Datu edo baieztapenen egiazkotasuna, jatorria eta jaulkitzaileen identitatea egiaztatzeko ekintza. Desinformazioari aurre egiteko ezinbesteko tresna da.
+Debunking-a (ezagutaraztea/izena galaraztea). Ustez desinformaziozkoa den eduki baten faltsutasuna edo zehaztasunik eza frogatzea, egiaztatze-estrategiak eta -teknikak erabiliz. Debunking prozesua egiten dutenak egiaztatzaileak edo fact-checker-ak (debunker-ak) dira, eta edukia faltsu, engainagarri, erdizka egiazko eta abar gisa etiketatzen dute.
+Prebunking-a. "Ezagutarazteari aurrea hartzea" gisa itzul daiteke. Herritarrak mezu faltsuen aurrean immunizatzeko edo aldez aurretik ohartarazteko prebentzio-neurrien multzoa. Praktika hori nagusiki egiaztatze-agentziek eta alfabetatze mediatikoa sustatzen duten erakundeek erabiltzen dute.
+Alfabetatze mediatikoa. Komunikabideetan edukiak kontsultatzeko eta kritikoki ebaluatzeko ahalmena da, bai eta eduki digitala sortzekoa ere. Gaitasun horrek eskatzen du komunikabideek nola funtzionatzen duten ulertzea eta argitaratzen duten informazioa interpretatzeko trebetasun kritikoak garatzea. Ingurune mediatikoetan aplikatzen da, bai digitaletan, bai analogikoetan.
+Informazioaren manipulazioa; FIMI. Informazioaren manipulazioan, komunikazio-prozesua desitxuratzeko eta aldatzeko zenbait praktika sartzen dira, iritzi publikoan eragiteko eta aldatzeko. FIMIk (Foreign Information Manipulation and Interference) portaera-eredu bat deskribatzen du; gehienetan ez da legez kanpokoa, baina izaera manipulatzailea du, eta nahita eramaten da aurrera, balio demokratikoetan eta prozesu politikoetan mehatxatzeko edo eragin negatiboa sortzeko.
+Bot-ak eta bot-en sarea. Robotaren laburdura. Software-programa bat da, Interneten lan automatizatuak egiteko diseinatua, gizakiaren esku-hartzerik gabe. Robotek denbora errealean erabiltzaileekin elkarreragiteko, datu-bolumen asko maneiatzeko eta hainbat ingurunetara egokitzeko gaitasuna dute. Gaizki erabiliz gero, desinformazioa sortzen da, iritzi publikoa manipulatzen da, identitatea ordezkatzen da, gizabanakoei, erakundeei eta kolektiboei eraso koordinatuak egiten zaizkie, eta joerak bilatzeko emaitzak manipulatzen dira. Roboten sare batek roboten antolaketa masifikatuari egiten dio erreferentzia, sare sozialetan mezu faltsuen sorkuntza masiborako eta hedapenerako koordinatuak, eduki desinformatibo, abusuzko eta bortitzetatik abiatuta
+Trola. Identitate erreal ezkutua duen pertsona, mezu probokatzaile edo kaltegarriak nahita argitaratzen dituena, helburu ideologiko zehatz batekin: desinformazioa sortzea, boikota egitea edo elkarrizketa oztopatzea, kaltea eragitea, etab. “Troleatu” terminoarekin ezagutzen dira haren ekintzak. Askotan, modu koordinatuan jarduten dute trolen sare deiturikoetan.
+Deepfake-a. Ikus-entzunezko eduki faltsuak, hala nola irudiak, bideoak edo audioak, oso modu errealistan manipulatzeko edo sortzeko aukera ematen duen adimen artifizialeko teknika. Eduki horiek ikaskuntza sakoneko entrenamendu-datuetatik abiatuta sortzen dira (deep learning), eta horrek aukera ematen du pertsona baten aurpegia edo ahotsa beste batenarekin ordezteko, eta, are gehiago, existitzen ez den pertsona bat sortzeko. Deepfake-ak eduki engainagarria sortzeko erabili izan dira, hala nola inoiz gertatu ez ziren gauzak esaten edo egiten ari diren politikarien bideoak.
+Oihartzun-kamera. Sinesmen, ideia edo datu lerrokatuak behin eta berriz partekatzen diren ingurunea, eta, hala, sinesmen, ideia eta datu horiek zabaltzen eta indartzen laguntzen duena. Informazioak, egiazkoa edo gezurrezkoa izan, zirkulatu egiten du, eta birzabaldu egiten da, taldekideek zalantzan jarri gabe eta kanpoko ikuspegiekin kontrastatu gabe. Horrek errealitate distortsionatua eta polarizatua sortzen du.
+Gas-argia (gaslighting). Abusu- eta manipulazio-estrategia, beste pertsonak errealitateari buruz duen pertzepzioa zalantzan jartzea bilatzen duena. Terminoak Patrick Hamiltonen izen bereko antzezlanean du jatorria, 1938an estreinatua, non gizon batek bere emaztea gaizki tratatzen baitu etxean aldaketa txikiak eginez, gas-argiaren maila kasu, emaztea bere zentzutasunaz zalantza egiten has dadin. Gaur egun, norbaiti behin eta berriz gezurra esateko estrategia adierazteko erabiltzen da, hura manipulatu eta kontrolatzeko.
+Polarizazioa. Polarizazioa gizartea ideia, iritzi edo interes kontrajarriak dituzten taldeetan gero eta gehiago banatzea da, eta horrek kontsentsua zaildu eta gatazka soziala areagotu dezake. Era berean, interes-taldeek (adibidez, talde politikoek) erabiltzen duten komunikazio-baliabide bat da, plataforma digitalak ustiatuz eta diskurtsoak erabiliz erabiltzaileak erakartzeko erabiltzen dena; diskurtso horiek gorroto-diskurtsoak eta eduki desinformatiboak izan ditzakete.
+Pseudomedioa. Agerkaria, normalean digitala, kazetaritza-hedabideen egitura eta formatuaren antzekoa da, eta kazetaritzaren printzipio etikoak eta estandar profesionalak ez betetzea du ezaugarri. Pseudomedioek polarizazioa, aktibismo ideologikoa, konspirazio-teorien sustapena eta eduki faltsuak, kontrastatu gabeak eta erabat lerratuak edo alderdikoiak zabaltzeko joera orokorra bultzatzen dute.
+Gorrotozko diskurtsoa. Etsaitasunezko, gizalegerik gabeko, mehatxuzko, iraingarrizko, diskriminaziozko edo berariazko indarkeriazko hizkuntza erabiltzen duen edozein adierazpide, talde edo pertsona bati erreferentzia egiten diona etnia, nazionalitate, arraza, genero, jatorri, erlijio, zaurgarritasun edo beste identitate-forma batzuen arabera, hala nola ideologia politikoa, hizkuntza, jatorri ekonomiko edo soziala, desgaitasuna, osasun-egoera edo sexu-orientazioa, besteak beste. Artikulu honetan gorrotozko diskurtsoei buruzko azalpen gehiago emango ditugu, eta nola aurre egin azalduko dugu.
+TTP; DISARM esparruak. TTP siglek informazioa manipulatzeko testuinguruan erabilitako taktika, teknika eta prozedurei egiten diete erreferentzia. Haien analisiak aukera ematen du mehatxu-aktore baten portaera-ereduak deskribatzeko eta erantzun- eta erreakzio-estrategiak planifikatzeko. TTPek DISARM (Detecting and Responing to Manipulated Media) esparruetan biltzen dira, kode irekiko bi katalogo: Framework Sarea, desinformazioaren esparruan TTP deskribatzeko diseinatua; eta Blue Framework, haien aurrean iradokitako erantzunak zentratzen dituena.
+Mehatxu hibridoak eta estrategia hibridoa. Estatuko edo estatuz kanpoko eragileen helburu estrategikoak lortzeko ekintza koordinatuak eta sinkronizatuak. Nahita, aurkaria ahultzea, ezegonkortzea eta kaltetzea bilatzen dute, baita estatuen ahulezia sistemikoak ustiatzea ere. Horretarako, bitarteko ugari erabiltzen eta konbinatzen dituzte (eraso zibernetikoak, informazioa manipulatzeko kanpainak, ezkutuko maniobra politikoak eta taktika militarrak, besteak beste), eta erabakietan eragin nahi dute, maila lokalean, estatalean edo instituzionalean. Batzuetan, “mehatxuak” eta “estrategiak” termino hibridoak erabiltzen dira, baina ez dira gauza bera: lehenak etorkizunean gauza daitezkeen ekintzak dira, eta bigarrenak, berriz, helburu bat lortzeko gauzatzen dira.
+Atzerriko eragina - esku-hartzea. Atzerriko esku-hartzea, askotan estrategia hibrido zabalago baten zati gisa egina, estatuko aktore atzerritar batek edo haren agenteek, normalean helburu politikoekin, pertsonen prestakuntza eta borondate edo iritziaren adierazpen askea aztoratzeko egiten dituzten ahalegin hertsatzaile, estali eta engainagarri gisa uler daiteke. Aitzitik, atzerriko eragineko jarduerak modu ireki eta gardenean gauzatzen dira, nazioarteko harremanen eta diplomaziaren alderdi normala dira, eta eztabaida publikoari ekarpen positiboa egiten diote.
+Desinformazioaren fenomenoari buruz gehiago jakin nahi baduzu, eta Espainiak eta beste herrialde batzuek fenomeno horri aurre egiteko egiten duten lanari buruz gehiago jakin nahi baduzu, hemen dituzu irakurgai interesgarri gehiago sakontzen jarraitzeko.
+Segurtasun Nazionalaren arloko desinformazio-kanpainen aurkako foroa | Segurtasun Nazionalaren Sailaren webgune ofiziala
+Europako demokrazia interferentzietatik eta manipulaziotik babestea: Europako Demokraziarako Ekintza Plana
+Demokraziaren aldeko Ekintza Plana
+Desinformazioaren arloko jardunbide egokien kodea (2022) | Europaren etorkizun digitala konfiguratzea
+The Code of Conduct on Disinformation | Shaping Europe's digital future
+EBko desinformazioaren aurkako zentroak EBko herrialde guztietara zabaldu dira orain | Europaren etorkizun digitala konfiguratzea
+Portugal and Spain, the EU countries most concerned about disinformation, according to the Digital News Report 2025 | Iberifier
+Europako Komunikabide Digitalen Behatokia - EDMO | Europaren etorkizun digitala konfiguratzea
+EDMO Hubs - EDMO
+Gazteei buruzko inkesta 2024 - 2025eko otsaila - Eurobarometroaren inkesta
+DISARM Foundation
+Gezurrak eta albiste faltsuak (fake news) | Herritarrak | INCIBE
+Telefono eta SMS bidezko iruzurrak: iruzurraren aurkako babesa
+Eraldaketa Digitalak telefono-iruzurrei aurre egiteko plan bat jarri du abian, eta, besteak beste, telefono-zenbaki batetik egiten diren deiak debekatzea eta zenbaki horien jatorria ezkutatzeko zenbakiak manipulatzen dituzten deiak blokeatzea.
+Eraldaketa Digitalerako eta Funtzio Publikoko Ministerioak otsailaren 12an onartu zuen ministerioaren agindu bat, telefono eta SMS bidezko iruzurrak desagerrarazteko neurri-sorta batekin. Plan horri esker, erabiltzaileek deiak eta mezu komertzialak identifikatu ahal izango dituzte, iruzurren biktima ez izateko.
+Zer da identitatea ordezteko iruzurra?
+Identitatea ordezteko telefono-iruzurrak dei edo testu-mezu batekin hasten dira: igorleak konfiantzazko erakunde baten identitatea ordezten du (adibidez, banku-erakunde gisa edo administrazio publikoko organismo edo enpresa gisa aurkezten da, DGT adibidez), iruzur egiteko asmo argiarekin, eta kontsumitzailea engainatzen du informazio pertsonal edo finantzarioren bat eman dezan.
+Hala, dei (“vishing”) edo mezu (“smishing”) horietan, besteak beste, gako pertsonalak emateko, webgune batera sartzeko edo telefono-zenbaki batera deitzeko, transferentzia bat egiteko edo zerbitzu bat kontratatzeko eskatzen zaio herritarrari.
+Zer eragin dute iruzur horiek?
+Iruzur mota honek kalte finantzario eta ekonomiko handiak eragiten dizkie gizarteko sektore guztiei, batez ere kontsumitzaileei, enpresei eta erakunde publikoei. Gainera, gutxitu egiten dute herritarrek komunikazio elektronikoetan duten konfiantza, eta kalte egiten diete publikoarekin komunikatzeko bide gisa deiak eta testu-mezuak zilegi erabiltzen dituzten enpresa eta erakundeei.
+Espainiako Bankuak, Espainiako Barne Ministerioak edo Zibersegurtasun Institutu Nazionalak (INCIBE) emaniko datuen arabera, iruzur horiek areagotu egin dira azken urteetan. Europako herrialde batzuek, Finlandiak kasu, Plan berrian jasotako neurrien antzekoak jarri dituzte martxan, eta oso eraginkorrak izan dira; izan ere, ia % 90 murriztu dira identitatea ordezteagatiko iruzurrak.
+Zer helburu ditu plan honek?
+Dei eta SMS bidezko iruzurren aurkako neurri sorta honen helburua da kontsumitzaileen eta enpresen babesa handitzea iruzur mota hauen bidez gero eta iruzur gehiago egiten baitira. Xede horrek Telekomunikazioen Lege Orokorraren 3. artikulua betetzen du, hau da, erabiltzaileen interesak defendatzea, kontsumitzaileek komunikazio elektronikoetan duten konfiantza berrezarriz.
+Hala, planak irtenbideak ematen ditu deitzen duen linea-identifikatzailea edo SMSen zenbakizko identifikatzaile alfanumerikoa manipulatzen duten komunikazioek aurrera egin ez dezaten, eta bezeroentzako arreta-zerbitzuak eta dei komertzialak behar bezala identifikatzeko neurriak ezartzen ditu.
+Zer neurri ditu?
+Zenbakien blokeoa ez da esleitua: telefonia-operadoreek deiak eta SMSak blokeatu beharko dituzte inongo zerbitzuri esleitu ez zaizkion zenbakiekin, operadoreei esleitu ez zaizkienekin edo inongo bezerori esleitu ez zaizkienekin, hala nola 3 edo 4rekin hasten direnekin.
+Nazioarteko dei nazionalak blokeatzea: atzerritik egindako deietan eta SMSetan ezingo da zenbaki espainiar faltsurik erabili, “roaming” edo desplazamendu-erregimeneko bezeroen kasuan izan ezik.
+Mezuetako kode alfanumerikoetarako datu-base bat sortzea: kode alfanumerikoen erregistro bat sortuko da, eta Merkatuen eta Lehiaren Batzorde Nazionalak kudeatuko du, baimenik ez duten aktoreek ez ditzaten ordeztu entitate legitimoak, hala nola bankuak edo administrazioak.
+Bezeroei arreta emateko zerbitzuetarako eta eskatu gabeko dei komertzialetarako mugikorrak debekatzea: enpresek ezingo dituzte erabili telemarketinerako zenbaki mugikorrak. Zenbaki geografikoak edo 800/900 zenbakiak erabili beharko dituzte, orain deiak egiteko gaituta daudenak.
+Noiz jarriko da indarrean plana?
+Inongo zerbitzuri egotzi ez zaizkion zenbakien blokeoa agindua BOEn argitaratu eta 20 egunera jarri da indarrean; hau da, martxoaren 7an. Hala ere, bai nazioarteko deien eta SMSen blokeoa, bai zenbaki mugikorretatik eskatu gabeko dei komertzialen debekua maiatzaren 15ean jarriko dira indarrean.
+Bestalde, 2026ko maiatzaren 15etik aurrera, kode alfanumerikoen erregistroa eta nazioarteko SMSen blokeoa jarriko dira martxan.
+Bizitzeko gutxieneko diru-sarrera (BGD): zer da eta nola eska dezaket?
+Bizitzeko gutxieneko diru-sarrera (BGD) bakarrik bizi diren edo bizikidetza-unitate batean dauden eta oinarrizko beharrak asetzeko baliabide ekonomikorik ez duten pertsonen pobrezia-arriskua eta gizarte-bazterketa prebenitzeko prestazio bat da.
+Bizitzeko gutxieneko diru-sarrera (BGD) Gizarte Segurantzaren neurri bat da, diru-sarreren oinarrizko maila ematen diena kalteberatasun ekonomikoko egoeran daudenei. Haren helburua onuradunen gizarteratzea eta laneratzea ziurtatzea da.
+BGDa 2020an sartu zen Errege Lege Dekretu bidez, pandemiaren ondoriozko exijentzia- eta premia-testuinguru batean. 2021eko abenduan, Bizitzeko gutxieneko diru-sarrera ezartzen duen abenduaren 20ko 19/2021 Legean finkatu zen.
+Gizarte Segurantzako Institutu Nazionalaren 2024ko estatistiken arabera, 674.000 etxetan bizi diren 2.050.000 pertsonari egiten die mesede BGDak.
+Nor izan daiteke bizitzeko gutxieneko diru-sarreraren onuradun?
+BGDa banaka edo bizikidetza-unitate bateko kide gisa eskura daiteke.
+Bizikidetza-unitateak etxe berean bizi diren pertsonek osatzen dituzte; pertsona horiek ezkonduta egon behar dute, izatezko bikotea izan, edo odolkidetasuneko, kidetasuneko edo adopzioko bigarren mailara arteko lotura izan. Halaber, barnean hartzen dira adopzio aurreko zaintza edo familia-harrera iraunkorragatik berarekin bizi diren pertsonak. Bizikidetza-unitateetako kideak titular bakar baten bitartez eskuratuko dute BGDa, eta titular horrek kide horiek ordezkatuko ditu.
+Irizpide ekonomikoez gain (aurrerago zehaztuko ditugu), BGDaren onuradunek zenbait baldintza bete behar dituzte. Baldintza horiek aldatu egiten dira banaka edo bizikidetza-unitate bateko ordezkari gisa eskatzen badira.
+Oro har, BGDaren onuradun indibidual izan daitezke gutxienez 23 urte dituzten pertsonak, bizikidetza-unitate bateko kide ez direnak eta ezkontzaz edo izatezko bikotez lotuta ez daudenak (baldin eta banantzeko edo dibortziatzeko prozesuan ez badaude). Genero-indarkeriaren edo pertsonen salerosketaren eta sexu-esplotazioaren biktima diren emakumeei ez zaizkie adin-baldintzak edo banantzeko edo dibortziatzeko izapideak hasteko baldintzak aplikatzen. Gainera, 18 eta 22 urte bitarteko pertsonak titular indibidualak izan daitezke, baldin eta adingabeen babes-zentroetatik badatoz edo erabateko umezurtzak badira, betiere bizikidetza-unitate bateko kide ez badira. Beste baldintza espezifikoago batzuk ere badaude, hala nola legezko bizilekua izatea edo eskaera egin aurretik denbora jakin batez modu independentean bizi izatea; BGDaren atarian kontsulta ditzakezu.
+Bizikidetza-unitate baten izenean prestazioa eskatzen duten BGDaren titularrek gutxienez 23 urte izan behar dituzte. Adin nagusikoek edo emantzipatutako adingabeek ere eska dezakete, baldin eta beren ardurapean seme-alabak edo adingabeak badituzte adopziorako edo familia-harrera iraunkorrerako zaintzapean. Eskaera adin nagusiko kide guztiek sinatu behar dute, eta eskatzailea unitatearen ordezkaria izango da BGDarekin zerikusia duten kudeaketa guztietan. Aurreko kasuan bezala, badira baldintza zehatzagoak, eta eskaera egin aurretik kontsultatu behar dira.
+Zein da BGDaren zenbatekoa 2025ean?
+Bizitzeko gutxieneko diru-sarreraren zenbatekoa bermatutako errentaren (legez finkatua) eta onuradunek izan ditzaketen beste diru-sarrera batzuen arteko aldea da. Beraz, diru-sarrera horiek bermatutako errenta baino txikiagoak badira soilik eskura daiteke BGDa, eta jasotzen den zenbatekoa onuradunak atalase ekonomiko hori lortzeko behar dena izango da. Bizikidetza-unitateen kasuan, kide guztien diru-sarrerak hartuko dira kontuan.
+Errenta bermatua urteko zenbateko bat izango da, 12 ordainsaritan banatuta. 2025ean % 9 igo da, eta honela geratu da haren kalkulua:
+Banakako onuradun batentzat, errenta bermatua 7.905,72 eurokoa da urtean, edo 658,81 eurokoa hilean.
+Bizikidetza-unitate baten kasuan, errenta bermatua % 30 handitzen da kide gehigarri bakoitzeko. Hala ere, 5 kidetik gora kopuruak handitzeari uzten dio, eta, beraz, bizikidetza-unitatearen errenta bermatuak ezin du banakako errenta baten % 220 gainditu. Beraz, 5 kide edo gehiagoko unitate batentzat, urtean 17.392,68 euroko errenta bermatuko da, edo 1.449,39 eurokoa hilean.
+Ezarritako mugez gain, kopurua handitu dezaketen bi osagarri daude:
+Guraso bakarreko bizikidetza-unitateen kasuan, errenta bermatu indibidual baten % 22 gehituko zaio jasotako zenbatekoari. Guraso bakarreko bizikidetza-unitatetzat hartua izateko, heldu bakar batek osatu beharko du bizikidetza-unitatea, eta heldu hori bigarren mailara arteko ondorengo adingabe batekin edo batzuekin bizi beharko da, baldin eta haien gaineko zaintza eta babespe esklusiboa badu, edo adingabe batekin edo gehiagorekin bizi bada familia-harrera iraunkorrerako edo adopziorako zaintzapean, hartzaile edo zaintzaile bakarra denean. Guraso bakarreko bizikidetza-unitatetzat hartuko dira, halaber, bi guraso, zaintzaile edo harreragile izanik, haietako bat espetxean edo ospitale-zentro batean urtebetez edo gehiagoz etenik gabe sartuta dagoenean. Era berean, osagarri hori jasotzeko aukera izango dute bi guraso, zaintzaile edo harreragile dituzten unitateek, baldin eta haietako batek 3. graduko mendekotasuna, ezintasun iraunkor absolutua edo baliaezintasun handia aitortuta badauka. Azkenik, genero-indarkeria jasan duen emakume baten kasuan, unitateko heldu bakarra bada, ez da beharrezkoa izango adingabearen zaintza eta babespea esklusiboa izatea, edo emakume hori izatea harreragile edo zaintzaile bakarra familia-harrera iraunkorrerako edo adopziorako zaintzaren kasuan.
+Unitateko kideren batek % 65eko edo gehiagoko desgaitasun-maila aitortua badu, beste osagarri bat gehituko zaio, guraso bakarreko ahaidetasunagatiko osagarriaren zenbateko berekoa.
+Horrez gain, haurrentzako laguntza-osagarri bat emango da hilero bizikidetza-unitateko kide den adingabe bakoitzeko. Osagarri hori laguntza emango den urtearen hasieran adingabeak duen adinaren arabera kalkulatzen da: 3 urtetik beherakoentzat 115 euro dira; 3 urtetik gorakoentzat eta 6 urtetik beherakoentzat 80,50 euro; eta 6 eta 18 urte bitartekoentzat 57,50 euro. Baldintza jakin batzuk betetzen badituzte, errenta dela-eta BGDa eskuratu ezin duten familientzat ere bada laguntza hori. Informazio gehiago Gizarte Segurantzaren orri honetan eskura dezakezu.
+BGDaren zenbatekoa zirkunstantzia pertsonalak aldatu ahala eguneratzen da?
+Bai. Bizitzeko gutxieneko diru-sarreraren titularraren edo bizikidetza-unitateko kideren baten egoera pertsonala aldatzen bada, prestazioaren zenbatekoa ere aldatu egin daiteke. Aldaketa urtean zehar egin daiteke, eta aldaketa eragin zuen gertakariaren hurrengo hilaren lehen egunetik aurrera izango ditu ondorioak.
+Nolanahi ere, prestazioaren zenbatekoa automatikoki eguneratuko da urte bakoitzeko urtarrilaren 1ean, aurreko urteko diru-sarrera errealak erreferentziatzat hartuta eta dagozkion egokitzapenak eginda.
+Nola eskatu bizitzeko gutxieneko diru-sarrera?
+Modu hauetan eska dezakezu:
+Internet bidez, ziurtagiri elektroniko edo Cl@ve bidez, Gizarte Segurantzaren Egoitza Elektronikoaren bidez.
+Internet bidez, ziurtagiri elektronikorik edo cl@ve sistemarik gabe, Gizarte Segurantzak bereziki prestatutako formularioaren bidez. Kontuan izan zure identitatea egiaztatzeko dokumentazioa eskatuko zaizula, argazki bat eta helbide elektroniko bat barne.
+Aurrez aurre, Gizarte Segurantzaren Arreta eta Informazio Zentroetan (CAISS).
+Eskaera-prozesuan zenbait dokumentu eskatuko zaizkizu, identitatea, bizilekua, familia-egoera edo egoera ekonomikoa egiaztatzeko. Baldintza horiek egiaztatzeko bitartekoei buruzko informazio gehiago Gizarte Segurantzaren atariko dagokion atalean lor dezakezu.
+Kontsultak egiteko telefono berria
+2024ko azaroaren 4tik eskuragarri dago 020 telefono laburra, bizitzeko gutxieneko diru-sarreraz informatzeko. Doako arreta-linea hori gaur egungo 900 20 22 22 informazio-zenbakiari gehitzen zaio, eta martxan jarraituko du. Lerro berriak informazio eta aholkularitza pertsonalizatua eskainiko du prestazioa jasotzeko beharrezkoak diren baldintzei, eskaerei, dokumentazioari, prozedurari eta izapideei buruz.
+Soldata-berdintasuna: Gobernuak ordainketa-berdintasunarekiko konpromisoa berresten du
+Ministro Kontseiluak adierazpen instituzionala onartu du Soldata Berdintasunerako Eguna dela eta (2010etik otsailaren 22an), Berdintasun, Lan eta Gizarte Ekonomia Ministerioak eta Gazteria eta Haurtzaro Ministerioak proposatuta.
+Gobernuak tinko eusten dio ordainsari-desberdintasunaren aurkako borrokari, jakitun baita emakumeen eta gizonen arteko ordainsari-desberdintasunek ekonomia- eta gizarte-desberdintasunaren funtsezko ardatzetako bat izaten jarraitzen dutela. Adierazpen horretan, konpromisoa hartzen du indarrean dagoen araudia eraginkortasunez aplikatzen jarraitzeko eta berdintasuneko, giza eskubideetako, gizarte-justiziako eta parte-hartze demokratikoko neurriak hartzen edo garatzen jarraitzeko, genero-arrakalaren eta emakumeen eta gizonen arteko soldata-desberdintasunaren arrazoiak leheneratzeko beharrezkoak direnak.
+Horrela, Nazio Batuen Erakundeak bere 2030erako Agendan ezarritako Garapen Jasangarrirako Helburuak (GJH) lortzeko bidean beste urrats bat aurrera egiten da, batez ere 5. helburuari dagokionez, sexuen arteko berdintasuna lortzea eta emakume eta neskato guztiak ahalduntzea, eta 8. helburuari dagokionez, hazkunde ekonomiko inklusibo eta jasangarria, enplegua eta pertsona guztientzako lan duina sustatzea.
+Zer da soldata-berdintasuna edo ordainsari-berdintasuna?
+Soldata-berdintasunak, hau da, ordainsari-berdintasunak edo soldata-parekatzeak esan nahi du antzeko lanak edo lan produktiboak egiten dituztenek ordainsari berdina jaso beharko luketela, edozein dela ere haien generoa, arraza, sexu-joera, nazionalitatea, erlijioa edo beste kategoria.
+Zer da soldata-arrakala?
+Europako Batzordeak honela definitzen du generoko soldata-arrakala: soldatapeko gizonen eta emakumeen orduko batez besteko diru-sarrera gordinen arteko aldea, gizonen errenta gordinaren ehunekoan.
+Zer ondorio ditu soldata-arrakalak lan-bizitzan zehar?
+Soldata-arrakalaren ondorioz, emakumeek diru-sarrera gutxiago izaten dituzte bizitzan zehar, eta horrek, gainera, pentsio baxuagoak eta pobrezia-arrisku handiagoa eragiten die adineko pertsonei. Ordainsari-desberdintasuna ezabatzeak gizartearen berdintasun erreal eta eraginkorrean aurrera egitea ahalbidetuko luke, eta berdintasun hori Espainiako Konstituzioaren 9.2 artikuluan aipatzen da.
+Zenbat murriztu da soldata-arrakala Espainian?
+2022ko Soldata Egituraren Inkestaren azken datuen arabera, 2012-2022 hamarkadan soldata-arrakala 6,83 puntutan murriztu da, eta % 17,09an kokatu da. Oraindik ere onartezina den desparekotasuna, emakumeek lan-eremuan oraindik pairatzen duten egiturazko diskriminazioa islatzen baitu.
+Espainian lan-berdintasunerako aurrerapausoak
+Azken urteotan aurrerapauso handiak eman dira emakumeen lan-merkatuaren egoeran.
+Biztanleria Aktiboaren Inkestaren datu berrienen arabera, 2024an, lanean ari ziren emakumeen kopuruak gora egin zuen 207.400 urtean, eta, lehen aldiz, hamar milioi emakume langile baino gehiago izan ditu.
+Zer lan-neurrik laguntzen du gizonen eta emakumeen arteko soldata-desberdintasunari aurre egiten?
+Lanbide arteko gutxieneko soldata (LGS) igotzeak, lan-erreformak edo lanaldia murrizteak generoko soldata-arrakalari aurre egitea ahalbidetzen dute.
+Gobernuak neurriak garatzen eta bultzatzen jarraituko du desagertzeko bidean aurrera egin ahal izateko; esate baterako, 2025erako Lanbide arteko Gutxieneko Soldata finkatzen duen Errege Dekretua, zeinak hilean 1.184 euroraino igotzen baitu, eta, hala, % 61eko igoera finkatzen da 2018tik.
+Neurri hori bereziki emakumeen onerako da; izan ere, LGSaren pareko soldatak dituzten lanetan sobera ordezkatuta daude, eta onuradun guztien % 65,8 izan dira.
+Bestalde, lanaldia astean 37,5 ordura murrizteak, soldata murriztu gabe, bizitza pertsonala, lana eta familia bateragarri egitea erraztuko du, eta langile guztien bizi-kalitatea hobetuko du, bereziki emakumeena, oraindik ere beren gain hartzen baitituzte etxeetako zaintza-ardura gehienak.
+Beste aurrerapauso nabarmen bat lan-erreformak lortu duen behin-behinekotasunaren murrizketa da, gehienbat emakumeei eragiten diena.
+Gainera, Espainia aitzindaria izan da arlo hori arautzen, enpleguan eta okupazioan emakumeen eta gizonen arteko tratu- eta aukera-berdintasuna bermatzeko premiazko neurriei buruzko Errege Lege Dekretuarekin, edo emakumeen eta gizonen arteko ordainsari-berdintasunari eta berdintasun-planei buruzko errege-dekretuekin.
+Jarduera horiei gehitu behar zaizkie azken hamarkadetan haurtzaroa zaintzeko baimenen arloan lortutako aurrerapenak. Aurrerapen horien mugarri nagusiak izan dira, batetik, emakumeen eta gizonen arteko tratu- eta aukera-berdintasuna bermatzeko premiazko neurriei buruzko errege lege-dekretuak sartutako jaiotzagatiko baimenak parekatzea, eta, bestetik, gurasoaren beste baimen besterenezin bat onartzea, urtebetez baino gehiagoz eta zortzi urte bete arte hartutako seme-alabak edo adingabeak zaintzeko malgutasunez baliatzeko aukerarekin.
+Adimen artifiziala eta generoko eten digitala Espainian
+Garapen teknologikoak etorkizunerako aukera batzuk planteatzen ditu, baina lan-arloko erronkak ere baditu, ordainsarien dimentsioa barne.
+AAri, Big Datari eta Machine Learning-ari lotutako garapenean emakumeen parte-hartze eta lidergo handiagoa lortzea.
+Genero-joerak arintzea eta algoritmoetan gardentasun handiagoa lortzea, eta programazioan genero-ikuspegia txertatzea, kodeak eta algoritmoak sortzea, heldu beharreko erronkak dira, ez bakarrik genero-arrakalak betikotu edo are handitu ez daitezen, baizik eta dauden arrakalei buelta emateko, lan-eremuan emakumeen eta gizonen arteko egiturazko desberdintasunen kausei aurre egiteko irtenbide berritzaileak sortuz.
+Adimen Artifizialeko Estrategia Nazionala (ENIA) ezartzea, zeinak genero-berdintasuna bere zeharkako helburuetariko bat gisa hartzen baitu eta berariaz heltzen baitio erronka honi: "Enpleguan eta lidergoan AAren eremuko genero-arrakala murriztea".
+Desinformazioa eta soldata-arrakala
+Azkenaldian, desinformazioak, gure gizarteko esparru guztietan ondorio gaiztoak dituenak, genero-berdintasunari ere eragiten dio. Narratiba faltsu edo alboratuek estereotipoak indartzen dituzte, dauden desberdintasunak justifikatzen dituzte eta diskriminazio onartezinak normalizatzen dituzte, emakume eta gizonen arteko soldata-desberdintasunaren zergatiak eta ondorioak oker ulertzea sustatuz.
+Desinformazio horren ondorioz, emakumeen eta gizonen diru-sarreretan dagoen alde egiaztatua minimizatu edo are ukatu egiten da, eta alde horiek banakako hauteskundeei edo lan egindako orduen aldeari egozten zaizkio. Desinformazioak, errealitatea desitxuratzeaz gain, datu ofizialekiko konfiantza ahultzen du, eta lan-eremuan benetako berdintasuna lortzeko ahaleginak oztopatzen ditu.
+Desinformazioari aurre egitea eta errealitatearen azterketa zorrotza sustatzea funtsezkoa da emakumeen eta gizonen arteko benetako berdintasun eraginkorrerantz aurrera egiteko.
+Gobernuak desinformazio-kanpainen aurka borrokatzen jarraitzeko konpromiso sendoa berresten du, "Desinformazio-kanpainen aurka borrokatzeko estrategia nazionala" garatzeko genero-ikuspegia bultzatuz eta txertatuz.
+2025eko pentsioak igotzea eta handitzea
+Kotizaziopeko pentsioek, oro har, % 2,8ko balioa izango dute 2025ean, bai eta Estatuko Klase Pasiboen Araubide Bereziko pentsioek ere. Gobernuak pentsiodunen erosteko ahalmena bermatzen du, kontsumoko prezioen indizearen (KPI) bilakaeraren arabera.
+Ministro Kontseiluak, 2025eko urtarrilaren 28an, Errege Lege Dekretu bat onartu zuen, pentsioen errebalorizazioa eta Gizarte Segurantzaren sistemak ordaindutako beste prestazio batzuk barnean hartzen dituena.
+2025erako Estatuko Aurrekontu Orokorren Legea onartzen ez den bitartean, Gizarte Segurantzako sistemaren pentsio publikoak eta sortutako klase pasiboak jasotzeko ezarritako gehieneko muga hilean 3.267,60 eurokoa edo urtean 45.746,40 eurokoa izango da 2025ean.
+Espainiako Gobernuak uste du pentsioen igoerak pertsona ahulenei eta gutxieneko pentsioak eta kotizazio gabeko pentsioak jasotzen dituztenei mesede egingo diela.
+Zenbat igoko dira pentsioak 2025ean?
+Gizarte Segurantzako kotizaziopeko pentsioek eta Estatuko Klase Pasiboen Araubide Bereziko pentsio arrunt eta bereziek, oro har, % 2,8ko igoera izango dute 2025erako, hau da, 2023ko abendutik 2024ko azarora bitarteko batez besteko inflazioa. Pentsioen erosteko ahalmena bermatzen duen 20/2021 Legean ezarri zen formula hori, eta gizarte-eragileekin adostu zen.
+65 urteko edo hortik gorako pentsiodunek 12.241,60 euroko gutxieneko pentsioa izango dute urtean, eta ezkontidea beren kargura duten erretirodunek, 15.786,40 eurokoa. Adin horretatik beherakoek 11.452 euro jasoko dituzte, eta 15.786,40 ezkontidea ardurapean badute.
+Gutxieneko pentsioak % 6 inguru igoko dira 2025ean, kotizazio gabekoak eta bizitzeko gutxieneko diru-sarrera % 9 igoko dira, eta familia-kargak dituzten alargun-pentsioak % 9,1.
+Gizarte Segurantzako kotizazio gabeko erretiro- eta baliaezintasun-pentsioak urtean 7.905,80 eurokoak izango dira.
+Jada iraungita dagoen Zahartzaroko eta Baliaezintasuneko Nahitaezko Aseguruko (SOVI) kotizazio gabeko pentsioak % 6 igoko dira 2025erako; hau da, hilean 560 eurora iritsiko dira beste pentsio publiko batzuekin pilatzen ez diren pentsioen kasuan, eta 543,60ra konkurrenteen kasuan.
+Norberaren ardurapeko seme-alabagatiko edo % 65eko edo gehiagoko desgaitasun aitortua duen adingabeagatiko kotizazio gabeko esleipena urtean 5.805,6 eurokoa da 2025ean. Ezintasuna % 75ekoa edo handiagoa bada, 8.707,20 eurokoa da.
+Emakumeen aurkako indarkeriak eragindako zurztasun-prestazioek 2025ean izango duten igoera urte horretarako lanbide arteko gutxieneko soldatarako onesten denaren berdina izango da.
+Kotizaziopeko pentsioen genero-arrakala murrizteko osagarria hilean 35,90 eurokoa izango da 2025erako. % 2,8ko errebalorizazio-ehuneko orokorrari % 5 gehituta lortzen da.
+Laugarren urtea da pentsioak KPIaren arabera errebalorizatzen direla: % 2,8 2025ean, % 3,8 2024an, % 8,5 2023an eta % 2,5 2022an.
+Hala, batez besteko erretiro-pentsioa hilean 1.441 eurokoa zen 2024an, eta 1.481,35 eurokoa 2025ean; hau da, urtean 564,87 euro gehiago jasoko ditu. Sistemaren batez besteko pentsioa, pentsio eta prestazio guztiak kontuan hartuta, 500 euro inguru handitzen da urtean.
+Zein da pentsioen gutxieneko zenbatekoak aitortzeko diru-sarreren muga?
+Ardurapeko ezkontiderik gabe: 9.193 euro urtean
+Ardurapeko ezkontidea: 10.723 urtean
+Noiz igotzen dira pentsioak?
+Errebalorizazioa kasuan kasuko pentsioak 2024ko abenduaren 31n duen hileko zenbatekoari aplikatuko zaio.
+Pentsioen igoera 2025eko urtarrilaren 1etik dago indarrean.
+Noiz jakingo dut zenbat igo didaten?
+Inklusio, Gizarte Segurantza eta Migrazio Ministerioak eskutitz bat bidaltzen die urtero pentsiodunei, pentsioaren balio-handitzearen eta jasoko duten zenbateko zehatzaren berri emateko.
+Zenbat lagunek ateratzen diote etekina igoerari?
+12 milioi pentsiodun eta prestazio-hartzailek baino gehiagok beren erosteko ahalmena mantentzen edo handitzen dute: kotizaziopeko eta kotizazio gabeko pentsioen onuradunek, Klase Pasiboetakoek, bizitzeko gutxieneko diru-sarrera jasotzen duten etxeek eta % 65eko edo gehiagoko desgaitasuna duten ardurapeko seme-alabengatiko prestazioak jasotzen dituztenek. Herritarren % 25 inguru pentsiodunen erosteko ahalmena bermatzen duen igoeraz baliatuko dira.
+Etorkizunean pentsioak ziurtatuta daude?
+Pentsioen duintasuna ziurtatuta dago, eta pentsiodunek lege-esparru egonkorra dute, beren erosteko ahalmena bermatzen duena eta gehien behar duena babesten duena. Sistema publikoak gaur egungo eta etorkizuneko hartzaileen konpromisoei erantzun, babestu eta betetzen dituela bermatzen du.
+Gainera, etorkizuneko pentsioak babesteko eta Gizarte Segurantzako sistemaren diru-sarreren eta gastuen arteko oreka bilatzeko, elkartasun-kuota, gehieneko kotizazio-oinarrien igoera eta antzeko neurriak artikulatu dira.
+Elkartasun-kuotari aplikatuko zaion kotizazio-tasa progresiboa izango da ezarritako hiru etekin-tarteen arabera (% 0,92, % 1 edo % 1,17), eta 2025etik aurrera pixkanaka handituko da, 2045era arte, orduan iritsiko baita behin betiko tasa.
+Bestalde, belaunaldien arteko ekitatearen mekanismoaren (MEI) kotizazioa % 0,8koa izango da, eta banaketa % 0,67koa izango da enpresaburuaren kontura eta % 0,13koa langilearen kontura.
+Bateragarriak dira pentsioen igoera eta sistemaren funtzionamendua?
+Igoera hori bateragarria da sistemaren diru-sarrerak indartzearekin. Izan ere, lan-erreformari eta beste neurri batzuei esker, enplegua sortu da, kalitate handiagokoa, eta jarduera ekonomikoa indartu egin da. Horrek baliabide gehiago ematen dizkio Gizarte Segurantzari.
+Jaiotzagatiko eta adingabearen zaintzagatiko baimena: nola eskatzen da eta zenbat irauten du?
+Baimena ordaindutako 19 astekoa da guraso bakoitzarentzat, eta 32 astekoa guraso bakarreko familientzat. Haietako bi modu malguan erabili ahal izango dira, adingabeak zortzi urte bete arte.
+Ministro Kontseiluak 2025eko uztailaren 29an onartu zuen hiru astez luzatzea (16tik 19ra) jaiotzagatiko eta adingabearen zaintzagatiko baimena guraso bakoitzarentzat, eta 32 astera igo zuen guraso bakarreko familientzat. Neurria 2025eko irailaren 9an baliozkotu zuen Diputatuen Kongresuak.
+Gobernuaren ustez, lan ordainduak ezin du eta ez du eragotzi behar emakumeek eta gizonek zaintzarako duten eskubidea gauzatzea, ezta familia bat osatzeko erabakia baldintzatzea ere. Horretarako, neurriak hartzen jarraitzen du, familia eta lana hobeto uztartzeko eta zainketetan erantzunkidetasuna bermatzeko, eta horrek, gainera, genero-arrakala murrizten du.
+Zer da jaiotzagatiko eta adingabearen zaintzagatiko baimena?
+Jaiotzagatiko eta adingabearen zaintzagatiko baimena langilearen eskubide indibiduala da, eta ezin zaio beste gurasoari transferitu. 2021. urtean amatasun- eta aitatasun-prestazio zaharrak ordezkatu eta parekatu egin zituen.
+Nola eboluzionatu du eskubide horrek?
+2019an, Gobernuak lan-eremuan berdintasuna bultzatzeko eta kontziliaziorako eta erantzunkidetasunerako eskubidea bermatzeko neurriak onartu zituen. Neurri horien artean dago gurasoen baimenak pixkanaka parekatzea, hiru printzipiotan oinarrituta: berdintasuna, transferiezintasuna eta ehuneko ehunean ordaintzea. Urte hartan, aitatasun-baimena 5 astetik 8 astera pasatu zen, eta 2020an hamabira.
+2021ean, bi gurasoentzako erabateko parekatzea sartu zen indarrean, eta baimena 16 astera luzatu zen; sei aste erditu eta berehala hartu behar dira, edo ebazpen judiziala edo administratiboa eman ondoren, adopzio-, zaintza- edo harrera-kasuetan.
+2025ean, Gobernuak zuzentarau komunitario baten transposizioa osatu du errege lege-dekretu baten bidez, baimena 19 astera luzatzen duena (32 aste guraso bakarreko familien kasuan). Luzapen horrekin, Espainia nazioarteko erreferentzia bihurtu da kontziliazio-, erantzukidetasun- eta berdintasun-politiketan, eta baimen luzeagoak eta malguagoak dituzten Europako herrialdeekin lerrokatzen da.
+Nork eska dezake baimena luzatzea?
+Baimen hori izan dezakete soldatapeko langileek, langile autonomoek edo enplegatu publikoek, baldin eta alta-egoeran edo altaren pareko egoeran badaude, gutxieneko kotizazio-aldi bat beteta badaukate eta seme-alabak 2024ko abuztuaren 2tik aurrera jaio badira. Zaintzarako beste bi asteak 2026ko urtarrilaren 1etik aurrera eskatu ahal izango dira.
+Nola bana daiteke jaiotzagatiko eta adingabearen zaintzagatiko baimena?
+Jaiotzak, zeinak erditzea eta adingabea zaintzea barne hartzen baititu, ama biologikoaren eta beste gurasoaren lan-kontratua etengo du 19 astez, edo 32 astez, guraso bakarra badago. Baimena honela banatzen da:
+Hamazazpi aste (28 guraso bakarreko edo guraso bakarreko familien kasuan) haurrak urtebete egin arte:
+Lehenengo sei asteak nahitaez eta etenik gabe hartzen dira lanaldi osoan haurra jaio eta berehala edo, adopzioaren, zaintzaren edo familia-harreraren kasuan, ebazpen judizialaren edo administratiboaren ondoren. Ama biologikoak erditzeko aurreikusitako data baino lau aste lehenagora arte har dezake atsedena.
+Gainerako hamaika asteak (22 guraso bakarren kasuan) asteka har daitezke, jarraian edo etenda, lanaldi osoan edo partzialean, enpresak eta langileak adostu ondoren, haurra jaio eta 12 hilabete bete arte.
+Beste bi aste (lau, guraso bakarren kasuan): Modu malguan banatzen dira, haurrak 8 urte bete arte.
+Jaiotza-, adopzio- edo desgaitasun-kasuetan, baimena astebete luzatuko da guraso bakoitzarentzat.
+Nola hartzen da baimena erditzea goiztiarra bada?
+Garaia baino lehen jaiotako haurren kasuan eta, beste arrazoi bat tarteko, jaioberriak ospitalean egon behar badu erditu ondoren, ospitalean alta eman zaion egunetik aurrera zenbatu ahal izango da kontratuaren etenaldia. Zenbaketa honetatik kanpo geratzen dira erditu osteko sei asteak.
+Haurra garaia baino lehen jaio eta pisurik ez badu, edo jaioberriak, arrazoi klinikoren bat dela medio, erditu ondoren zazpi egunez baino gehiagoz ospitalean egon behar badu, jaioberria ospitalean dagoen beste egun gehiagoz luzatuko da etenaldia, eta hamahiru aste gehiago izango ditu gehienez.
+Zer gertatzen da haurra edo haren gurasoetako bat hiltzen bada?
+Semea edo alaba hiltzen bada, etenaldia ez da murriztuko, salbu eta, nahitaezko atsedenaldiko sei asteak amaitu ondoren, guraso batek edo biek lanpostura itzultzeko eskatzen badute.
+Gurasoetako bat hilez gero, beste gurasoak baimen osoa edo, hala badagokio, geratzen zaion zatia hartu ahal izango du.
+Nork hartzen du bere gain baimena luzatzeko baimen berriaren kostua?
+Gizarte Segurantzak bere gain hartzen du jaiotzagatiko eta adingabea zaintzeagatiko baimenaren kostu osoa, eta oinarri arautzailearen % 100 ordainduko du. Prestazioa PFEZetik salbuetsita egongo da; beraz, ordaindu beharreko zenbatekoa nominaren soldata gordina izango da, Ogasunaren atxikipenik gabe.
+Nola eska dezaket prestazioa?
+Ziurtagiri digitalarekin: Ziurtagiri digitala edo erabiltzaile-izena eta pasahitza Cl@ve badituzu, Zure Gizarte Segurantza atariaren bidez, Jaiotzagatiko eta adingabearen zaintzagatiko prestazioa atalean.
+Ziurtagiri digitalik gabe: Aldez aurretik identifikatzeko metodorik ez baduzu, Gizarte Segurantzaren prestazioen webgunean aurkituko duzun GSINen ziurtagiri digitalik gabeko izapideetarako plataforma erabil dezakezu.
+Postaz: Deskargatu eta bete Gizarte Segurantzaren webgunean aurkituko duzun eskaera-inprimakia, eta bidali posta arruntez Gizarte Segurantzako Institutu Nazionalaren edo dagokion Itsasoko Gizarte Institutuaren Probintzia Zuzendaritzara, gainerako dokumentazioarekin batera.
+Presentziala: Eskaera eta dokumentazioa hitzorduarekin aurkeztu beharko dira.
+Zer dokumentazio aurkeztu behar dut?
+Prestazio-eskaera.
+Gurasoen nortasuna egiaztatzea (NANa, pasaportea edo AIZ)
+Besteren konturako langileentzat: Enpresaren ziurtagiria, jaiotzagatiko eta adingabearen zaintzagatiko lan-atsedenaren hasiera-data jasotzen duena.
+Gainera, jaiotza bada:
+Amatasun txostena, Osasun Zerbitzu Publikoak emana.
+Familia-liburua edo haurra Erregistro Zibilean inskribatu izanaren ziurtagiria.
+Ordezko haurdunaldiaren kasuan: Erregistro Zibilean jaiotakoaren filiazioa guraso komisio-emailearen alde inskribatzea (pertsona horrek beste pertsona baten esku uzten du bere seme-alabaren haurdunaldia) edo semearen filiazioa Espainiako Erregistro Zibilean inskribatzea, komisio-emailearen eta ama biologikoaren alde.
+Adopzio edo harreraren kasuan:
+Familia-liburua edo jaioberria Erregistro Zibilean inskribatu izanaren ziurtagiria.
+Adopzioa eratzen duen ebazpen judiziala edo familia-harrera onartzen duen ebazpen administratibo edo judiziala.
+Adoptatutako haurraren jatorrizko herrialdera joatea beharrezkoa denean, bizi den autonomia-erkidegoko organo eskudunak emandako dokumentazioa aurkeztu behar da, adopziorako izapideen hasiera justifikatzen duena.
+2026-2030erako Estatuko Etxebizitza Planaren ildo estrategikoak
+Gobernuak 2026-2030erako Estatuko Etxebizitza Planaren ildo nagusiak aurkeztu ditu. Aurrekaririk gabeko baliabide-mobilizazio horrek aukera emango du Europako estandarrak dituen etxebizitza-sistema publiko bat sendotzeko eta etxebizitza-politika indartzeko, ongizate-estatuaren bosgarren zutabe gisa.
+2026-2030erako Estatuko Etxebizitza Plana (EEP) izango da 2023an onartutako Etxebizitza Eskubidearen Legearen arabera egindako lehen plana. Lege horrek herritar guztientzat etxebizitza duina eta egokia izateko eskubide konstituzionala garatzen du. Planak bultzada handia emango die Estatuko etxebizitza-politikei, eta nabarmen handituko du etxebizitza babestuetan, birgaitzeetan eta gazteentzako laguntzetan egiten den inbertsioa. Era berean, gaiari buruzko datuen eskuragarritasunari gardentasun handiagoa eman nahi dio.
+Isabel Rodriguez Etxebizitza eta Hiri Agendako ministroak nabarmendu duenez, plana "tresna berri bat da, etxebizitza politika irmo eta eraginkor bat markatzeko, arlo publikotik".
+Zer da 2026-2030erako Estatuko Etxebizitza Plana?
+2026-2030erako EEP Espainiako Gobernuaren tresna estrategikoa da, eta datozen bost urteetarako etxebizitza-politika publikoak ezarriko ditu. Etxebizitzaren legearen arabera, Estatuko etxebizitza-planak dira Estatuak etxebizitza-politikan duen jarduera-tresna nagusietako bat, eta adierazten du hainbat urtetarako balio behar dutela, eta Estatuko gainerako estrategiekin koordinaturik egin behar direla. Legeak xedatzen du, halaber, etxebizitza-planek etxebizitza duina eta egokia lortzen laguntzeko programak izango dituztela, bai eta nahikoa eta egokia den etxebizitza-eskaintza sustatzeko programak ere, bereziki, etxebizitza-merkatu tenkatuko eremuetan.
+Zer helburu ditu Estatuko Etxebizitza Planak?
+2026-2030erako EEPk bost helburu nagusi ditu:
+Etxebizitza eskuragarrien parkea handitzea, modu babestu eta iraunkorrean.
+Dagoen parkea birgaitzea, energia-eraginkortasuna, irisgarritasuna eta hiri-berroneratzea hobetuz.
+Gazteen emantzipazio-adina murriztea, etxebizitza eskuratzea erraztuz.
+Familien finantza-ahalegina gutxitzea, eta etxebizitzaren ordainketak diru-sarreren % 30 ez gainditzea bermatzea.
+Tentsionatutako merkatu-eremuak leheneratzea, prezioei eusteko eta prezioak murrizteko politiken bidez.
+Nola banatuko da inbertsioa?
+Planak 7.000 milioi euroko finantzaketa aurreikusten du, aurreko planekoa hirukoiztuko duena, Konstituzioaren araberako eskumen-banaketarekin:
+% 60 Estatuak jarriko du.
+% 40 autonomia-erkidegoek, etxebizitza-eskumenaz arduratzen direnek.
+Planaren ildo estrategikoak
+1. Etxebizitza gehiago: eraikuntza eta erosketa
+Etorkizuneko Planeko baliabideen % 40 etxebizitza babestuen eskaintza handitzeko erabiliko da, eta etxebizitza horiek parke publikoan iraungo dutela bermatuko da. Ildo horretatik, neurri hauek nabarmentzen dira:
+Babes ofizialeko etxebizitzak eraikitzeko laguntzak berreskuratzea.
+Lankidetza administrazioekin, gizarte-sustatzaileekin eta formula publiko-pribatuekin.
+Etxebizitza hutsak mobilizatzea, erosiz edo lagaz, parke publikoan sartzeko.
+2. Etxebizitzarik onena: errehabilitazioa
+Funtsen % 30ek etxebizitzen, eraikinen eta hiri-inguruneen birgaitzea finantzatuko du, dagoeneko eraikita dagoen parkea duintzeko eta 260.000 etxebizitza baino gehiagoren energia-kontsumoa % 30 murrizteko.
+Laguntzak handitu egingo dira, gainera, kasu hauetan:
+Ondare-babeseko zonetan kokatutako etxebizitzak.
+Etxebizitza hutsak, arrazoizko alokairurako erabiltzen badira.
+3. Emantzipazio gaztea
+Planak gazteentzako laguntza-pakete espezifiko bat izango du:
+Alokairurako dirulaguntzak.
+30.000 eurora arteko laguntzak, etxebizitza babestua erosteko aukerarekin alokatzeko.
+10.800 euro baino gehiagoko laguntzak, arrisku demografikoa duten udalerrietan erosketak egiteko.
+Gazte-abala, alokairua eskuratzen laguntzeko.
+4. Esfortzu-tasa murriztea
+2026-2030erako EEPk eskuragarritasun-konpromiso bat jasotzen du Estatuak finantzatutako sustapen guztietan, bermatzeko onuradunek ez dutela inola ere diru-sarreren % 30 baino gehiago bideratu behar etxebizitza ordaintzera.
+Gainera, alokairurako laguntza orokorrak mantendu dira, eta kalteberatasun-kasuetan jasotako laguntzak indartu dira, bizileku-irtenbideak errazteko edo etxebizitzari lotutako gastuak ordaintzeko, beharrezkoa denean.
+5. Eremu tentsionatuak leheneratzea
+Merkatu tentsionatuko eremuetan alokairu- eta erosketa-prezioak geldiarazteko eta murrizteko neurri espezifikoak jasotzen ditu EEPk, etxebizitzaren legean xedatutakoaren arabera.
+Zer suposatzen du plan honek herritarrentzat?
+2026-2030erako Estatuko Etxebizitza Planak adostasun akademikoari eta etxebizitzaren arloko estatu-akordio baten aldeko eskaera sozialari erantzuten dio. Hau suposatzen du:
+Orain arte egindako inbertsio-ahaleginik handiena.
+Parke publikoa etorkizuneko belaunaldientzako ondare gisa sendotzea.
+Erantzun errealista eta eraginkorra herritarrek adierazitako arazo nagusiari: etxebizitza eskuratzea.
+Nola parte hartu Estatuko Etxebizitza Plana egiteko prozesuan?
+Etxebizitza eta Hiri Agendako Ministerioak jendaurrean jarri du 2026-2030erako Estatuko Etxebizitza Plana arautzen duen Errege Dekretuaren proiektua. Ekarpenak 2025eko urriaren 7ra arte egin ahal izango dira, Ministerioaren webgunean dagoen formulario honen bidez.
+Lanbide arteko gutxieneko soldata (LGS): zer da, zenbat igotzen da eta nori egiten dio mesede?
+2025erako, lanbide arteko gutxieneko soldata (LGS) 16.576 eurokoa da urtean, 1.184 euroko 14 ordainsaritan banatua; beraz, % 61eko igoera metatu du 2018tik. 2,4 milioi langile inguru izango dira neurri horren onuradun.
+LGSren igoera berriarekin, langileek 2018an baino 6.273 euro gehiago jasoko dituzte urtean. Orduka lan egiten duten etxeko langileek, gutxienez, 9,26 euro jasoko dituzte orduko.
+Zer da lanbide arteko gutxieneko soldata?
+Langileak jasotzen duen gutxieneko lansaria da, legezko lanaldiari dagokiona. Gobernuak arautzen du urtero, ordezkagaitasun nagusia duten sindikatuekin eta enpresaburu-elkarteekin kontsultatu ondoren. Gutxieneko soldatan, diruzko ordainsaria bakarrik hartzen da kontuan. Soldata hori jarduera bakoitzeko legezko lanaldiari dagokio. Lanaldi laburragoa eginez gero, hainbanaketa egingo da.
+Zein da lanbide arteko gutxieneko soldataren zenbatekoa 2025ean?
+Ministro Kontseiluak 2025eko otsailaren 11n onartu zuen lanbide arteko gutxieneko soldata % 4,4 igotzea, sindikatuekin akordioa lortu ondoren.
+Nekazaritzako, industriako eta zerbitzuetako jarduera guztietarako, sexua eta langileen adina bereizi gabe, 39,47 euro gordin ezartzen dira egunean, edo 16.576 euro gordin urtean, 1.184 euroko 14 ordainsaritan banatuta.
+Kopuru horrek esan nahi du 50 euro gehiago ordainduko direla hilero 14 ordainsaritan, hau da, guztira 700 euro urtean.
+Lanbide arteko gutxieneko soldata garbia ala gordina da?
+Lanbide arteko gutxieneko soldata langileen soldata gordinari dagokio. Hileko 1.184 euroak, 14 ordainsaritan, nominaren sortzapen guztiak dira, eta aparteko ordainsariak hainbanatuta badaude, hilean 1.381 euro izango dira, 12 ordainsaritan banatuta.
+Zein da behin-behinekoen, sasoikoen eta etxeko langileen gutxieneko soldata?
+Behin-behineko langileen soldatak eta enpresa berean 120 zerbitzu baino gehiago ematen ez dituzten sasoikako langileen soldatak ezin du 56,08 euro baino gutxiagokoa izan lanaldiko.
+Orduka lan egiten duten etxeko langileen kasuan, gutxieneko soldata 9,26 eurokoa izango da benetan lan egindako ordu bakoitzeko.
+LGSaren igoerak atzerako eragina du?
+Bai. Ministro Kontseiluak onartutako igoera atzeraeraginez aplikatuko da, 2025eko urtarrilaren 1etik aurrera.
+Zenbat igo da LGSa azken urteetan?
+Aurreko legealdian, Jaurlaritzak lanbide arteko gutxieneko soldata igo zuen, 736 eurotik 1.080ra 2023an (% 47ko igoera).
+2025erako adostutako LGSaren igoerarekin, LGSa % 61 igoko da 2018tik. Kopuru horrek esan nahi du 50 euro gehiago ordainduko direla hilero 14 ordainsaritan, hau da, guztira 700 euro urtean.
+Hondakinei buruzko Legea: zer da eta zer helburu ditu?
+2025ean, birziklatzeari buruzko Europako helburuak betetzeko behar den zabor-tasa eskatzen ez duten udalek nahitaez eskatu beharko dute.
+2022an onartutako Hondakinen Legeak hiru urteko epea ezarri zuen udalek beren hondakinen kudeaketa Europar Batasunak ezarritako birziklatze-helburuetara egokitzeko.
+Egokitzapen hori zaborren tasa berri bat ezarrita egin behar zen, hiri-hondakin solidoen bilketa, garraioa eta tratamendua ordaintzeko, "kutsatzen duenak ordain dezala" printzipioaren arabera.
+Oraindik konpromiso hori bete ez duten eta tasa hori martxan jarri ez duten udalerriek nahitaez egin beharko dute 2025etik aurrera.
+Zer helburu ditu Hondakinen Legeak?
+Ekonomia zirkular baterako hondakinei eta lurzoru kutsatuei buruzko 7/2022 Legeak Europako 2018ko zuzentarau baten transposizioa egin zuen Espainian, erkidegoko araudian ezarritako helburu berriak betetzeko eta Espainian ekonomia zirkularra sustatzeko.
+Lege horren helburu nagusia hondakinen zirkulazioa handitzea da. Horretarako, hondakin-frakzio berriak (biohondakinak, ehun-hondakinak, etxeko hondakin arriskutsuak, sukaldeko olio erabiliak eta tamaina handiko hondakinak) bereizita biltzeko obligazioa ezarri zuen arauak, ondoren tratamendu berezitua emateko. Esparru berri hori osatzeko, hondakinen bilketa bereiziak ezartzeko egutegia eta erabilera bakarreko plastikoen erabilera minimizatzeko neurriak ezarri ziren.
+Gainera, hondakinen sorrerak eta kudeaketak giza osasunean eta ingurumenean dituen ondorio negatiboak ahalik eta gehien murriztea du helburu legeak, klima-aldaketaren aurkako borrokan eta itsas ingurunearen babesean lagunduz. 2030erako Agendaren Garapen Jasangarrirako Helburuekin bat egiten du, batez ere ekoizpen eta kontsumo jasangarriari, klimaren aldeko ekintzari eta urpeko bizitzari dagozkienekin.
+Zergatik ezartzen da hondakinen kudeaketa-tasa berria?
+2018ko Europako zuzentarauak 2025erako udal hondakinen berrerabilpen eta birziklapenaren % 55 lortzea eskatzen zien estatu kideei, 2030ean % 60ra iritsi beharko duen portzentaje bat eta 2035ean % 65era.
+Helburu hori lortzeko, Espainiako legeak ezarri zuen udalerriek hiri-hondakin solidoen bilketaren, garraioaren eta tratamenduaren kostuak estaliko zituen zerga bat aplikatu behar zutela, eta hiru urteko epean egin behar zutela. Epe hori 2025eko apirilean amaitu zen.
+Hondakinen tasa: zenbat ordaintzen da, nola eta noiz?
+Udalerri bakoitzak bere irizpideen arabera ezar dezake zerga hori, eta, beraz, udalek eurek erabakitzen dute nola kalkulatu tasaren zenbatekoa. Nolanahi ere, tasak zerbitzuaren benetako kostua islatu beharko du, bilketa eta tratamendua ez ezik, eragiketen zaintza, mantentze-lanetako gastua edo gaiari buruzko kontzientziazio- eta komunikazio-kanpainak ere barnean hartuta.
+Legeak jasotzen du, halaber, udalek beren biztanleriaren ezaugarrietara egokitu ahal izango dutela tasa, pertsona edo familia kalteberentzako murrizketak, oporretako alokairuko etxebizitzetan hondakinak bereiz biltzeko pizgarriak eta antzeko tresnen bidez.
+Zenbat, zein bidetatik (transferentzia, eskudirutan edo helbideratze bidez) eta noiz ordaindu behar den jakiteko, udal bulegora joatea edo dagokion udalaren webgunera sartzea gomendatzen da.
+Hondakinen Legearen betebeharrak enpresentzat
+Udalez gain, 2022an arau hau indarrean jarri zenetik erabilera bakarreko plastikoen erabilera minimizatzeko betebeharra duten enpresek ere egokitu behar izan dute Hondakinen Legera. Helburu hori beti gogoan izanik, legeak honelako neurriak ezarri zituen:
+Plastikozko produktuak saltzeko debekua, hala nola mahai-tresnak, platerak edo lastotxoak.
+Bezeroei diru kopuru bat kobratzea entregatzen zaien plastikozko produktu ez-berrerabilgarri bakoitzeko, kostu gehigarri hori zehaztuta. Jatetxeen kasuan, ontziratu gabeko ura doan eskaini behar zaie bezeroei.
+Ekoizlearen erantzukizuna hondakinen tratamendu osora hedatzea, ekoizleek hondakinen kudeaketaren erantzukizuna beren gain hartzen dutela bermatzeko.
+Karga berriak sortzea, hala nola plastikoaren gaineko zerga, berrerabili ezin diren plastikozko ontzien erabilera zergapetzen duena, edo hondakinak zabortegietan utzi eta erraustearen gaineko zerga.
+Neurri horien osagarri, produktu iraunkorragoak, konpongarriagoak eta birziklagarriagoak diseinatzea sustatzen da, zaharkitzapen goiztiarra saihestuz eta berrerabiltzea sustatuz. Halaber, kontsumitzaileei produktu jakin batzuen konpongarritasunari eta ingurumen-inpaktuari buruzko informazioa emateko neurriak jasotzen dira.
+Hondakinen Legearen eginkizuna klima-aldaketaren aurkako borrokan
+Hondakinen Legeak esparru orokor bat ezartzen du hondakinen kudeaketa hobetzeko eta haien ingurumen-inpaktua murrizteko, eta hori ekarpen garrantzitsua da klima-aldaketaren aurkako borrokan. Gaikako bilketaren, plastikoen erabilera saihestearen eta "poluitzen duenak ordain dezala" printzipioaren bidez, besteak beste, baliabideak eraginkortasun handiagoz erabiltzeko eta hondakinei lotutako berotegi-efektuko gasen emisioak murrizteko (guztizkoaren % 4, kalkuluen arabera) bidean aurrera egin nahi da.
+Espainiako transplanteen eredua: funtzionamendua eta mundu-mailako lidergoaren gakoak
+2024an, Espainiak organoen transplante-errekorra hautsi zuen, eta, hala, duela 30 urtetik baino gehiagotik esparru horretan duen munduko lidergoari eutsi zion. Osasunaren Mundu Erakundeak gomendatuta, Espainiako ereduak diziplina anitzeko ikuspegian oinarritzen du bere arrakasta, eta alderdi legal, tekniko eta ekonomikoak jorratzen ditu.
+Organoen transplanteak, urtero hamarnaka mila pazienteren bizitza salbatzen edo osasuna hobetzen duenak, bere maximo historikoa erregistratu zuen Espainian 2024an. Iaz, "Espainiako transplanteen eredua" izenekoak milioi biztanleko 53,9 hildako erregistratu zituen, munduko gainerako herrialdeek baino askoz gehiago.
+Zifra horien arabera, Espainia nazioarteko liderra da odol-emateen eta transplanteen arloan, eta posizio horretan dago duela hiru hamarkadatik baino gehiagotik. Espainiako eredua da lidergo hori gauzatu duen hartutako neurrien multzoa. Literatura zientifikoan asko deskribatu den estrategia da, eta, gainera, Osasunaren Mundu Erakundeak (OME) gomendatu du.
+Nola funtzionatzen du transplanteen Espainiako ereduak?
+Espainiako transplanteen ereduak bi zutabe nagusi ditu: 1979ko Transplanteen Legea, hainbat arauren bidez aurrerapen zientifiko-teknologikoetara gero eta gehiago egokitu dena; eta Osasun Sistema Nazionala, zeinaren izaera publikoa eta sarbide unibertsalekoa baita, aukera ematen baitio edozein pazienteri transplantea egiteko inolako diskriminaziorik gabe.
+Eredu horretan, Transplanteen Erakunde Nazionala (ONT) da estatuan transplanteen politika koordinatzeaz arduratzen den erakunde autonomoa. Osasun-administrazio zentralaren eta autonomikoen arteko harmonizazio-lana egiten du, horiek baitira donazio- eta transplante-prozesu osoaren euskarria.
+Koordinazio nazionala eta autonomikoa ez ezik, hirugarren koordinazio-maila bat ere badago, organoak lortzeko baimendutako ospitale-sareak osatua. Zentro horiek baimentzeko irizpideetako bat da transplanteen koordinazio-unitate bat izatea ospitale barruan, organoak emateko eta transplantatzeko prozesua antolatzeko ardura duena.
+Transplanteen ospitale-koordinatzailearen figura da Espainiako ereduaren gakoetako bat, zeina unitate horietako buru baita. Gehien bat mediku intentsiboa da, eta ONTren eta Transplanteen Koordinazio Autonomikoen laguntzarekin funtzionatzen du.
+Donazioa: printzipioak eta baldintzak
+Organoak ematea keinu altruista da, eta, legez, librea, borondatezkoa, konfidentziala, anonimoa, doakoa eta irabazi-asmorik gabea da.
+Pertsona orok erabaki dezake, bizirik dagoela, hiltzen denean, haren organoek beste batzuen bizitza salbatzeko edo hobetzeko balio izatea. Hala ere, mundu guztia ezin da emaile izan: horretarako, koordinazio-unitateek baloratzen dute transplanterako organoen baliozkotasuna.
+Zelulen eta ehunen donazioa ere araututa dago Espainian, eta borondatezkoa eta altruista da; beraz, emaileak eta beste edozein pertsona fisikok edo juridikok ezin du inolako kontraprestazio ekonomikorik edo ordainsaririk jaso.
+Kategoria honetan hezur-muinaren transplantea dago, zelula amek habia egiten duten hezur batzuen barruan dagoen ehuna, eta horregatik da ezinbestekoa bizitzarako. Oro har, hezur-muinaren emaile gisa erregistra daiteke 18 urtetik 40 urtera bitarteko pertsona osasuntsu oro, baldin eta gaixotasun transmitigarririk ez badu edo donazioaren ondorioz bizia arriskuan jar dezakeen gaixotasunik ez badu.
+Donazio-prozesuaren betekizunak
+Espainiako legediaren arabera, pertsona guztiak emaileak dira, baldin eta kontrakoa adierazi ez badute, mundu osoan "ustezko baimen" gisa ezagutzen den kasua.
+Hala ere, Espainian, hori aplikatzeko orduan, hildakoaren borondatea babesteko prozedura bat ezartzen da, haren aurkakotasuna modu desberdinetan formulatua izan daitekeelako (adibidez, bere borondatea adieraziz senideei edo osasun-zentroan artatu duten profesionalei).
+"Besteentzat perfektua zara" kanpainaren webgunean emailearen txartela deskargatu daiteke, hil ondoren donazioa egiteko nahiaren testigantza idatzi gisa balio duen dokumentu sinbolikoa.
+Zer da bizirik egonda organoak ematea?
+Bizirik dagoenaren donazioa da bizirik dauden emaileengandik organoak lortzea, hori posible den kasuetan.
+Prozedura hori araudiko baldintza eta betekizun jakin batzuk betetzearen mende dago: haien artean, emailea adinez nagusia izatea eta osasun fisiko eta mental ona izatea.
+Espainiako legediaren arabera, emaile eta hartzaileen eskubideak bermatzeko eta donazioa printzipio orokorren arabera egiteko, beharrezkoa da prozesuan parte hartzen duten guztiek eman beharreko pausoak ematea. Kasu bakoitzak bere berezitasunak dituenez, pazientearen ardura duen talde medikoari galdetzea gomendatzen da.
+Espainia, nazioarteko erreferentzia
+Europar Batasunetik espresuki gomendatu dute hainbat dokumentutan Espainiako eredua osorik edo zati batean hartzea. Europako Kontseiluaren "Meeting the Organ Shortage:Current status and strategies for improvement" dokumentuan, ereduak beste herrialde batzuetan ezartzeko dituen elementu garrantzitsuenak deskribatzen dira; besteak beste, osasun-sistema bat estaldura unibertsalarekin, finantzaketa egokiarekin edo behar adina mediku- eta erizain-langilerekin.
+Espainiak arlo horretan duen nazioarteko lidergoa, gainera, OMEk hurrengo urteetan transplanteak bultzatzeko planteatu duen ibilbide-orri globalean islatzen da: "Zelulen, ehunen eta giza organoen transplantearen eskuragarritasuna, sarbide etikoa eta ikuskapena handitzea" ebazpena. Espainia izan da dokumentu horren sustatzaile nagusia, eta Espainiak EBko Presidentetza zuenean ezarri ziren haren oinarriak, Santanderreko Adierazpena izenekoan.
+Ministro Kontseiluaren aurrekariak eta historia
+Ministro Kontseiluaren jatorria, izen horrekin, 1823ko azaroaren 19koa da. Egun horretan, Fernando VII.a erregeak Ministroen Kontseilua sortzen duen Errege Dekretua eman zuen, garai hartan Estatuko lehen idazkaria zen Víctor Damián Sáezi zuzenduta.
+Arau horren arabera, kontseilua kide anitzeko organo gisa sortu zen, erregea buru zela, eta bost kidek osatuta. Erabilera orokorreko gaiak jorratzea eta adostasunezko probidentziak ematea zuen eginkizun, eta horiek liburu batean jasoko ziren.
+Errege Dekretuak bi aurrekari aipatzen ditu: Felipe V.ak 1714ko azaroan sortutako Kabinete Kontseilua eta Karlos III.ak 1787ko uztailean ezarritako Estatu Batzar Gorena.
+Lehen bilera
+Aktan erregistratutako lehen bilera 1824ko urtarrilaren 3koa izan zen, baina sinatu gabe dago. Ministroen Kontseiluko lehen idazkari titularra Antonio de Ugarte y Larrazábal izan zen, eta 1824ko otsailaren 15ean sinatu zuen lehen akta.
+1823ko azaroa eta abendua bitartean aktarik ez zegoenez, ez zen bilerarik egin. Hala ere, dirudienez, garaiko egunkariek Ministroen Kontseiluak izapidetutako dekretuak argitaratzen dituzte, eta horregatik egin behar izan ziren kontseiluak.
+Bilakaera
+Ministroen Kontseilua 42 aldiz bildu zen 1824an, baina erregea bost bileratara baino ez zen joan. Estatuko ministroa gainerako 37 bilkuretako buru izan zen, esanbidezko eskuduntzarik gabe.
+Fernando VII.ak modu formalean eta espresuki aitortu zuen, 1824ko abenduaren 31ko Errege Dekretuaren bidez, bera ez zegoenean Kontseiluko buru lehen estatu-idazkaria eta bulego unibertsalekoa izan zela, aurretik existitzen ez zen Ministro Kontseiluko presidente izenarekin. Testua Francisco de Cea y Bermudezi zuzenduta zegoen.
+Errege-dekretu horrek Ministroen Kontseiluaren aldizkakotasuna ere arautzen zuen: "astean bitan, agian, eta bulegoko edozein idazkarik beharrezkotzat jotzen duenean".
+Akten arabera, Ministroen Kontseiluak 1825era arte egin zituen bilerak Errege Jauregian. Ordutik eta Isabel II.aren erregealdiaren amaierara arte, Ministerioen Etxea izenekora lekualdatu zen, gaur egun Ikasketa Politiko eta Konstituzionalen Zentroa hartzen duen eraikinera. Errege-herrietako batzuetan ere bilerak egin ziren, hala nola Aranjuezen, San Lorenzon edo La Granjan.
+XIX. mendean zehar eta XX. mende osoan zehar, Kontseiluaren egoitza aldatuz joan zen. 1977. urtera arte ez zen gaur egungo egoitzara joan Moncloako Ministro Kontseiluaren eraikina. Azkenik, 1978ko Konstituzioarekin batera, gaur egun Zuzenbideko Estatu sozial eta demokratiko baten esparruan ondoz ondoko gobernuetako kide anitzeko organo gisa betetzen duen eginkizuna finkatu zen.
+Ministroen Kontseiluaren bigarren mendeurrena: akta berriak argitaratzea
+Ministroen Kontseiluaren aktak funtsezkoak dira Espainiaren bilakaera historikoa ulertzeko.
+1989 eta 1992 bitartean, gure inguruko herrialdeen arteko ekimen aitzindari batean, lehen aktak transkribatu eta argitaratu ziren, 1824ko urtarrilaren 3tik 1930era egindako bilerak jasotzen dituztenak, dokumentu-balioa eta gardentasunari eta espainiarren ondare komunari egindako ekarpena aintzat hartuta.
+Dokumentu horiek 106 urteko aldia hartzen dute, baina 21 urteko aktak bakarrik daude eskuragarri, eta, kasu batzuetan, osatu gabe. Aldi batzuetan ez ziren idatzi eta beste batzuetan galdu ahal izan ziren. Zortzi liburukitan bilduta daude, Fernando VII.aren (1824-1833), Isabel II.aren (1833-1839, 1843-1844 eta 1854-1855) eta Espainiako Lehen Errepublikaren (1873-1874) garaiari dagozkionak, eta Miguel Primo de Rivera jeneralaren diktaduraren bigarren aldiari dagokiona, Direktorio Zibila (1925-1930) izenekoa. Azken aldi hori da Ministroen Kontseiluaren aktetan zehatz-mehatz dokumentatuta dagoen Espainiako historia politikoko bakarra.
+II. Errepublikaren hasieratik 1939an Francisco Francoren diktadurari bide eman zion Gerra Zibila amaitu arte egindako Ministroen Kontseiluei zegozkien aktak ez dira aurkitu. 1939tik 1957ra egindako kontseiluen aktak ere ez dira gorde. 1957. urtean, dekretu batek Ministro Kontseiluaren bilerak arautzen ditu, eta ordutik, aktak Lehendakaritza, Justizia eta Gorteekiko Harremanetarako Ministerioan gordetzen dira.
+Ministro Kontseiluaren sorreraren bigarren mendeurrena zela eta, 2023ko azaroaren 19an, Gobernuak 1978ko Konstituzioaren ondorengo akta guztiak argitaratu zituen, gardentasun eta zerbitzu publikoko ekitaldi batean. Akta horiek herritarren eskura daude Lehendakaritza Ministerioaren webgunean.
+Iturriak:
+Ministroen Kontseiluaren aktak (Lehendakaritza, Justizia eta Gorteekiko Harremanen Ministerioa); Lehendakaritza, Justizia eta Gorteekiko Harremanen Ministerioaren Artxiboa; Espainiako Ministroen Kontseiluaren jatorriak. José Antonio Escudero (2023); Ministro Kontseiluaren Lehendakaritza sortzea. José Antonio Escudero (1972).
+XV. legegintzaldiko gobernua
+2023ko azaroaren 21etik 2023ko abenduaren 29ra arteko Kabinetea
+2023ko uztailaren 23ko hauteskunde orokorren ostean, Diputatuen Kongresuak gehiengo osoz eman dio konfiantza Pedro Sánchez Pérez-Castejóni, azaroaren 16an Gobernuko presidente izendatu baitzuten.
+Estatuko Aldizkari Ofizialak (BOE) azaroaren 17an argitaratu zuen Errege Dekretua eta haren izendapena. Egun horretan bertan, Pedro Sanchezek bere karguaren zina egin zuen Felipe VI .a erregearen aurrean, Zarzuela jauregian.
+Presidenteak azaroaren 20an iragarri zuen bere gobernuaren osaera, eta hurrengo egunean BOEn argitaratu zituen izendapenak.
+Azaroaren 21ean, Pedro Sanchez bere Kabineteko kideek erregearen beren karguaren zina egiteko ekitaldian izan zen.
+Hauek ziren Kabinete berriko ministroak:
+Lehen presidenteordea eta Ekonomia, Merkataritza eta Enpresa ministroa, Nadia María Calviño Santamaría.
+Bigarren presidenteordea eta Lan eta Gizarte Ekonomiako ministroa, Yolanda Díaz Pérez.
+Hirugarren presidenteordea eta Trantsizio Ekologikorako eta Erronka Demografikorako ministroa, Teresa Ribera Rodríguez.
+Laugarren presidenteordea eta Ogasuneko eta Funtzio Publikoko ministroa, María Jesús Montero Cuadrado.
+Kanpo Arazoetako, Europar Batasuneko eta Lankidetzako ministroa, José Manuel Albares.
+Presidentzia, Justizia eta Gorteekiko Harremanetarako ministroa, Félix Bolaños.
+Defentsa ministroa, Margarita Robles.
+Barne ministroa, Fernando Grande-Marlaska.
+Garraioetako eta Mugikortasun Iraunkorreko ministroa, Óscar Puente.
+Hezkuntza, Lanbide Heziketa eta Kiroletako ministroa; eta Gobernuaren bozeramailea, Pilar Alegría.
+Industria eta Turismo ministroa, Jordi Hereu.
+Nekazaritza, Arrantza eta Elikadura ministroa, Luis Planas.
+Lurralde Politikako eta Memoria Demokratikoko ministroa, Ángel Víctor Torres.
+Etxebizitza eta Hiri Agenda ministroa, Isabel Rodríguez.
+Kultura ministroa, Ernest Urtasun.
+Osasun ministroa, Mónica García.
+Eskubide Sozial, Kontsumo eta Agenda 2030 ministroa, Pablo Bustinduy.
+Zientzia, Berrikuntza eta Unibertsitate ministroa, Diana Morant.
+Berdintasun ministroa, Ana Redondo.
+Gizarte Segurantza eta Migrazioetako ministroa, Elma Saiz.
+Eraldaketa Digitaleko ministroa, José Luis Escrivá.
+Gazteria eta Haurtzaroko ministroa, Sira Rego.
+2023ko abenduaren 29tik 2024ko irailaren 6ra arteko Kabinetea
+2023ko abenduaren 29an, Gobernuko presidenteak XV. Legegintzaldiko Kabinetearen lehen birmoldaketa iragarri zuen.
+Nadia Calviño Ekonomiako lehen presidenteorde eta titularra Europako Inbertsio Bankuko zuzendari berri izendatzearen ondorioz, kargua utzi eta Carlos Cuerpo jaunak ordezkatuko du.
+Laugarren lehendakariorde eta Ogasuneko eta Funtzio Publikoko ministro María Jesús Monterok hartu du Lehen Lehendakariordetza, Calviñoren ordez. Era berean, Funtzio Publikoko Estatu Idazkaritza José Luis Escrivá ministroak zuzentzen duen Trantsizio Digitaleko Ministerioaren parte izango da.
+Estatuko Aldizkari Ofizialak (BOE) Errege Dekretua argitaratu zuen, abenduaren 29ko hiru izendapenekin eta ministerio-sailen eta Gobernuaren presidenteordetzen berregituraketarekin. Ministroek, egun berean, beren karguen zina egin zuten erregearen aurrean, Zarzuela jauregian.
+Kabinetea honela osatu zen:
+Gobernuko presidentea, Pedro Sánchez Pérez-Castejón.
+Lehen presidenteordea eta Ogasuneko ministroa, María Jesús Montero Cuadrado.
+Bigarren presidenteordea eta Lan eta Gizarte Ekonomiako ministroa, Yolanda Díaz Pérez.
+Hirugarren presidenteordea eta Trantsizio Ekologikorako eta Erronka Demografikorako ministroa, Teresa Ribera Rodríguez.
+Kanpo Arazoetako, Europar Batasuneko eta Lankidetzako ministroa, José Manuel Albares.
+Presidentzia, Justizia eta Gorteekiko Harremanetarako ministroa, Félix Bolaños.
+Defentsa ministroa, Margarita Robles.
+Barne ministroa, Fernando Grande-Marlaska.
+Garraioetako eta Mugikortasun Iraunkorreko ministroa, Óscar Puente.
+Hezkuntza, Lanbide Heziketa eta Kiroletako ministroa; eta Gobernuaren bozeramailea, Pilar Alegría.
+Industria eta Turismo ministroa, Jordi Hereu.
+Nekazaritza, Arrantza eta Elikadura ministroa, Luis Planas.
+Lurralde Politikako eta Memoria Demokratikoko ministroa, Ángel Víctor Torres.
+Etxebizitza eta Hiri Agenda ministroa, Isabel Rodríguez.
+Kultura ministroa, Ernest Urtasun.
+Ekonomia, Merkataritza eta Enpresa ministroa, Carlos Cuerpo Caballero.
+Osasun ministroa, Mónica García.
+Eskubide Sozial, Kontsumo eta Agenda 2030 ministroa, Pablo Bustinduy.
+Zientzia, Berrikuntza eta Unibertsitate ministroa, Diana Morant.
+Berdintasun ministroa, Ana Redondo.
+Gizarte Segurantza eta Migrazioetako ministroa, Elma Saiz.
+Eraldaketa Digitalerako eta Funtzio Publikorako ministroa, José Luis Escrivá.
+Gazteria eta Haurtzaroko ministroa, Sira Rego.
+2024ko irailaren 6tik azaroaren 25era arteko Kabinetea
+2024ko irailaren 4an, Gobernuko presidenteak XV. legegintzaldiko Kabinetearen bigarren birmoldaketa iragarri zuen.
+Eraldaketa Digitalerako eta Funtzio Publikorako ministro José Luis Escrivá Espainiako Bankuko gobernadore berriaren izendapenaren ondorioz, kargua utziko du eta Óscar Lópezek ordezkatuko du.
+Estatuko Aldizkari Ofizialak (BOE) irailaren 6an argitaratu zuen Errege Dekretua eta haren izendapenarekin. Ministroak egun berean zin egin zion karguari erregearen aurrean, Zarzuela jauregian.
+Azken Kabinetea honela osatu zen:
+Gobernuko presidentea, Pedro Sánchez Pérez-Castejón.
+Lehen presidenteordea eta Ogasuneko ministroa, María Jesús Montero Cuadrado.
+Bigarren presidenteordea eta Lan eta Gizarte Ekonomiako ministroa, Yolanda Díaz Pérez.
+Hirugarren presidenteordea eta Trantsizio Ekologikorako eta Erronka Demografikorako ministroa, Teresa Ribera Rodríguez.
+Kanpo Arazoetako, Europar Batasuneko eta Lankidetzako ministroa, José Manuel Albares.
+Presidentzia, Justizia eta Gorteekiko Harremanetarako ministroa, Félix Bolaños.
+Defentsa ministroa, Margarita Robles.
+Barne ministroa, Fernando Grande-Marlaska.
+Garraioetako eta Mugikortasun Iraunkorreko ministroa, Óscar Puente.
+Hezkuntza, Lanbide Heziketa eta Kiroletako ministroa; eta Gobernuaren bozeramailea, Pilar Alegría.
+Industria eta Turismo ministroa, Jordi Hereu.
+Nekazaritza, Arrantza eta Elikadura ministroa, Luis Planas.
+Lurralde Politikako eta Memoria Demokratikoko ministroa, Ángel Víctor Torres.
+Etxebizitza eta Hiri Agenda ministroa, Isabel Rodríguez.
+Kultura ministroa, Ernest Urtasun.
+Ekonomia, Merkataritza eta Enpresa ministroa, Carlos Cuerpo Caballero.
+Osasun ministroa, Mónica García.
+Eskubide Sozial, Kontsumo eta Agenda 2030 ministroa, Pablo Bustinduy.
+Zientzia, Berrikuntza eta Unibertsitate ministroa, Diana Morant.
+Berdintasun ministroa, Ana Redondo.
+Gizarte Segurantza eta Migrazioetako ministroa, Elma Saiz.
+Eraldaketa Digitalerako eta Funtzio Publikorako ministroa, Óscar López.
+Gazteria eta Haurtzaroko ministroa, Sira Rego.
+Presidentearen figura eta funtzioak
+Presidentearen izendapena eta eginkizunak; Gobernuko presidentearen egitura.
+Gobernuko presidentea
+Hautaketa
+Diputatuen Kongresua berritzen den bakoitzean, eta Konstituzioan aurreikusitako gainerako kasuetan, Erregeak, Parlamentuan dauden talde politikoek izendatutako ordezkariei kontsulta egin ondoren, eta Kongresuko presidentearen bitartez, Gobernuko Presidentetzarako hautagai bat proposatzen du.
+Hautagaiak Diputatuen Kongresuan azaldu behar du osatu nahi duen Gobernuaren programa politikoa, eta Ganberaren konfiantza eskatu behar du. Ganberako kideen gehiengo absolutuaren babesa lortzen badu, konfiantza eman diotela ulertuko da. Babes hori lortzen ez badu, bozketa errepikatu beharko da berrogeita zortzi ordu geroago. Kasu horretan, nahikoa da diputatuen gehiengo sinplearen konfiantza lortzea.
+Azkenean bigarren bozketa horretan ere ez badu lortzen inbestidurarako behar den gehiengoa, prozedura bera erabiliz hainbat proposamen errepikatuko direla ezartzen da. Lehen bozketatik bi hilabete igaro ondoren hautagai batek ere ez badu Kongresuaren konfiantza lortzen, Erregeak Gorteak desegin behar ditu, eta Kongresuko presidentearen berrespenarekin hauteskunde berriak deitu.
+Izendapena
+Hautagaiak Kongresuaren konfiantza lortu ondoren, Erregeak presidente izendatzen du Kongresuko presidentearen berrespenarekin. Izendapena Estatuko Aldizkari Ofizialean argitaratzen da eta ondoren presidenteak bere kargua hartzen du Erregearen aurrean.
+Funtzioak
+Presidenteak Gobernuaren ekintza zuzentzen du eta Gobernuko gainerako kideen eginkizunak koordinatzen ditu, kalterik egin gabe kide bakoitzak bere ministerio-sailen kudeaketan duen eskumenari eta zuzeneko erantzukizunari.
+Era berean, Gobernuaren 50/1997 Legean ezarritako eskumenak dagozkio, honako hauek:
+Gobernua ordezkatzea
+Erregeari proposatzea presidenteordeak eta ministroak izendatzea eta kargutik kentzea
+Ministerio-sailak eta estatu-idazkaritzak sortu, aldatu eta ezabatzea, errege-dekretuz
+Gobernuko Presidentetzaren egitura organikoa onartzea.
+Gobernuko gainerako kideei jarraibideak ematea eta ministerioen artean sor daitezkeen eskudantzia-gatazkak ebaztea
+Ministroen Kontseiluaren bileren deialdia egitea, bilkuretako buru izatea eta gai-zerrenda finkatzea; hala ere, Gobernuko presidenteak eskatuta, erregeak egoki irizten dionean bilkuretako buru izan daiteke.
+Kongresua, Senatua edo Gorte Nagusiak desegiteko proposatzea Erregeari, Ministroen Kontseiluak eztabaidatu ondoren.
+Diputatuen Kongresuan konfiantza-arazoa planteatzea, Ministroen Kontseiluak eztabaidatu ondoren
+Gobernuaren programa politikoa ezartzea, barne- eta kanpo-politikaren jarraibideak zehaztea eta haiek betetzen direla zaintzea.
+Defentsa-politika zuzentzea eta Indar Armatuei dagokienez defentsa nazionala eta antolaketa militarra arautzen dituen legerian aurreikusitako eginkizunak betetzea
+Erregearen egintzak berrestea, hala badagokio, eta legeak eta lege-mailako gainerako arauak haren mende jartzea, zehatzeko
+Erregeari kontsulta-erreferendum bat dei dezan proposatzea, Diputatuen Kongresuak baimena eman ondoren
+Konstituziokontrakotasun-errekurtsoa jartzea
+Gobernuko presidentetza
+Gobernuko presidenteak onetsi egiten du Gobernuko Presidentetzaren egitura organikoa, eta, haren zuzendaritzapean, hainbat goi-organoren eta zuzendaritza-organoren bitartez garatzen ditu bere eginkizunak.

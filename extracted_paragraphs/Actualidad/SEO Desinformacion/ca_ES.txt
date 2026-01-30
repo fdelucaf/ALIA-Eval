@@ -1,0 +1,77 @@
+De què parlem quan parlem de desinformació?
+
+Des del 2021, les campanyes de desinformació són considerades a Espanya com un risc per a la seguretat nacional. Aquest risc, lluny de reduir-se, s'ha anat consolidant i fins i tot ha guanyat en importància i protagonisme en els darrers anys a nivell global. Tant és així, que l’informe del Fòrum Econòmic Mundial de Davos de 2024 situa el fenomen de la desinformació en el primer lloc al rànquing de riscos globals a curt termini.
+
+Què és la desinformació i quines diferències hi ha?
+
+La desinformació ha existit sempre, al llarg de la història de la humanitat. Però la desinformació en contextos digitals és un fenomen relativament recent i en constant evolució, cosa que comporta que cada cop ens trobem amb més conceptes i termes per referir-nos-hi. Molts són neologismes i estrangerismes que, de vegades, tendeixen a ser mal emprats quan els traduïm al castellà. Per exemple, sabies que en anglès es fan servir fins a tres paraules per parlar de desinformació: malinformation, misinformation i disinformation)? Sabries diferenciar-les?
+
+El Fòrum contra les campanyes de desinformació a l'àmbit de la Seguretat Nacional, creat el 2022 com una iniciativa nacional de col·laboració publicoprivada, ha identificat i definit 125 conceptes i termes clau per a la comprensió del fenomen de la desinformació, amb implicacions en la seguretat nacional i l’àmbit digital. En aquest article recopilem vint dels més comuns, utilitzats per descriure les tècniques i eines que conformen una campanya de desinformació.
+
+Notícia falsa. Informació falsa o enganyosa que es difon de manera intencional i amb l'objectiu de manipular o enganyar l'audiència. És un rumor o notícia sense fonament que es propaga ràpidament a través de les xarxes socials i els mitjans de comunicació. Manca d'evidència o proves fiables que li donin suport i s'utilitza per crear confusió, generar desconfiança o influir en l'opinió pública. (Per molts, les notícies falses són les mal anomenades fake news).
+
+Desinformació. Acció o estratègia que consisteix en la difusió intencionada d'informació falsa o enganyosa, descontextualitzada o parcial, per tal de confondre, persuadir i manipular les persones. A diferència de la informació errònia, que pot ser incorrecta però no intencional, la desinformació és deliberada i cerca influir en les opinions, creences o comportaments de la ciutadania. En anglès, disinformation.
+
+Misinformation. Informació falsa, errònia o inexacta emesa sense intenció d'enganyar o manipular. Sol ser fruit d'errors, negligències o biaixos inconscients. A diferència del que passa amb la disinformation (que sí que implica l'emissió d'un contingut fals de forma intencionada), la misinformation fa referència a la difusió accidental d’informació no verídica.
+
+Malinformation. Ús d’informació verídica o basada parcialment en la realitat per causar dany a una persona, col·lectiu, organització, institució o país. Inclou l’ús polític d’informació sensible, la revelació d’informació personal o confidencial o la publicació d’informació compromesa obtinguda mitjançant mètodes fraudulents. Encara que la malinformation es basa en informació veritable, aquesta pot resultar incompleta, desactualitzada o haver patit algun tipus de manipulació per tal de produir descrèdit, perjudici o menyscapte.
+
+Glossari: termes clau per entendre la desinformació
+
+Verificació (fact-cheking). Acció destinada a la comprovació de l'autenticitat de dades o afirmacions, les fonts de què procedeixen i la identitat dels seus emissors. És una eina crucial per combatre la desinformació.
+
+Debunking (Desemmascarar/desacreditar). Acció de demostrar la falsedat o la inexactitud d'un contingut presumiblement desinformatiu utilitzant estratègies i tècniques de verificació. Els qui realitzen el procés de debunking són verificadors o fact-checkers (debunkers), que etiqueten el contingut com a fals, enganyós, veritable a mitges, etc.
+
+Prebunking. Es pot traduir com a "predesemmascarament". Conjunt de mesures preventives, orientades a immunitzar o alertar anticipadament la ciutadania davant de missatges falsos. És una pràctica usada principalment per agències de verificació i organitzacions que promouen l’alfabetització mediàtica.
+
+Alfabetització mediàtica. És la facultat de consultar i avaluar críticament continguts en mitjans de comunicació, així com de crear contingut digital. Aquesta competència implica entendre com funcionen els mitjans i desenvolupar habilitats crítiques per interpretar la informació que publiquen. S'aplica a entorns mediàtics tant digitals com a analògics.
+
+Manipulació informativa; FIMI. La manipulació informativa inclou una sèrie de pràctiques per distorsionar i alterar el procés comunicatiu amb l'objectiu d'influir i alterar l'opinió pública. FIMI (Foreign Information Manipulation and Interference) descriu un patró de comportament, majoritàriament no il·legal, però sí de caràcter manipulador i dut a terme de manera intencional, que busca amenaçar o generar un impacte negatiu en els valors democràtics i processos polítics.
+
+Bot i granja de bots. Abreviatura de robot. És un programa de programari dissenyat per fer tasques automatitzades a internet, sense intervenció humana. Els bots tenen la capacitat d’interactuar amb usuaris en temps real, manejar gran quantitat de volums de dades i adaptar-se a diferents entorns. El seu mal ús genera desinformació, manipulació de l'opinió pública, suplantació de la identitat, atacs coordinats a individus, organitzacions i col·lectius i manipulació de resultats de cerques de tendències. Una granja de bots fa referència a l'organització massificada de bots, coordinats per a la creació massiva i difusió de missatges falsos en xarxes socials, a partir de continguts desinformatius, abusius i violents
+
+Trol. Persona amb identitat real oculta que publica missatges provocadors o nocius de manera intencionada amb un objectiu ideològic concret: generar desinformació, boicotejar o entorpir la conversa, ocasionar mal, etc. Les seves accions són conegudes amb el terme 'trolejar'. Moltes vegades actuen de forma coordinada en allò que es coneix com a granges de trols.
+
+Deepfake. Tècnica d'intel·ligència artificial que permet manipular o generar contingut audiovisual fals, com ara imatges, vídeos o àudios, de manera molt realista. Aquests continguts es creen a partir de dades d'entrenament d'aprenentatge profund (deep learning), cosa que permet reemplaçar el rostre o la veu d'una persona per la d'una altra i fins i tot generar una persona que no existeix. Els deepfakes han estat utilitzats per crear contingut enganyós, com ara vídeos de polítics dient o fent coses que mai no van passar.
+
+Cambra d'eco. Entorn on es comparteixen de manera recurrent creences, idees o dades alineades, propiciant així la seva amplificació i reforç. La informació, sigui veritable o falsa, circula i es redifon sense ser qüestionada pels membres del grup, ni contrastada amb perspectives externes, cosa que crea una realitat distorsionada i polaritzada.
+
+Llum de gas (gaslighting). Estratègia d'abús i manipulació que busca que l'altra persona qüestioni la percepció pròpia de la realitat. El terme té el seu origen a l'obra de teatre del mateix nom de Patrick Hamilton, estrenada el 1938, on un home maltracta la seva dona fent petits canvis a la llar, com el nivell de la llum de gas, perquè ella comenci a dubtar del seu seny. Actualment es fa servir per referir-se a l'estratègia de mentir reiteradament algú per tal de manipular-lo i controlar-lo.
+
+Polarització. La polarització és la divisió creixent de la societat en grups amb idees, opinions o interessos oposats, cosa que pot dificultar el consens i augmentar el conflicte social. Igualment, és un recurs de comunicació utilitzat per grups d'interès (ex. grups polítics) per atraure usuaris mitjançant l'explotació de plataformes digitals i l'ús de discursos, que poden incloure discursos d'odi i continguts desinformatius.
+
+Pseudomitjà. Publicació, normalment digital, que emula els mitjans periodístics en la seva estructura i format i que es caracteritza per incomplir els principis ètics i estàndards professionals del periodisme. Els pseudomitjans inciten a la polarització, l'activisme ideològic, el foment de teories conspiratives i una tendència generalitzada a la difusió de continguts falsos, no contrastats i extremadament esbiaixats o partidistes.
+
+Discurs d'odi. Qualsevol forma d'expressió que ataca o utilitza un llenguatge hostil, incívic, amenaçador, ofensiu, discriminatori o de violència expressa, en referència a un grup o a una persona en funció de la seva ètnia, nacionalitat, raça, gènere, ascendència, religió, vulnerabilitat o altres formes d'identitat com la ideologia política, l'idioma, l'origen econòmic o social, la discapacitat, l'estat de salut o orientació sexual, entre altres. En aquest article expliquem més sobre els discursos d'odi i com combatre'ls.
+
+TTP; marcs DESARM. Les sigles TTP fan referència a les tàctiques, tècniques i procediments utilitzades en un context de manipulació informativa. La seva anàlisi permet descriure els patrons de comportament d‟un actor d’amenaça i planificar estratègies de resposta i reacció. Les TTP es recullen als marcs DISARM (Detecting and Responding to Manipulated Media), dos catàlegs de codi obert: el Red Framework, dissenyat per descriure TTP en l'àmbit de la desinformació; i el Blue Framework, que centra les respostes suggerides davant d'aquestes.
+
+Amenaces híbrides i estratègia híbrida. Accions coordinades i sincronitzades per assolir els objectius estratègics d’actors estatals o no estatals. De manera deliberada, busquen soscavar, desestabilitzar i perjudicar l'adversari, així com explotar les vulnerabilitats sistèmiques dels Estats. Per això utilitzen i combinen una àmplia gamma de mitjans (des d'atacs cibernètics, campanyes de manipulació de la informació, maniobres polítiques encobertes i tàctiques militars, entre d'altres) i pretenen influir en la presa de decisions a nivell local, estatal o institucional. De vegades, s'utilitzen de forma indistinta els termes 'amenaces' i 'estratègies' híbrides, però no són el mateix: les primeres són accions que es poden materialitzar en el futur, mentre que les segones sí que acaben materialitzant-se per aconseguir un fi.
+
+Influència - ingerència estrangera. La ingerència estrangera, sovint realitzada com a part d'una estratègia híbrida més àmplia, es pot entendre com els esforços coercitius, encoberts i enganyosos per pertorbar la lliure formació i la manifestació de la voluntat o opinió de les persones per part d'un actor estatal estranger o dels seus agents, normalment amb objectius polítics. Per contra, les activitats d'influència estrangera es duen a terme de manera oberta i transparent, són un aspecte normal de les relacions internacionals i de la diplomàcia i contribueixen positivament al debat públic.
+
+Si vols conèixer més sobre el fenomen de la desinformació i el treball d'Espanya i altres països per combatre-la, aquí et deixem més lectures interessants per continuar aprofundint.
+
+Fòrum contra les campanyes de desinformació a l'àmbit de la Seguretat Nacional | Lloc oficial del Departament de Seguretat Nacional
+
+Protegir la democràcia europea de les interferències i la manipulació: Pla d'Acció per a la Democràcia Europea
+
+Pla d'Acció per la Democràcia
+
+Codi de bones pràctiques en matèria de desinformació (2022) | Configurar el futur digital d'Europa
+
+The Code of Conduct on Disinformation | Shaping Europe's digital future
+
+Els centres de lluita contra la desinformació de la UE s'estenen ara a tots els països de la UE | Configurar el futur digital d'Europa
+
+Portugal and Spain, the EU countries most concerned about disinformation, according to the Digital News Report 2025 | Iberifier
+
+Observatori Europeu dels Mitjans Digitals - EDMO | Configurar el futur digital d'Europa
+
+EDMO Hubs - EDMO
+
+Enquesta sobre la joventut 2024 - febrer de 2025 - Enquesta de l'Eurobaròmetre
+
+DISARM Foundation
+
+Notícies falses (fake news) | Ciutadania | INCEB

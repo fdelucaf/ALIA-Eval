@@ -1,0 +1,83 @@
+Avisos meteorològics AEMET: conèixer-los per prevenir i evitar danys
+
+Actuar a temps en una situació de risc pot minimitzar les conseqüències d'un fenomen meteorològic potencialment advers i fins i tot salvar vides. Però saps interpretar correctament un avís de l'AEMET? I la diferència entre un avís i una alerta meteorològica? En aquest article t’expliquem com fer-ho.
+
+Què són els avisos meteorològics?
+
+En primer lloc, convé definir què s'entén per fenomen meteorològic advers (FMA). Segons la definició de l'Agència Estatal de Meteorologia (AEMET), el concepte fa referència a tot esdeveniment meteorològic capaç de produir, directament o indirectament, danys a les persones i els béns i que, per tant, pot produir impactes.
+
+S'anomena avís a la predicció associada a la probabilitat que es produeixi un fenomen meteorològic advers (pluges, nevades, vents, tempestes, temperatures màximes i mínimes, fenòmens costaners, etc.) en una zona determinada.
+
+L'AEMET és l'agència responsable de l'observació i l'elaboració de prediccions meteorològiques a Espanya. I, per tant, de l'elaboració d'aquests avisos, que es divideixen en tres nivells en funció de la perillositat, seguint els estàndards europeus. Cadascú porta associada una recomanació.
+
+Quins tipus d'avisos meteorològics hi ha?
+
+Avís groc: indica que el perill és baix. Es recomana atendre la predicció meteorològica i seguir les actualitzacions, especialment si es fan activitats a l'aire lliure.
+
+Avís taronja: indica que el perill és important. Els béns i la població vulnerables o en zones exposades podrien patir impactes greus. En aquestes situacions, l'AEMET recomana limitar activitats no essencials i prestar una atenció especial a les recomanacions de les autoritats locals.
+
+Avís vermell: indica que el perill és extraordinari. Els danys podrien ser molt greus o catastròfics. En aquests casos, és imprescindible informar-se en temps real, seguir les indicacions de les autoritats, evitar desplaçaments no urgents i extremar les precaucions.
+
+Aquests nivells bàsics d'avís es poden veure complementats per avisos especials. Això succeeix, per exemple, quan coincideixen diversos fenòmens meteorològics adversos o si aquests destaquen per la seva intensitat o durada, com ara onades de calor i fred o tempestes tropicals. En aquests casos, es demana a la població que faci una atenció molt especial a l'evolució meteorològica.
+
+Alertes de protecció civil
+
+L'AEMET alerta de la possible arribada d'aquests fenòmens meteorològics adversos amb fins a 72 hores d'antelació i la seva informació està, de manera automàtica i actualitzada, sempre a disposició de la ciutadania en general, però molt especialment de les autoritats competents en matèria d’emergència i protecció civil, dependents de les administracions autonòmiques. Aquestes són les encarregades d'avaluar el perill i les possibles afeccions dels avisos sobre la població i l'entorn, així com enviar les alertes i adoptar les mesures de protecció més adequades en cada cas.
+
+L’avaluació de l’anàlisi del risc d’un avís s’ha d’adaptar a múltiples factors: territorials, urbanístics, orogràfics, etc. Per això, són les administracions autonòmiques les competents, per la proximitat i el coneixement del territori. Per exemple, una nevada o una tempesta no representa el mateix risc a una zona d'alta muntanya o al centre d'una àrea metropolitana, encara que l'avís meteorològic sigui el mateix. Per tant, les mesures adoptades per protecció civil seran diferents.
+
+Quines competències té cada administració?
+
+En línies generals, correspon a l'Estat, a través de la AEMET (adscrita al Ministeri per a la Transició Ecològica i el Repte Demogràfic a través de la Secretaria d'Estat de Medi Ambient), avisar sobre l'arribada de possibles fenòmens meteorològics adversos.
+
+Per la seva banda, és competència de les comunitats autònomes, mitjançant les autoritats de protecció civil, alertar la població en casos d'inundacions, incendis o catàstrofes. Així mateix, són les responsables d'elaborar plans territorials d'emergència i d'activar els protocols quan passa una crisi.
+
+A incendis forestals, també correspon a les autonomies la prevenció, planificació i extinció del foc, encara que l'Estat pot donar suport a situacions crítiques.
+
+En el cas d’inundacions o danes, les comunitats autònomes elaboren plans d'acció territorial i de protecció civil, mentre que l'Estat s'encarrega de la gestió dels grans rius intercomunitaris a través de les confederacions hidrogràfiques, adscrites al Ministeri per a la Transició Ecològica i el Repte Demogràfic, que informen en temps real les autoritats autonòmiques per anticipar inundacions. En el cas de conques intracomunitàries, la competència és de les comunitats autònomes i, en trams urbans, dels ajuntaments.
+
+Com arriba un avís a la ciutadania? El sistema ES-Alert
+
+L'any 2022, la Unió Europea va establir una normativa que exigeix a tots els països membres implementar un sistema d'alertes basat en xarxes mòbils. A Espanya es va establir el 2023 el sistema ES-Alert, que envia notificacions a tots els dispositius mòbils en àrees de risc per alertar la ciutadania en cas d'emergència.
+
+Les alertes es transmeten a través de les antenes de xarxa i apareixen com a notificacions destacades a la pantalla del mòbil. En el cas espanyol, ES-Alert arriba a més del 90% de la població gràcies a l'ús de les xarxes 4G i 5G.
+
+Hi ha tres nivells d'alertes de protecció civil:
+
+Nivell 1: aquestes alertes són automàtiques i estan activades per defecte a tots els dispositius compatibles, per la qual cosa no requereixen configuració de l'usuari ni poden ser desactivades.
+
+Nivell 2: aquestes alertes sí que requereixen activació manual. Segons el Ministeri de l'Interior, aquest nivell actualment no s'utilitza a Espanya.
+
+Nivell 3: s'utilitzen en casos excepcionals com el segrest de menors, alertes de salut pública o incidents de seguretat pública. A Espanya tampoc no s'utilitzen.
+
+Les alertes que afecten Espanya són únicament les de nivell 1. Estan activades per defecte als dispositius mòbils, però es recomana mantenir-los actualitzats segons la darrera versió.
+
+Informar-se a través de fonts oficials
+
+Tan important és saber interpretar avisos i alertes meteorològiques com on informar-se. Sempre s'ha de fer a través de fonts i canals oficials.
+
+Als següents enllaços es recullen alguns dels principals:
+
+Web i xarxes socials d'AEMET
+
+- Agència Estatal de Meteorologia - AEMETGovern d'Espanya
+
+- AEMET a X - Agència Estatal de Meteorologia - AEMET.Govern d'Espanya
+
+- AEMET a Instagram - Agència Estatal de Meteorologia - AEMET.Govern d'Espanya
+
+- AEMET a Facebook - Agència Estatal de Meteorologia - AEMET.Govern d'Espanya
+
+Web i xarxes socials del Ministeri per a la Transició Ecològica i el Repte Demogràfic
+
+- Ministeri per a la Transició Ecològica i el Repte Demogràfic
+
+- Ministeri a X
+
+- Ministeri a Instagram
+
+- Ministeri a Facebook
+
+Web i xarxes socials dels serveis de protecció civil de les comunitats autònomes
+
+- Protecció Civil a les CC.AA. - DGPCyE

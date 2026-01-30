@@ -1,0 +1,39 @@
+Telefono eta SMS bidezko iruzurrak: iruzurraren aurkako babesa
+
+Eraldaketa Digitalak telefono-iruzurrei aurre egiteko plan bat jarri du abian, eta, besteak beste, telefono-zenbaki batetik egiten diren deiak debekatzea eta zenbaki horien jatorria ezkutatzeko zenbakiak manipulatzen dituzten deiak blokeatzea.
+
+Eraldaketa Digitalerako eta Funtzio Publikoko Ministerioak otsailaren 12an onartu zuen ministerioaren agindu bat, telefono eta SMS bidezko iruzurrak desagerrarazteko neurri-sorta batekin. Plan horri esker, erabiltzaileek deiak eta mezu komertzialak identifikatu ahal izango dituzte, iruzurren biktima ez izateko.
+
+Zer da identitatea ordezteko iruzurra?
+
+Identitatea ordezteko telefono-iruzurrak dei edo testu-mezu batekin hasten dira: igorleak konfiantzazko erakunde baten identitatea ordezten du (adibidez, banku-erakunde gisa edo administrazio publikoko organismo edo enpresa gisa aurkezten da, DGT adibidez), iruzur egiteko asmo argiarekin, eta kontsumitzailea engainatzen du informazio pertsonal edo finantzarioren bat eman dezan.
+
+Hala, dei (“vishing”) edo mezu (“smishing”) horietan, besteak beste, gako pertsonalak emateko, webgune batera sartzeko edo telefono-zenbaki batera deitzeko, transferentzia bat egiteko edo zerbitzu bat kontratatzeko eskatzen zaio herritarrari.
+
+Zer eragin dute iruzur horiek?
+
+Iruzur mota honek kalte finantzario eta ekonomiko handiak eragiten dizkie gizarteko sektore guztiei, batez ere kontsumitzaileei, enpresei eta erakunde publikoei. Gainera, gutxitu egiten dute herritarrek komunikazio elektronikoetan duten konfiantza, eta kalte egiten diete publikoarekin komunikatzeko bide gisa deiak eta testu-mezuak zilegi erabiltzen dituzten enpresa eta erakundeei.
+
+Espainiako Bankuak, Espainiako Barne Ministerioak edo Zibersegurtasun Institutu Nazionalak (INCIBE) emaniko datuen arabera, iruzur horiek areagotu egin dira azken urteetan. Europako herrialde batzuek, Finlandiak kasu, Plan berrian jasotako neurrien antzekoak jarri dituzte martxan, eta oso eraginkorrak izan dira; izan ere, ia % 90 murriztu dira identitatea ordezteagatiko iruzurrak.
+
+Zer helburu ditu plan honek?
+
+Dei eta SMS bidezko iruzurren aurkako neurri sorta honen helburua da kontsumitzaileen eta enpresen babesa handitzea iruzur mota hauen bidez gero eta iruzur gehiago egiten baitira. Xede horrek Telekomunikazioen Lege Orokorraren 3. artikulua betetzen du, hau da, erabiltzaileen interesak defendatzea, kontsumitzaileek komunikazio elektronikoetan duten konfiantza berrezarriz.
+
+Hala, planak irtenbideak ematen ditu deitzen duen linea-identifikatzailea edo SMSen zenbakizko identifikatzaile alfanumerikoa manipulatzen duten komunikazioek aurrera egin ez dezaten, eta bezeroentzako arreta-zerbitzuak eta dei komertzialak behar bezala identifikatzeko neurriak ezartzen ditu.
+
+Zer neurri ditu?
+
+Zenbakien blokeoa ez da esleitua: telefonia-operadoreek deiak eta SMSak blokeatu beharko dituzte inongo zerbitzuri esleitu ez zaizkion zenbakiekin, operadoreei esleitu ez zaizkienekin edo inongo bezerori esleitu ez zaizkienekin, hala nola 3 edo 4rekin hasten direnekin.
+
+Nazioarteko dei nazionalak blokeatzea: atzerritik egindako deietan eta SMSetan ezingo da zenbaki espainiar faltsurik erabili, “roaming” edo desplazamendu-erregimeneko bezeroen kasuan izan ezik.
+
+Mezuetako kode alfanumerikoetarako datu-base bat sortzea: kode alfanumerikoen erregistro bat sortuko da, eta Merkatuen eta Lehiaren Batzorde Nazionalak kudeatuko du, baimenik ez duten aktoreek ez ditzaten ordeztu entitate legitimoak, hala nola bankuak edo administrazioak.
+
+Bezeroei arreta emateko zerbitzuetarako eta eskatu gabeko dei komertzialetarako mugikorrak debekatzea: enpresek ezingo dituzte erabili telemarketinerako zenbaki mugikorrak. Zenbaki geografikoak edo 800/900 zenbakiak erabili beharko dituzte, orain deiak egiteko gaituta daudenak.
+
+Noiz jarriko da indarrean plana?
+
+Inongo zerbitzuri egotzi ez zaizkion zenbakien blokeoa agindua BOEn argitaratu eta 20 egunera jarri da indarrean; hau da, martxoaren 7an. Hala ere, bai nazioarteko deien eta SMSen blokeoa, bai zenbaki mugikorretatik eskatu gabeko dei komertzialen debekua maiatzaren 15ean jarriko dira indarrean.
+
+Bestalde, 2026ko maiatzaren 15etik aurrera, kode alfanumerikoen erregistroa eta nazioarteko SMSen blokeoa jarriko dira martxan.

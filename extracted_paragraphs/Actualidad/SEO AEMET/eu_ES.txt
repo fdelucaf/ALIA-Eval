@@ -1,0 +1,83 @@
+AEMETen abisu meteorologikoak: ezagutu kalteak prebenitzeko eta saihesteko
+
+Arrisku-egoera batean garaiz jokatzeak kalte egin dezakeen fenomeno meteorologiko baten ondorioak minimiza ditzake, baita bizitzak salba ditzake ere. Baina, ba al dakizu zuzen interpretatzen AEMETen ohar bat? Eta abisu baten eta alerta meteorologiko baten arteko aldea? Artikulu honetan azaltzen dizugu nola egin.
+
+Zer dira abisu meteorologikoak?
+
+Lehenik eta behin, komeni da zehaztea zer den muturreko fenomeno meteorologikoa (FMA). Meteorologiako Estatu Agentziaren (AEMET) definizioaren arabera, pertsonei eta ondasunei zuzenean edo zeharka kalteak eragin diezazkiekeen eta, beraz, inpaktuak eragin ditzakeen gertaera meteorologiko orori egiten dio erreferentzia kontzeptuak.
+
+Abisua esaten zaio muturreko fenomeno meteorologikoa gertatzeko probabilitateari (euriteak, elurteak, haizeteak, ekaitzak, tenperatura maximoak eta minimoak, kostaldeko fenomenoak, etab.) lotutako iragarpenari eremu jakin batean.
+
+AEMET Espainiako meteorologia-iragarpenak behatzeko eta egiteko agentzia arduraduna da. Eta, beraz, ohar horiek egitetik, zeinak hiru mailatan banatzen baitira arriskuaren arabera, Europako estandarrei jarraituz. Haietako bakoitzak gomendio bat du.
+
+Zer abisu meteorologiko mota daude?
+
+Abisu horia: arriskua txikia dela adierazten du. Eguraldiaren iragarpenari kasu egitea eta eguneraketak jarraitzea gomendatzen da, batez ere aire zabalean jarduerak egiten badira.
+
+Abisu laranja: arriskua handia dela adierazten du. Ondasun eta populazio ahulek edo arriskupeko zonetan inpaktu larriak izan ditzakete. Egoera horietan, funtsezkoak ez diren jarduerak mugatzea gomendatzen du AEMETek, eta tokiko agintarien gomendioei arreta berezia jartzea.
+
+Abisu gorria: arriskua apartekoa dela adierazten du. Kalteak oso larriak edo katastrofikoak izan daitezke. Kasu horietan, ezinbestekoa da informazioa denbora errealean jasotzea, agintariek esandakoari jarraitzea, premiazkoak ez diren joan-etorriak saihestea eta kontu handiz ibiltzea.
+
+Oinarrizko abisu-maila horiek ohar bereziekin osa daitezke. Hori gertatzen da, adibidez, aurkako zenbait fenomeno meteorologiko daudenean, edo fenomeno horiek intentsitateagatik edo iraupenagatik nabarmentzen direnean, hala nola bero- eta hotz-boladetan edo ekaitz tropikaletan. Kasu horietan, eboluzio meteorologikoari arreta berezia jartzeko eskatzen zaie herritarrei.
+
+Babes zibileko alertak
+
+AEMETek 72 orduko aurrerapenarekin ohartarazten du muturreko fenomeno meteorologiko horiek etor daitezkeela, eta informazioa automatikoki eta eguneratuta ematen du, beti herritarren esku, baina, bereziki, larrialdietan eta babes zibilean eskumena duten agintarien esku, administrazio autonomikoen mende baitaude. Haiek arduratzen dira biztanleei eta inguruneari buruzko abisuen arriskua eta eragin posibleak ebaluatzeaz, alertak bidaltzeaz eta kasu bakoitzean egokienak diren babes-neurriak hartzeaz.
+
+Ohar baten arriskuaren analisiaren ebaluazioa hainbat faktoretara egokitu behar da: lurraldekoak, hirigintzakoak, orografikoak, etab. Hori dela eta, administrazio autonomikoak dira eskudunak, lurraldearekiko duten gertutasunagatik eta ezagutzagatik. Adibidez, elurte edo ekaitz batek ez du arrisku bera goi-mendiko eremu batean edo metropoli-eremu baten erdian, nahiz eta abisu meteorologikoa berdina izan. Ondorioz, babes zibilagatik hartutako neurriak desberdinak izango dira.
+
+Zein eskumen ditu administrazio bakoitzak?
+
+Oro har, Estatuari dagokio, AEMETen bidez (Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioari atxikia, Ingurumeneko Estatu Idazkaritzaren bidez), gerta daitezkeen muturreko fenomeno meteorologikoen berri ematea.
+
+Bestalde, autonomia-erkidegoen eskumena da, babes zibileko agintaritzen bidez, uholde-, sute- edo hondamendi-kasuetan biztanleak ohartaraztea. Era berean, larrialdietarako lurralde-planak egiteko ardura dute, baita krisi bat gertatzen denean protokoloak aktibatzeko ardura ere.
+
+Baso-suteetan, autonomiei dagokie suari aurrea hartzea, planifikatzea eta itzaltzea, baina Estatuak babes dezake egoera kritikoetan.
+
+Uholdeen edo danen kasuan, autonomia-erkidegoek lurraldeko eta babes zibileko ekintza-planak egiten dituzte; Estatua, berriz, erkidego arteko ibai handien kudeaketaz arduratzen da, konfederazio hidrografikoen bidez. Konfederazio horiek Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioari atxikita daude, eta denbora errealean ematen diete autonomia-erkidegoetako agintariei uholdeei aurrea hartzeko informazioa. Erkidego barruko arroen kasuan, eskumena autonomia-erkidegoena da, eta, hiri-barruko tarteetan, udalena.
+
+Nola iristen zaie abisua herritarrei? ES-Alert sistema
+
+2022an, Europar Batasunak araudi bat ezarri zuen, eta herrialde kide guztiei sare mugikorretan oinarritutako alerta-sistema bat ezartzea eskatzen die. Espainian 2023an ezarri zen ES-Alert sistema, gailu mugikor guztietara jakinarazpenak bidaltzen dituena arrisku-eremuetan, larrialdietan herritarrak ohartarazteko.
+
+Alertak sare-antenen bidez transmititzen dira, eta mugikorraren pantailan jakinarazpen nabarmen gisa agertzen dira. Espainiaren kasuan, ES-Alert 4G eta 5G sareen erabilerari esker iristen da herritarren % 90era.
+
+Babes zibileko hiru alerta-maila daude:
+
+1. maila: alerta hauek automatikoak dira eta gailu bateragarri guztietan lehenespenez aktibatuta daude; beraz, ez dute erabiltzailearen konfiguraziorik behar eta ezin dira desaktibatu.
+
+2. maila: alerta horiek eskuz aktibatu behar dira. Barne Ministerioaren arabera, maila hori ez da erabiltzen gaur egun Espainian.
+
+3. maila: kasu berezietan erabiltzen dira, hala nola adingabeen bahiketan, osasun publikoko alertetan edo segurtasun publikoko gorabeheretan. Espainian ere ez dira erabiltzen.
+
+Espainiari eragiten dioten alertak 1. mailakoak dira soilik. Gailu mugikorretan lehenespenez aktibatuta daude, baina azken bertsioaren arabera eguneratuta edukitzea gomendatzen da.
+
+Iturri ofizialen bidez informatzea
+
+Abisu eta alerta meteorologikoak interpretatzen jakitea bezain garrantzitsua da non informatu jakitea. Iturri eta kanal ofizialen bidez egin behar da beti.
+
+Hurrengo esteketan agertzen dira nagusietako batzuk:
+
+AEMETen webgunea eta sare sozialak
+
+- Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+
+- AEMET X-n - Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+
+- AEMET Instagram-en - Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+
+- AEMET Facebook-en - Meteorologiako Estatu Agentzia - AEMET. Espainiako Gobernua
+
+Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioaren webgunea eta sare sozialak
+
+- Trantsizio Ekologikorako eta Erronka Demografikorako Ministerioa
+
+- Ministerioa X-n
+
+- Ministerioa Instagram-en
+
+- Ministerioa Facebook-en
+
+Autonomia-erkidegoetako babes zibileko zerbitzuen webgunea eta sare sozialak
+
+- Babes Zibila autonomia-erkidegoetan - Babes Zibileko eta Larrialdietako Zuzendaritza Nagusia

@@ -1,0 +1,87 @@
+Balisa V16 connectada: què és, per a què servix i quan serà obligatòria?
+
+La balisa V16 Connectada és un dispositiu homologat per a senyalitzar avaries i accidents en la carretera que serà d'ús obligatori i substituirà als triangles a partir de l'1 de gener de 2026.
+
+El Consell de Ministres, a la seuareunió del 16 de març de 2021, va aprovar un Reial Decret per a regular els servicis d'auxili en vies públiques que incloïa, com a principal novetat, la substitució dels dos triangles que es col·loquen davant i darrere del vehicle immobilitzat després d'una avaria o accident per un dispositiu lluminós que se situa a la part més alta del vehicle. La norma va establir la seua obligatorietat a partir de l'1 de gener de 2026.
+
+El Butlletí Oficial de l'Estat va publicar el 20 de desembre de 2022 un nou Reial Decret que modifica i completa eixa normativa, fonamentalment, pel que fa a aspectes tècnics, de certificació i de connectivitat dels dispositius (balises).
+
+Els conductors han pogut utilitzar fins ara tant els triangles com les balises amb o sense connexió. No obstant això, a partir de l'1 de gener de 2026 només seran legals els dispositius V16 connectats a la plataforma DGT 3.0.
+
+Què és la balisa V16 Connectada?
+
+És una xicoteta balisa de color groc que està dotada de connectivitat i és capaç d'emetre una llum 360º d'alta intensitat de forma intermitent i contínua almenys durant 30 minuts. Incorpora una pila o bateria amb una vida útil d'un mínim de 18 mesos, al marge de si és recarregable o no.
+
+Quin és l’objectiu de la balisa V16?
+
+Evitar que els conductors hagen de baixar dels seus vehicles quan tenen alguna avaria per a col·locar els triangles, transitant per la calçada o el voral. Cada any moren a Espanya al voltant de 25 persones atropellades mentre intenten col·locar els triangles.
+
+Augmentar la protecció dels conductors i els ocupants, perquè la connectivitat permet la visibilitat lluminosa dels vehicles avariats i la visibilitat virtual, atés que la resta de conductors que circulen per la zona reben un avís a través de navegadors, aplicacions de mobilitat i panells de missatge variable, que hi ha un vehicle parat a la calçada.
+
+Quins vehicles estan obligats a portar-la?
+
+Els turismes, furgonetes, autobusos, vehicles mixtos adaptables, camions i conjunts de vehicles no especials l'han de portar obligatòriament. En el cas de les motocicletes, no és obligatori però és aconsellable per motius de seguretat.
+
+La balisa s'ha de guardar carregada a la guantera o en un altre lloc accessible dins de vehicle.
+
+Com es col·loca la balisa V16 Connectada?
+
+Després d'immobilitzar el vehicle en la carretera o en el voral, el conductor ha d'encendre la balisa i col·locar-la des de l'interior en el sostre del cotxe i, si no fora possible, com és el cas dels autobusos i camions, pot situar-la a la seua porta. També cal activar els llums d’emergència del vehicle.
+
+La balisa V16 sol incloure un imant potent que permet adherir-se a superfícies metàl·liques. Si el vehicle té una carrosseria d'alumini o un sostre de vidre, és possible que no s'adherisca amb la mateixa força que en les superfícies d'acer.
+
+Què ha de fer el conductor després d'activar la balisa?
+
+Una vegada immobilitzat el vehicle i activada la balisa, el conductor i els ocupants hauran de valorar si és possible abandonar o no el cotxe en condicions de seguretat.
+
+El Reglament General de Circulació establix com a norma general que hauran d'abandonar el vehicle sempre que existisca un lloc segur fora de la plataforma de circulació. Hauran d'eixir del cotxe pel costat contrari al flux de trànsit sense transitar o romandre als carrils o vorals que conformen la plataforma. Si les condicions de circulació no permeteren als ocupants abandonar el vehicle amb seguretat, romandran dins amb el cinturó cordat.
+
+Com funciona la balisa V16 Connectada? Necessite una app o un mòbil?
+
+Després d'activar-la, la balisa emet un senyal lluminós i transmet de forma automàtica la ubicació exacta del vehicle avariat a la plataforma DGT 3.0.
+
+El dispositiu inclou al seu interior un xip GPS i una targeta SIM no extraïble que s'encarreguen de fer la connexió. Només cal encendre'l. No cal utilitzar el telèfon mòbil ni cap aplicació.
+
+Les companyies telefòniques no cobraran als particulars cap quantia pel servici de connectivitat, ja que la legislació marca una disponibilitat de connectivitat mínima de 12 anys, el cost de les quals està contemplat en el preu de venda del dispositiu V16.
+
+Quina font d’alimentació utilitza i quant dura la bateria?
+
+La balisa V16 funciona gràcies a una font d’alimentació interna que varia en funció del model. Alguns dispositius porten piles alcalines no recarregables i altres bateries de liti recarregables per USB. En tots els casos han de garantir un mínim de 30 minuts de funcionament continu després de l'activació. Així mateix, han de tindre una autonomia mínima, en repòs, de 18 mesos.
+
+A quina distància es veu la balisa connectada?
+
+En condicions òptimes, la balisa es veu des d'una distància de 1.000 metres. Com que la balisa està connectada als centres de gestió de Trànsit, estos difondran a la resta de vehicles que circulen per la zona informació de l'accident o avaria a través dels navegadors, les aplicacions de mobilitat o els ordinadors de bord. Els conductors de cotxes antics que no compten amb este tipus de tecnologia podran informar-se a través dels panells de missatge variable que estan a les carreteres.
+
+Si l'accident o l'avaria es produïx dins d'un túnel, el dispositiu enviarà el senyal a la DGT?
+
+Sí. La balisa V16 funciona fins i tot en condicions sense cobertura convencional gràcies a la connexió mitjançant xarxes de comunicació IoT especialitzades. En els casos on ni tan sols estes xarxes estiguen disponibles, la balisa continuarà funcionant com a senyal visual i emmagatzemarà les dades per a enviar-les quan es restablisca la connexió.
+
+Avisa la balisa als servicis d'emergència o a la grua?
+
+La V16 Connectada no és un sistema d'avís als servicis d'emergència ni a la grua. La seua funció és senyalitzar i transmetre la posició exacta del vehicle per a evitar sinistres vials. El conductor o els ocupants han de comunicar el seu incident al servici d'emergències si ho necessiten o al servici d'assistència de la companyia asseguradora.
+
+Transmet la V16 les meues dades personals?
+
+No. La balisa només funciona si l'usuari l'activa i no transmet les dades personals del conductor, no registra la velocitat ni pot identificar la matrícula del cotxe. No està associada a una persona, número de telèfon o matrícula. Els vehicles nous no vindran amb la balisa instal·lada. A més, no és necessari proporcionar cap tipus de dada ni donar d'alta el dispositiu. La DGT no sol·licita cap dada.
+
+Quin model de balisa V16 compre?
+
+Les balises han d'estar homologades i certificades per IDIADA o LCOE, que són els laboratoris tècnics autoritzats que ratifiquen que els models complixen la normativa. Al mercat hi ha més de dos-cents models de balises V16 connectades amb diversos preus. No totes les balises que s'anuncien com a connectades estan homologades, per la qual cosa es recomana consultar el llistat actualitzat de marques i models certificats que figura en la pàgina web de la DGT.
+
+Poden continuar usant-se les balises V16 no connectades?
+
+No. Els dispositius V16 no connectats no seran vàlids com a mitjà per a la senyalització de vehicles immobilitzats a partir de l'1 de gener de 2026, tal com indica la normativa.
+
+Puc continuar usant els triangles?
+
+No. La balisa V16 connectada és l'únic mitjà reconegut per a senyalitzar vehicles immobilitzats a partir de l'1 de gener del 2026.
+
+Sí que podran utilitzar els triangles aquells vehicles matriculats en altres països que circulen pel nostre país en qualitat de circulació internacional.
+
+Puc usar la V16 fora d'Espanya?
+
+La balisa és vàlida per als vehicles matriculats a Espanya que circulen pels països firmants i ratificants de la Convenció sobre la Circulació de Viena, el llistat de la qual inclou al voltant de 86 nacions de diferents continents.
+
+Quina és la sanció per no portar la balisa V16?
+
+La multa per no portar la balisa és de 80 euros, que és la mateixa quantitat establida per als conductors que no portaven els triangles de presenyalització.

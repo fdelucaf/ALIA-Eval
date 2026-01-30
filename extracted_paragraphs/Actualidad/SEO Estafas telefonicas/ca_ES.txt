@@ -1,0 +1,39 @@
+Estafes telefòniques i per SMS: protecció contra el frau
+
+Transformació Digital llança un pla per combatre les estafes telefòniques de suplantació d'identitat que inclou actuacions com la prohibició de trucades comercials des de números mòbils o el bloqueig de trucades que manipulen la seva numeració per amagar-ne l'origen.
+
+El Ministeri per a la Transformació Digital i de la Funció Pública va aprovar el 12 de febrer una ordre ministerial amb un paquet de mesures per eradicar els fraus per telèfon i SMS. Aquest pla permetrà als usuaris identificar les trucades i els missatges comercials per no ser víctimes d'estafes.
+
+Què és una estafa de suplantació d’identitat?
+
+Les estafes telefòniques de suplantació d'identitat solen començar amb una trucada o un missatge de text en què l'emissor suplanta la identitat d'una organització de confiança (per exemple, com una entitat bancària o com un organisme o empresa de l'Administració pública, per exemple la DGT) amb la clara intenció de defraudar, enganyant el consumidor perquè proporcioni algun tipus d'informació personal o financera.
+
+Així, en aquestes trucades ('vishing') o missatges ('smishing') se sol demanar al ciutadà, entre altres coses, que faciliti les seves claus personals, que accedeixi a una web o truqui a un número telefònic, que faci una transferència o que contracti un servei.
+
+Quin impacte tenen aquests fraus?
+
+Aquest tipus d'estafa causa danys financers i econòmics importants a tots els sectors de la societat, especialment a consumidors, empreses i organismes públics. A més, disminueixen la confiança de la ciutadania en les comunicacions electròniques, perjudicant aquelles empreses i organismes que fan un ús legítim de trucades i missatges de text com a canal de comunicació amb el públic.
+
+Segons dades del Banc d'Espanya, el Ministeri de l'Interior o l’Institut Nacional de Ciberseguretat (INCIBE), aquests fraus s'han incrementat en els darrers anys. Alguns països europeus, com ara Finlàndia, han posat en marxa mesures similars a les incloses al nou Pla amb una gran efectivitat, ja que s'han reduït les estafes per suplantació d'identitat en gairebé un 90%.
+
+Quins objectius té aquest pla?
+
+L'objectiu d'aquest paquet de mesures contra el frau en trucades i SMS és augmentar la protecció de consumidors i empreses davant del nombre creixent de fraus a través d'aquesta mena d'estafes. Aquest objectiu dona compliment a l'article 3 de la Llei General de Telecomunicacions, de defensar els interessos dels usuaris, restaurant la confiança dels consumidors en les comunicacions electròniques.
+
+Així, el pla adopta solucions per evitar que progressin les comunicacions que manipulen l'identificador de línia trucant o l'identificador numèric o alfanumèric dels SMS i estableix mesures per garantir la identificació correcta de serveis d'atenció a clients i trucades comercials.
+
+Amb quines mesures compta?
+
+Bloqueig de numeració no atribuïda: els operadors de telefonia hauran de bloquejar trucades i SMS amb números que no hagin estat atribuïts a cap servei, assignats a cap operador o adjudicats a cap client, com els que comencen per 3 o 4.
+
+Bloqueig de trucades nacionals amb origen internacional: s'impedirà l'ús de números espanyols falsificats en trucades i SMS des de l'estranger, a excepció de clients en règim de 'roaming' o itinerància.
+
+Creació d'una base de dades per a alfanumèrics en missatges: es crearà un registre de codis alfanumèrics que gestionarà la Comissió Nacional dels Mercats i de la Competència per evitar que actors no autoritzats suplantin entitats legítimes com ara bancs o administracions.
+
+Prohibició de mòbils per a serveis d'atenció al client i trucades comercials no sol·licitades: les empreses no podran fer servir números mòbils per a telemàrqueting. Hauran d'emprar numeració geogràfica o números 800/900, ara habilitats per emetre trucades.
+
+Quan entra en vigor el pla?
+
+El bloqueig de números no atribuïts a cap servei entra en vigor 20 dies després de la publicació de l'ordre al BOE, és a dir, el 7 de març. Tot i això, tant el bloqueig de trucades i SMS amb origen internacional, com la prohibició de les trucades comercials no sol·licitades des de números mòbils, entraran en vigor el 15 de maig.
+
+D'altra banda, a partir del 15 de maig del 2026 entrarà en funcionament el registre de codis alfanumèrics i el bloqueig de SMS d'origen internacional.

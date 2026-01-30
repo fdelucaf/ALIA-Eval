@@ -1,0 +1,77 @@
+Zertaz ari gara desinformazioaz ari garenean?
+
+2021etik aurrera, desinformazio-kanpainak segurtasun nazionalerako arriskutzat hartzen dira Espainian. Arrisku hori, murriztu beharrean, sendotuz joan da, eta azken urteotan garrantzia eta protagonismoa bereganatu ditu, maila globalean. Hain da horrela, ezen Davoseko Munduko Ekonomia Foroaren 2024ko txostenak lehen postuan kokatzen baitu desinformazioaren fenomenoa epe laburreko arrisku globalen rankingean.
+
+Zer da desinformazioa eta zer desberdintasun daude?
+
+Desinformazioa betidanik egon da, gizateriaren historian zehar. Baina testuinguru digitaletako desinformazioa nahiko fenomeno berria da, eta etengabe ari da bilakatzen. Hori dela eta, gero eta kontzeptu eta termino gehiago ditugu hari buruz hitz egiteko. Asko neologismoak eta erdarakadak dira, eta, batzuetan, gaizki erabili ohi dira gaztelaniara itzultzen ditugunean. Adibidez, ba al zenekien ingelesez hiru hitz ere erabiltzen direla desinformazioaz hitz egiteko: malinformation, misinformation eta disinformation? Jakingo zenuke haiek bereizten?
+
+Segurtasun Nazionalaren arloko desinformazio-kanpainen aurkako Foroa 2022an sortu zen, lankidetza publiko-pribatuko ekimen nazional gisa. 125 kontzeptu eta termino giltzarri identifikatu eta definitu ditu desinformazioaren fenomenoa ulertzeko, eta segurtasun nazionalean eta eremu digitalean inplikazioak ditu. Artikulu honetan, hogei ohiko bildu ditugu, desinformazio-kanpaina bat osatzen duten teknikak eta tresnak deskribatzeko erabilitakoak.
+
+Gezurra. Informazio faltsua edo engainagarria, nahita eta entzuleak manipulatzeko edo engainatzeko helburuarekin zabaltzen dena. Oinarririk gabeko zurrumurrua edo albistea da, sare sozialen eta hedabideen bidez azkar zabaltzen dena. Ez du hura babesten duen ebidentzia edo froga fidagarririk, eta nahasmena edo mesfidantza sortzeko edo iritzi publikoan eragina izateko erabiltzen da. (Askoren ustez, gezurrak oker deituriko fake news dira.)
+
+Desinformazioa. Informazio faltsua edo engainagarria, testuingurutik kanpo dagoena edo informazio partziala nahita zabaltzea, pertsonak nahastu, konbentzitu eta manipulatzeko. Informazio okerra ez bezala —okerra izan daiteke, baina ez nahitakoa—, desinformazioa deliberatua da, eta herritarren iritzi, uste edo jokabideetan eragitea bilatzen du. Ingelesez, disinformation.
+
+Misinformation-a. Engainatzeko edo manipulatzeko asmorik gabe emandako informazio faltsua, okerra edo zehaztugabea. Akats, arduragabekeria edo joera inkontzienteen ondorio izan ohi da. Disinformation-arekin ez bezala (eduki faltsu bat nahita igortzea esan nahi baitu), misinformation-ak informazio ez-egiazkoaren ustekabeko hedapenari egiten dio erreferentzia.
+
+Malinformation Egiazko informazioa edo errealitatean partzialki oinarritutako informazioa erabiltzea, pertsona, kolektibo, erakunde, instituzio edo herrialde bati kalte egiteko. Informazio sentikorraren erabilera politikoa, informazio pertsonala edo konfidentziala ezagutaraztea edo iruzurrezko metodoen bidez lortutako informazio konprometitua argitaratzea barne hartzen ditu. Malinformation-a benetako informazioan oinarritzen bada ere, informazio hori osatu gabea, eguneratu gabea edo manipulazioren bat jasan duena izan daiteke, izen ona galarazteko edo kaltea eragiteko.
+
+Glosarioa: desinformazioa ulertzeko funtsezko terminoak
+
+Egiaztapena (fact-cheking). Datu edo baieztapenen egiazkotasuna, jatorria eta jaulkitzaileen identitatea egiaztatzeko ekintza. Desinformazioari aurre egiteko ezinbesteko tresna da.
+
+Debunking-a (ezagutaraztea/izena galaraztea). Ustez desinformaziozkoa den eduki baten faltsutasuna edo zehaztasunik eza frogatzea, egiaztatze-estrategiak eta -teknikak erabiliz. Debunking prozesua egiten dutenak egiaztatzaileak edo fact-checker-ak (debunker-ak) dira, eta edukia faltsu, engainagarri, erdizka egiazko eta abar gisa etiketatzen dute.
+
+Prebunking-a. "Ezagutarazteari aurrea hartzea" gisa itzul daiteke. Herritarrak mezu faltsuen aurrean immunizatzeko edo aldez aurretik ohartarazteko prebentzio-neurrien multzoa. Praktika hori nagusiki egiaztatze-agentziek eta alfabetatze mediatikoa sustatzen duten erakundeek erabiltzen dute.
+
+Alfabetatze mediatikoa. Komunikabideetan edukiak kontsultatzeko eta kritikoki ebaluatzeko ahalmena da, bai eta eduki digitala sortzekoa ere. Gaitasun horrek eskatzen du komunikabideek nola funtzionatzen duten ulertzea eta argitaratzen duten informazioa interpretatzeko trebetasun kritikoak garatzea. Ingurune mediatikoetan aplikatzen da, bai digitaletan, bai analogikoetan.
+
+Informazioaren manipulazioa; FIMI. Informazioaren manipulazioan, komunikazio-prozesua desitxuratzeko eta aldatzeko zenbait praktika sartzen dira, iritzi publikoan eragiteko eta aldatzeko. FIMIk (Foreign Information Manipulation and Interference) portaera-eredu bat deskribatzen du; gehienetan ez da legez kanpokoa, baina izaera manipulatzailea du, eta nahita eramaten da aurrera, balio demokratikoetan eta prozesu politikoetan mehatxatzeko edo eragin negatiboa sortzeko.
+
+Bot-ak eta bot-en sarea. Robotaren laburdura. Software-programa bat da, Interneten lan automatizatuak egiteko diseinatua, gizakiaren esku-hartzerik gabe. Robotek denbora errealean erabiltzaileekin elkarreragiteko, datu-bolumen asko maneiatzeko eta hainbat ingurunetara egokitzeko gaitasuna dute. Gaizki erabiliz gero, desinformazioa sortzen da, iritzi publikoa manipulatzen da, identitatea ordezkatzen da, gizabanakoei, erakundeei eta kolektiboei eraso koordinatuak egiten zaizkie, eta joerak bilatzeko emaitzak manipulatzen dira. Roboten sare batek roboten antolaketa masifikatuari egiten dio erreferentzia, sare sozialetan mezu faltsuen sorkuntza masiborako eta hedapenerako koordinatuak, eduki desinformatibo, abusuzko eta bortitzetatik abiatuta
+
+Trola. Identitate erreal ezkutua duen pertsona, mezu probokatzaile edo kaltegarriak nahita argitaratzen dituena, helburu ideologiko zehatz batekin: desinformazioa sortzea, boikota egitea edo elkarrizketa oztopatzea, kaltea eragitea, etab. “Troleatu” terminoarekin ezagutzen dira haren ekintzak. Askotan, modu koordinatuan jarduten dute trolen sare deiturikoetan.
+
+Deepfake-a. Ikus-entzunezko eduki faltsuak, hala nola irudiak, bideoak edo audioak, oso modu errealistan manipulatzeko edo sortzeko aukera ematen duen adimen artifizialeko teknika. Eduki horiek ikaskuntza sakoneko entrenamendu-datuetatik abiatuta sortzen dira (deep learning), eta horrek aukera ematen du pertsona baten aurpegia edo ahotsa beste batenarekin ordezteko, eta, are gehiago, existitzen ez den pertsona bat sortzeko. Deepfake-ak eduki engainagarria sortzeko erabili izan dira, hala nola inoiz gertatu ez ziren gauzak esaten edo egiten ari diren politikarien bideoak.
+
+Oihartzun-kamera. Sinesmen, ideia edo datu lerrokatuak behin eta berriz partekatzen diren ingurunea, eta, hala, sinesmen, ideia eta datu horiek zabaltzen eta indartzen laguntzen duena. Informazioak, egiazkoa edo gezurrezkoa izan, zirkulatu egiten du, eta birzabaldu egiten da, taldekideek zalantzan jarri gabe eta kanpoko ikuspegiekin kontrastatu gabe. Horrek errealitate distortsionatua eta polarizatua sortzen du.
+
+Gas-argia (gaslighting). Abusu- eta manipulazio-estrategia, beste pertsonak errealitateari buruz duen pertzepzioa zalantzan jartzea bilatzen duena. Terminoak Patrick Hamiltonen izen bereko antzezlanean du jatorria, 1938an estreinatua, non gizon batek bere emaztea gaizki tratatzen baitu etxean aldaketa txikiak eginez, gas-argiaren maila kasu, emaztea bere zentzutasunaz zalantza egiten has dadin. Gaur egun, norbaiti behin eta berriz gezurra esateko estrategia adierazteko erabiltzen da, hura manipulatu eta kontrolatzeko.
+
+Polarizazioa. Polarizazioa gizartea ideia, iritzi edo interes kontrajarriak dituzten taldeetan gero eta gehiago banatzea da, eta horrek kontsentsua zaildu eta gatazka soziala areagotu dezake. Era berean, interes-taldeek (adibidez, talde politikoek) erabiltzen duten komunikazio-baliabide bat da, plataforma digitalak ustiatuz eta diskurtsoak erabiliz erabiltzaileak erakartzeko erabiltzen dena; diskurtso horiek gorroto-diskurtsoak eta eduki desinformatiboak izan ditzakete.
+
+Pseudomedioa. Agerkaria, normalean digitala, kazetaritza-hedabideen egitura eta formatuaren antzekoa da, eta kazetaritzaren printzipio etikoak eta estandar profesionalak ez betetzea du ezaugarri. Pseudomedioek polarizazioa, aktibismo ideologikoa, konspirazio-teorien sustapena eta eduki faltsuak, kontrastatu gabeak eta erabat lerratuak edo alderdikoiak zabaltzeko joera orokorra bultzatzen dute.
+
+Gorrotozko diskurtsoa. Etsaitasunezko, gizalegerik gabeko, mehatxuzko, iraingarrizko, diskriminaziozko edo berariazko indarkeriazko hizkuntza erabiltzen duen edozein adierazpide, talde edo pertsona bati erreferentzia egiten diona etnia, nazionalitate, arraza, genero, jatorri, erlijio, zaurgarritasun edo beste identitate-forma batzuen arabera, hala nola ideologia politikoa, hizkuntza, jatorri ekonomiko edo soziala, desgaitasuna, osasun-egoera edo sexu-orientazioa, besteak beste. Artikulu honetan gorrotozko diskurtsoei buruzko azalpen gehiago emango ditugu, eta nola aurre egin azalduko dugu.
+
+TTP; DISARM esparruak. TTP siglek informazioa manipulatzeko testuinguruan erabilitako taktika, teknika eta prozedurei egiten diete erreferentzia. Haien analisiak aukera ematen du mehatxu-aktore baten portaera-ereduak deskribatzeko eta erantzun- eta erreakzio-estrategiak planifikatzeko. TTPek DISARM (Detecting and Responing to Manipulated Media) esparruetan biltzen dira, kode irekiko bi katalogo: Framework Sarea, desinformazioaren esparruan TTP deskribatzeko diseinatua; eta Blue Framework, haien aurrean iradokitako erantzunak zentratzen dituena.
+
+Mehatxu hibridoak eta estrategia hibridoa. Estatuko edo estatuz kanpoko eragileen helburu estrategikoak lortzeko ekintza koordinatuak eta sinkronizatuak. Nahita, aurkaria ahultzea, ezegonkortzea eta kaltetzea bilatzen dute, baita estatuen ahulezia sistemikoak ustiatzea ere. Horretarako, bitarteko ugari erabiltzen eta konbinatzen dituzte (eraso zibernetikoak, informazioa manipulatzeko kanpainak, ezkutuko maniobra politikoak eta taktika militarrak, besteak beste), eta erabakietan eragin nahi dute, maila lokalean, estatalean edo instituzionalean. Batzuetan, “mehatxuak” eta “estrategiak” termino hibridoak erabiltzen dira, baina ez dira gauza bera: lehenak etorkizunean gauza daitezkeen ekintzak dira, eta bigarrenak, berriz, helburu bat lortzeko gauzatzen dira.
+
+Atzerriko eragina - esku-hartzea. Atzerriko esku-hartzea, askotan estrategia hibrido zabalago baten zati gisa egina, estatuko aktore atzerritar batek edo haren agenteek, normalean helburu politikoekin, pertsonen prestakuntza eta borondate edo iritziaren adierazpen askea aztoratzeko egiten dituzten ahalegin hertsatzaile, estali eta engainagarri gisa uler daiteke. Aitzitik, atzerriko eragineko jarduerak modu ireki eta gardenean gauzatzen dira, nazioarteko harremanen eta diplomaziaren alderdi normala dira, eta eztabaida publikoari ekarpen positiboa egiten diote.
+
+Desinformazioaren fenomenoari buruz gehiago jakin nahi baduzu, eta Espainiak eta beste herrialde batzuek fenomeno horri aurre egiteko egiten duten lanari buruz gehiago jakin nahi baduzu, hemen dituzu irakurgai interesgarri gehiago sakontzen jarraitzeko.
+
+Segurtasun Nazionalaren arloko desinformazio-kanpainen aurkako foroa | Segurtasun Nazionalaren Sailaren webgune ofiziala
+
+Europako demokrazia interferentzietatik eta manipulaziotik babestea: Europako Demokraziarako Ekintza Plana
+
+Demokraziaren aldeko Ekintza Plana
+
+Desinformazioaren arloko jardunbide egokien kodea (2022) | Europaren etorkizun digitala konfiguratzea
+
+The Code of Conduct on Disinformation | Shaping Europe's digital future
+
+EBko desinformazioaren aurkako zentroak EBko herrialde guztietara zabaldu dira orain | Europaren etorkizun digitala konfiguratzea
+
+Portugal and Spain, the EU countries most concerned about disinformation, according to the Digital News Report 2025 | Iberifier
+
+Europako Komunikabide Digitalen Behatokia - EDMO | Europaren etorkizun digitala konfiguratzea
+
+EDMO Hubs - EDMO
+
+Gazteei buruzko inkesta 2024 - 2025eko otsaila - Eurobarometroaren inkesta
+
+DISARM Foundation
+
+Gezurrak eta albiste faltsuak (fake news) | Herritarrak | INCIBE

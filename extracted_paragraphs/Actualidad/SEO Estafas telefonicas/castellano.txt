@@ -1,0 +1,39 @@
+Estafas telefónicas y por SMS: protección contra el fraude
+
+Transformación Digital lanza un plan para combatir las estafas telefónicas de suplantación de identidad que incluye actuaciones como la prohibición de llamadas comerciales desde números móvil o el bloqueo de llamadas que manipulan su numeración para esconder su origen.
+
+El Ministerio para la Transformación Digital y de la Función Pública aprobó el 12 de febrero una orden ministerial con un paquete de medidas para erradicar los fraudes por teléfono y SMS. Este plan permitirá a los usuarios identificar las llamadas y mensajes comerciales para no ser víctimas de estafas.
+
+¿Qué es una estafa de suplantación de identidad?
+
+Las estafas telefónicas de suplantación de identidad suelen comenzar con una llamada o un mensaje de texto en los que el emisor suplanta la identidad de una organización de confianza (presentándose, por ejemplo, como una entidad bancaria o como un organismo o empresa de la Administración pública, por ejemplo la DGT) con la clara intención de defraudar, engañando al consumidor para que proporcione algún tipo de información personal o financiera.
+
+Así, en estas llamadas ('vishing') o mensajes ('smishing') se suele pedir al ciudadano, entre otras cosas, que facilite sus claves personales, que acceda a una web o llame a un número telefónico, que realice una trasferencia o que contrate un servicio.
+
+¿Qué impacto tienen estos fraudes?
+
+Este tipo de estafa causa importantes daños financieros y económicos a todos los sectores de la sociedad, especialmente a consumidores, empresas y organismos públicos. Además, disminuyen la confianza de la ciudadanía en las comunicaciones electrónicas, perjudicando a aquellas empresas y organismos que hacen un uso legítimo de llamadas y mensajes de texto como canal de comunicación con el público.
+
+Según datos del Banco de España, el Ministerio del Interior o el Instituto Nacional de Ciberseguridad (INCIBE), estos fraudes se han incrementado en los últimos años. Algunos países europeos, como Finlandia, han puesto en marcha medidas similares a las incluidas en el nuevo Plan con una gran efectividad, ya que se han reducido las estafas por suplantación de identidad en casi un 90%.
+
+¿Qué objetivos tiene este plan?
+
+El objetivo de este paquete de medidas contra el fraude en llamadas y SMS es aumentar la protección de consumidores y empresas ante el creciente número de fraudes a través de este tipo de estafas. Esta meta da cumplimiento al artículo 3 de la Ley General de Telecomunicaciones, de defender los intereses de los usuarios, restaurando la confianza de los consumidores en las comunicaciones electrónicas.
+
+Así, el plan adopta soluciones para evitar que progresen las comunicaciones que manipulan el identificador de línea llamante o el identificador numérico o alfanumérico de los SMS y establece medidas para garantizar la correcta identificación de servicios de atención a clientes y llamadas comerciales.
+
+¿Con qué medidas cuenta?
+
+Bloqueo de numeración no atribuida: los operadores de telefonía deberán bloquear llamadas y SMS con números que no hayan sido atribuidos a ningún servicio, asignados a ningún operador o adjudicados a ningún cliente, como los que comienzan por 3 ó 4.
+
+Bloqueo de llamadas nacionales con origen internacional: se impedirá el uso de números españoles falsificados en llamadas y SMS desde el extranjero, con excepción de clientes en régimen de 'roaming' o itinerancia.
+
+Creación de una base de datos para alfanuméricos en mensajes: se creará un registro de códigos alfanuméricos que gestionará la Comisión Nacional de los Mercados y de la Competencia para evitar que actores no autorizados suplanten a entidades legítimas como bancos o administraciones.
+
+Prohibición de móviles para servicios de atención al cliente y llamadas comerciales no solicitadas: las empresas no podrán usar números móviles para telemarketing. Deberán emplear numeración geográfica o números 800/900, ahora habilitados para emitir llamadas.
+
+¿Cuándo entra en vigor el plan?
+
+El bloqueo de números no atribuidos a ningún servicio entra en vigor 20 días después de la publicación de la orden en el BOE, es decir, el 7 de marzo. Sin embargo, tanto el bloqueo de llamadas y SMS con origen internacional, como la prohibición de las llamadas comerciales no solicitadas desde números móviles, entrarán en vigor el 15 de mayo.
+
+Por otra parte, a partir del 15 de mayo de 2026 entrará en funcionamiento el registro de códigos alfanuméricos y el bloqueo de SMS de origen internacional.

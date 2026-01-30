@@ -1,0 +1,77 @@
+De que falamos cando falamos de desinformación?
+
+Desde 2021, as campañas de desinformación son consideradas en España como un risco para a seguridade nacional. Este risco, lonxe de diminuír, foise consolidando e mesmo gañou importancia e protagonismo nos últimos anos a nivel global. Tanto é así que o informe do Foro Económico Mundial de Davos de 2024 sitúa o fenómeno da desinformación no primeiro lugar na clasificación de riscos globais a curto prazo.
+
+Que é a desinformación e que diferenzas existen?
+
+A desinformación sempre existiu, ao longo da historia da humanidade. Pero a desinformación en contextos dixitais é un fenómeno relativamente recente e en constante evolución, o que significa que cada vez encontremos máis conceptos e termos para referirnos a ela. Moitos son neoloxismos e estranxeirismos que, en ocasións, adoitan ser mal utilizados cando os traducimos ao castelán. Por exemplo, sabías que en inglés se utilizan ata tres palabras para falar de desinformación? malinformation, misinformation e disinformation)? Saberías diferencialas?
+
+O Foro contra as campañas de desinformación no ámbito da Seguridade Nacional, creado en 2022 como unha iniciativa nacional de colaboración público-privada, identificou e definiu 125 conceptos e termos clave para comprender o fenómeno da desinformación, con implicacións para a seguridade nacional e o ámbito dixital. Neste artigo recompilamos vinte dos termos máis habituais, utilizados para describir as técnicas e ferramentas que conforman unha campaña de desinformación.
+
+Loiada. Información falsa ou enganosa que é difundida intencionadamente co obxectivo de manipular ou enganar á audiencia. Trátase dun rumor ou noticia sen fundamento que se espalla rapidamente polas redes sociais e os medios de comunicación. Carece de evidencia ou probas fiables que a sustenten e utilízase para crear confusión, xerar desconfianza ou influír na opinión pública. (Para moitos, as loiadas son as mal chamadas fake news).
+
+Desinformación. Acción ou estratexia que consiste na difusión intencionada de información falsa ou enganosa, descontextualizada ou parcial, co fin de confundir, persuadir e manipular as persoas. A diferenza da información errada, que pode ser incorrecta pero non intencionada, a desinformación é deliberada e busca influír nas opinións, crenzas ou comportamentos da cidadanía. En inglés, disinformation.
+
+Misinformation. Información falsa, errada ou inexacta emitida sen intención de enganar ou manipular. Normalmente é o resultado de erros, neglixencias ou nesgos inconscientes. A diferenza do que ocorre coa disinformation (que si implica a emisión dun contido falso de forma intencionada), a misinformation fai referencia á difusión accidental de información non verídica.
+
+Malinformation. Uso de información verídica ou baseada parcialmente na realidade para causar dano a unha persoa, grupo, organización, institución ou país. Inclúe o uso político de información sensible, a revelación de información persoal ou confidencial ou a publicación de información comprometedora obtida mediante métodos fraudulentos. A pesar de a malinformation estar baseada en información verdadeira, esa información pode estar incompleta, desactualizada ou puido sufrir algún tipo de manipulación a fin de producir descrédito, prexuízo ou menoscabo.
+
+Glosario: termos clave para comprender a desinformación
+
+Verificación (fact-cheking). Acción destinada a verificar a autenticidade de datos ou afirmacións, as fontes das que proceden e a identidade dos seus emisores. É unha ferramenta crucial para combater a desinformación.
+
+Debunking (Desenmascarar/desacreditar). Acción de demostrar a falsidade ou inexactitude dun contido presuntamente desinformativo utilizando estratexias e técnicas de verificación. Quen realiza o proceso de debunking son verificadores ou fact-checkers (debunkers), que etiquetan o contido como falso, enganoso, medio verdadeiro, etc.
+
+Prebunking. Pódese traducir como "pre-desenmascaramento". Conxunto de medidas preventivas, destinadas a inmunizar ou alertar a cidadanía anticipadamente perante mensaxes falsas. É unha práctica empregada principalmente por axencias e organizacións de verificación que promoven a alfabetización mediática.
+
+Alfabetización mediática. É a capacidade de consultar e avaliar criticamente contido nos medios de comunicación, así como de crear contido dixital. Esta competencia implica comprender como funcionan os medios e desenvolver habilidades críticas para interpretar a información que publican. Aplícase tanto a ambientes multimedia dixitais como analóxicos.
+
+Manipulación informativa; FIMI. A manipulación informativa inclúe unha serie de prácticas para distorsionar e alterar o proceso de comunicación co propósito de influír e alterar a opinión pública. FIMI (Foreign Information Manipulation and Interference) describe un padrón de comportamento que na maioría dos casos non é ilegal, mais si é manipular e realizado de maneira intencional, que busca ameazar ou provocar un impacto negativo sobre os valores democráticos e os procesos políticos.
+
+Bot e granxa de bots. Abreviatura de robot. É un programa de software deseñado para realizar tarefas automatizadas en internet, sen intervención humana. Os bots teñen a capacidade de interactuar cos usuarios en tempo real, xestionar grandes volumes de datos e adaptarse a diferentes medios. O seu mal uso é causante de desinformación, manipulación da opinión pública, roubo de identidade, ataques coordinados a individuos, organizacións e colectivos, e manipulación de resultados de busca de tendencias. Unha granxa de bots fai referencia á organización masificada de bots, coordinados para crear e difundir masivamente mensaxes falsas en redes sociais, a partir de contidos desinformativos, abusivos e violentos.
+
+Trol. Persoa con identidade real oculta que publica intencionadamente mensaxes provocativas ou prexudiciais cun obxectivo ideolóxico específico: espallar a desinformación, boicotear ou entorpecer a conversa, causar dano, etc. As súas accións son coñecidas como 'trolear'. A miúdo actúan de xeito coordinado no que se coñece como granxas de trolls.
+
+Deepfake. Técnica de intelixencia artificial que permite manipular ou xerar contido audiovisual falso, como imaxes, vídeos ou audios, dun xeito moi realista. Este contido é creado a partir de datos de adestramento de aprendizaxe profunda (deep learning), o que permite substituír a faciana ou a voz dunha persoa pola doutra, e mesmo crear unha persoa que non existe. Os deepfakes utilizáronse para crear contido enganoso, como vídeos de políticos dicindo ou facendo cousas que nunca sucederon.
+
+Cámara de eco. Ambiente onde as crenzas, ideas ou datos aliñados son compartidos de forma recorrente, promovendo así a súa amplificación e reforzo. A información, sexa verdadeira ou falsa, circula e redistribúese sen ser cuestionada polos membros do grupo, nin contrastada con perspectivas externas, o que crea unha realidade distorsionada e polarizada.
+
+Luz de gas (gaslighting). Estratexia de abuso e manipulación que busca que a outra persoa cuestione a súa propia percepción da realidade. O termo provén da obra de teatro homónima de Patrick Hamilton, estreada en 1938, na que un home maltrata a súa muller facendo pequenos cambios na casa, como o nivel da luz de gas, de xeito que ela comeza a dubidar da súa cordura. Actualmente utilízase para facer referencia á estratexia de mentir repetidamente a alguén co fin de manipulalo e controlalo.
+
+Polarización. A polarización é a crecente división da sociedade en grupos con ideas, opinións ou intereses opostos, o que pode dificultar o consenso e aumentar os conflitos sociais. Do mesmo xeito, é un recurso de comunicación empregado por grupos de interese (p. ex.: grupos políticos) para atraer usuarios mediante a explotación de plataformas dixitais e o uso de discursos que poden incluír discursos de odio e contidos desinformativos.
+
+Pseudomedio. Publicación, xeralmente dixital, que emula os medios xornalísticos na súa estrutura e formato e que se caracteriza por incumprir os principios éticos e os estándares profesionais do xornalismo. Os pseudomedios incitan á polarización, ao activismo ideolóxico, ao fomento de teorías conspirativas e a unha tendencia xeneralizada a difundir contidos falsos, non contrastados e extremadamente parcial ou partidista.
+
+Discurso de odio. Calquera forma de expresión que ataca ou emprega unha linguaxe hostil, incívica, ameazante, ofensiva, discriminatoria ou explicitamente violenta, con referencia a un grupo ou persoa en función da súa etnia, nacionalidade, raza, xénero, ascendencia, relixión, vulnerabilidade ou outras formas de identidade; como a ideoloxía política, o idioma, a orixe económica ou social, a discapacidade, o estado de saúde ou a orientación sexual, entre outras. Neste artigo explicamos máis sobre os discursos de odio e como combatelos.
+
+TTP; marcos DISARM. As siglas TTP fan referencia ás Tácticas, Técnicas e Procedementos empregados nun contexto de manipulación informativa. A súa análise permite a descrición dos padróns de comportamento dun actor de ameaza e planificar estratexias de resposta e reacción. As TTP están recollidos nos marcos DISARM (Detecting and Responding to Manipulated Media), dous catálogos de código aberto: o Red Framework, deseñado para describir TTP no campo da desinformación; e o Blue Framework, que centra as respostas suxeridas perante estas.
+
+Ameazas híbridas e estratexia híbrida. Accións coordinadas e sincronizadas para acadar os obxectivos estratéxicos de actores estatais ou non estatais. Buscan deliberadamente socavar, desestabilizar e prexudicar o adversario, así como explotar as vulnerabilidades sistémicas dos Estados. Para conseguilo, empregan e combinan unha ampla gama de medios (desde ciberataques, campañas de manipulación da información, manobras políticas encubertas e tácticas militares, entre outras) e pretenden influír na toma de decisións a nivel local, estatal ou institucional. Ás veces, os termos 'ameazas' e 'estratexias híbridas' utilízanse indistintamente, pero non son o mesmo: as primeiras son accións que poden materializarse no futuro, mentres que as segundas si que acaban por materializarse para acadar un fin.
+
+Influencia - inxerencia estranxeira. A inxerencia estranxeira, a miúdo realizada como parte dunha estratexia híbrida máis ampla, pode entenderse como os esforzos coercitivos, encubertos e enganosos por parte dun actor estatal estranxeiro ou dos seus axentes para perturbar a libre formación e expresión da vontade ou opinión dos individuos, xeralmente con obxectivos políticos. Pola contra, as actividades de influencia estranxeira son efectuadas de forma aberta e transparente, son un aspecto normal das relacións internacionais e a diplomacia e contribúen positivamente ao debate público.
+
+Se queres saber máis sobre o fenómeno da desinformación e o traballo de España e outros países para combatela, velaquí deixamos algunhas lecturas interesantes para afondar máis no tema.
+
+Foro contra as campañas de desinformación no ámbito da Seguridade Nacional | Sitio oficial do Departamento de Seguridade Nacional
+
+Protexer a democracia europea das interferencias e a manipulación: Plan de Acción para a Democracia Europea
+
+Plan de Acción pola Democracia
+
+Código de boas prácticas en materia de desinformación (2022) | Configurar o futuro dixital de Europa
+
+The Code of Conduct on Disinformation | Shaping Europe's digital future
+
+Os centros de loita contra a desinformación da UE agora esténdense a todos os países da UE | Configurar o futuro dixital de Europa
+
+Portugal and Spain, the EU countries most concerned about disinformation, according to the Digital News Report 2025 | Iberifier
+
+Observatorio Europeo dos Medios Dixitais - EDMO | Configurar o futuro dixital de Europa
+
+EDMO Hubs - EDMO
+
+Enquisa sobre a xuventude 2024 - febreiro de 2025 - Enquisa do Eurobarómetro
+
+DISARM Foundation
+
+Loiadas e novas falsas (fake news) | Cidadanía | INCIBE
